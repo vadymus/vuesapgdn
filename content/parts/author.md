@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Appogeddon** Published by Admin.
+**Appogeddon** Post.

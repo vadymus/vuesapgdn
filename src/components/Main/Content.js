@@ -80,7 +80,12 @@ const styles = theme => ({
     },
     [`@media (min-width: ${theme.mediaQueryTresholds.L}px)`]: {
       fontSize: `${theme.main.fonts.content.sizeL}em`
-    }
+    },
+    "& p img":{
+      float:"right",
+      margin:"0.7rem",
+      borderRadius: "25%"
+    },
   }
 });
 

@@ -3,7 +3,7 @@ const colors = require("../../src/styles/colors");
 module.exports = {
   siteTitle: "Appogeddon - Top iOS Apps for iPhone, iPad Available on the AppStore", // <title>
   shortSiteTitle: "Appogeddon - Top iOS Apps", // <title> ending for posts and pages
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
+  siteDescription: "Appogeddon - Top iOS Apps for iPhone, iPad Available on the AppStore",
   siteUrl: "https://appogeddon.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
@@ -22,7 +22,7 @@ module.exports = {
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "vunet@vunet.us",
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/undefined" },

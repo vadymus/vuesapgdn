@@ -9,6 +9,7 @@ import screenfull from "screenfull";
 
 import HomeIcon from "@material-ui/icons/Home";
 import SearchIcon from "@material-ui/icons/Search";
+import EmailIcon from '@material-ui/icons/Email';
 import ArrowUpwardIcon from "@material-ui/icons/ArrowUpward";
 import FullscreenIcon from "@material-ui/icons/Fullscreen";
 import FullscreenExitIcon from "@material-ui/icons/FullscreenExit";
@@ -138,7 +139,8 @@ class ActionsBar extends React.Component {
           {((isWideScreen && navigatorShape === "open") || navigatorPosition !== "is-aside") && (
             <CategoryFilter categories={categories} filterCategory={this.categoryFilterOnClick} />
           )}
-          <IconButton
+          
+          {/* <IconButton
             aria-label="Search"
             onClick={this.searchOnClick}
             component={Link}
@@ -148,6 +150,18 @@ class ActionsBar extends React.Component {
             className={classes.button}
           >
             <SearchIcon className={classes.button} />
+          </IconButton> */}
+          
+         <IconButton
+            aria-label="Contact"
+            onClick={this.searchOnClick}
+            component={Link}
+            data-shape="closed"
+            to="/contact/"
+            title="Contact"
+            className={classes.button}
+          >
+            <EmailIcon className={classes.button} />
           </IconButton>
         </div>
         <div className={classes.group}>

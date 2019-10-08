@@ -1,5 +1,6 @@
 ---
-title: About
+title: Top Free Apps
+menuTitle: Top Free Apps
 ---
 
 This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.

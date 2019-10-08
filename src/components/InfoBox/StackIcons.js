@@ -13,6 +13,8 @@ import WebpackIcon from "!svg-react-loader!../../images/svg-icons/webpack.svg?na
 import BabelIcon from "!svg-react-loader!../../images/svg-icons/babel.svg?name=BabelIcon";
 import NetlifyIcon from "!svg-react-loader!../../images/svg-icons/netlify.svg?name=NetlifyIcon";
 
+import appIcon360nyc from "../../images/360nyc-icon-rounded.png";
+
 const styles = theme => ({
   stack: {
     display: "none",
@@ -22,7 +24,17 @@ const styles = theme => ({
       left: 0,
       bottom: 0,
       width: "100%",
-      padding: "1em 2em"
+      padding: "1em 2em",
+
+      // VU: added box shadow
+      background: "#f1f1f1",
+      width: "94%",
+      margin: "3%",
+      border: "5px solid white",
+      boxShadow: "0 0 10px rgba(0, 0, 0, 0.3)",
+      "-moz-box-shadow": "0 0 10px rgba(0, 0, 0, 0.3)",
+      "-webkit-box-shadow": "0 0 10px rgba(0, 0, 0, 0.3)"
+
     }
   },
   box: {
@@ -45,6 +57,31 @@ const styles = theme => ({
     width: "100%",
     margin: "0 0 .8em 0",
     fontWeight: 300
+  },
+  adContainer: {
+    width: "100%"
+  },
+  thumbContainer: {
+    width: "40%",
+    float: "left",
+    "& img": {width: "100%"}
+  },
+  titleContainer: {
+    width: "60%",
+    float: "left",
+    padding: "0 3%",
+    
+    "& h3":{
+      margin: "0 1%",
+      color: "red",
+      fontSize: "1.7em"
+    },
+    "& p":{
+      fontSize: "1em",
+      color: "#555",
+      margin: "2%",
+      lineHeight: "120%"
+    }
   }
 });
 
@@ -66,8 +103,23 @@ const StackIcons = props => {
 
   return (
     <div className={classes.stack}>
+      <div className={classes.adContainer}>
+        <div className={classes.thumbContainer}>
+          <a target="_blank" href="https://apps.apple.com/us/app/3d-nyc/id1260422375?ls=1">
+            <img src={appIcon360nyc}/>
+          </a>
+        </div>
+        <div className={classes.titleContainer}>
+          <a target="_blank" href="https://apps.apple.com/us/app/3d-nyc/id1260422375?ls=1">
+            <h3>360 NYC</h3>
+            <p>New York City Augmented Reality Map</p>
+          </a>
+        </div>
+      </div>
+      {/*
       <h5 className={classes.header}>built with:</h5>
-      <div className={classes.box}>
+
+       <div className={classes.box}>
         {items.map(item => {
           const Icon = item.comp;
           return (
@@ -83,8 +135,8 @@ const StackIcons = props => {
             </a>
           );
         })}
-      </div>
-    </div>
+      </div>*/}
+    </div> 
   );
 };
 
