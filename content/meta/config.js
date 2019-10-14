@@ -25,8 +25,8 @@ module.exports = {
   contactEmail: "vunet@vunet.us",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/undefined" },
-    { name: "twitter", url: "https://twitter.com/undefined" },
-    { name: "facebook", url: "https://facebook.com/undefined" }
+    // { name: "github", url: "https://github.com/vadymus" },
+    { name: "twitter", url: "https://twitter.com/VunetApps" },
+    { name: "facebook", url: "https://www.facebook.com/Appogeddon-118492822889970/" }
   ]
 };

@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps In Travel in October 2019
+subTitle: Top 5 Grossing iOS Apps In Travel and Reviews from the AppStore in October 2019.
+category: "top 5 grossing ios apps in travel"
+cover: main.png
+---
+
+### My Disney Experience
+
+![My Disney Experience](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/28/fd/8d/28fd8d53-a881-0613-bbd7-4d1abcc55dbb/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png)The winning spot belongs to My Disney Experience. The develoer Disney says the following about the app. _The official Walt Disney World® app! Now it’s easier than ever to plan and share your vacation details—at home and on the go.   -  Quickly access real-time wait times, park hours, Character greetings, parade showtimes and more.  - Use the interactive, GPS-enabled map to explore Walt Disney World Resort and easily see the dining options, attractions and more nearest to you.  - Find your way around with step-by-step directions to locations across Walt Disney World Resort.  - Purchase your theme park tickets.†   - Buy merchandise from Shop Disney Parks on the app. Browse keepsakes, find items in the park and ship to most U.S. addresses.  - Browse restaurant menus, make dining reservations, modi_...
+
+### Mobile Passport
+
+![Mobile Passport](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/84/97/91/849791e3-ee89-63b5-6aa1-1dcf316d8b87/AppIcon_release-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Mobile Passport. The develoer Airside Mobile LLC says the following about the app. _Mobile Passport enables U.S. passport holders and Canadian visitors to save time during the entry process at more than 30 major U.S. airports and cruise ports! Securely submit your passport and customs declaration form and access designated lanes in the inspection area. ***Now available from Mobile Passport*** Mobile Passport plus ($14.99 annually) provides even greater convenience with features to digitally scan and store passports in preparation for your next trip. "... makes clearing US customs a breeze." - CNBC "... the best-kept secret in air travel." - Washington Post “... the godsend you need.” - Forbes   How it works: 1. Download the app_...
+
+### iTranslate Converse
+
+![iTranslate Converse](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d2/03/27/d2032797-b1f4-4899-cf46-1bea68804d53/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes iTranslate Converse. The develoer iTranslate says the following about the app. _Turn your iPhone into a translation device!    Introducing iTranslate Converse, a revolutionary new speech translation App. iTranslate Converse turns your iPhone and Apple Watch into a two-way translation device. The simple design enables natural conversations in 38 languages, and automatically detects the correct language between two selected languages for a fast and accurate translation.  Speak directly into your iPhone’s microphone and dramatically improve results as well as create a more natural conversation experience. It literally turns your iPhone into the first real translation device.  SIMPLE & EASY Tap & Hold to Speak. Release to Translate_...
+
+### Flightradar24 | Flight Tracker
+
+![Flightradar24 | Flight Tracker](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/9f/53/e19f53de-4fb5-37d8-4f12-ed733def9532/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/100x100bb.png)The next place is taken by Flightradar24 | Flight Tracker. The develoer Flightradar24 AB says the following about the app. _“The Facebook of Aviation” — Wall Street Journal #1 app in over 130 countries Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.  •Watch aircraft move around the world in real-time •Identify flights overhead & see flight information—including a photo of the actual aircraft—by simply pointing your device at the sky  •See what the pilot of an aircraft sees in 3D  •Tap on a plane for flight details such as rou_...
+
+### Disneyland®
+
+![Disneyland®](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/d3/29/46/d329468e-90e5-e3ab-5e07-4d0fe1732d86/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/100x100bb.png)Next comes Disneyland®. The develoer Disney says the following about the app. _Download the official app for the Disneyland® Resort! Enhance your next visit with an enchanting mobile experience. Buy your tickets, see wait times, browse maps, check FASTPASS return times, locate Disney Characters appearing throughout the parks and much more!  - See Info in a Flash: See upcoming plans and relevant park info with your dynamic home screen feed.  - Check Wait Times: See attraction wait times for Disneyland Park and Disney California Adventure Park at a glance.  - Skip the Ticket Lines: Buy park tickets* with the app and show your barcode at the gate for admission when you first get to the park! No ticket booth lines to stand in or e-tickets to print out_...
+
