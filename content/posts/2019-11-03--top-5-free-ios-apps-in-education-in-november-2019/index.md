@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps In Education in November 2019
+subTitle: Top 5 Free iOS Apps In Education and Reviews from the AppStore in November 2019.
+category: "top 5 free ios apps in education"
+cover: main.png
+---
+
+### Duolingo
+
+![Duolingo](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cb/1f/53/cb1f534e-1a96-d3b1-f16d-dad1468f8a75/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png)The winner of the battle is Duolingo. The developer Duolingo says the following about the app. _Join over 300 million learners on Duolingo, the most popular way to learn languages! It’s free, fun and effective. The secret? Duolingo feels like a game and makes sure you stay motivated.  Over 30 languages to choose from - all completely free!  • "Far and away the best language-learning app." — The Wall Street Journal  • "A single app for language skills, self-improvement and digital escape." - The New York Times  • "Duolingo may hold the secret to the future of education." — TIME Magazine  • "...Duolingo is cheerful, lighthearted and fun..." - Forbes  Duolingo is changing the way people learn languages using advanced technology to personalize every lesson for you_...
+
+### Photomath
+
+![Photomath](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5f/74/16/5f7416c0-6d5e-d0e9-8ce1-7a932ddfb021/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math education app on the planet. Photomath is FREE and works without wi-fi or data. Whether you’re on the bus, in a cave or just offline, core Photomath is always available, because data matters.  From basic arithmetic to advanced calculus and geometry, learn with Photomath. Understand core concepts to help you advance in math and feel confident in class!  KEY FEATURES     ●    NEW! Word problem explanations!     ●    No internet or data required       ●    Free to use     ●    Step-by-step explanations for every solution      ●    Exclusive how-to animations     ●    Scroll through multiple solving met_...
+
+### Google Classroom
+
+![Google Classroom](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/d4/75/b6d47521-c738-aa81-bacc-e64a134e9abf/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png)Next on the list is Google Classroom. The developer Google LLC says the following about the app. _Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.  Classroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organized.  Students can keep track of what’s due on the Assignments page and beg_...
+
+### Math Learner: Fun Brain Games
+
+![Math Learner: Fun Brain Games](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/21/27/9b212740-78c7-9a30-33ce-9dcfd010055f/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.jpeg/100x100bb.png)Next on the list is Math Learner: Fun Brain Games. The developer Fun Games For Free says the following about the app. _Have fun while learning math with this amazing app with a proven methodology. Work through the levels and learn the basics for a solid mathematics understanding!  Features: - Learn mathematics and improve your skills! - Study through the levels and master the main mathematical operations! New content will be added in the future!  App subscription: You can subscribe for access to the full list of Math lessons. Payment will be charged to iTunes Account at confirmation of purchase. You will be able to do all exercises for the duration of the subscription. Subscription automatically renews for the same price and duration period as the original "one week"/"one month"/"one year" package unless aut_...
+
+### Elevate - Brain Training
+
+![Elevate - Brain Training](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/cd/93/e8cd934f-f9aa-7ed4-7d50-eacc442494f5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Elevate - Brain Training. The developer Elevate, Inc. says the following about the app. _Elevate was selected by Apple as App of the Year!  Elevate is a brain training program designed to improve focus, speaking abilities, processing speed, memory, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.   The more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. Users who train at least 3 times per week have reported dramatic gains and increased confidence.  FEATURES   • 35+ games for critical cognitive skills like focus, memory, processing, math, precision, and comprehension  • Detailed performance tracking  _...
+
