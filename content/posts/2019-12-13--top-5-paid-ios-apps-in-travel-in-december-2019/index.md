@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Travel in December 2019
+subTitle: Top 5 Paid iOS Apps in Travel and Reviews from the AppStore in December 2019.
+category: "top 5 paid ios apps in travel"
+cover: main.png
+---
+
+### HappyCow Find Vegan Food
+
+![HappyCow Find Vegan Food](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/e0/c8/e2/e0c8e22c-0505-0d6c-0c9c-33525ae8a225/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to HappyCow Find Vegan Food. The developer HappyCow says the following about the app. _Since 1999, HappyCow has helped users  find 108,000+ restaurants, cafes, and grocery stores in 180+ countries. Read 500,000+ reviews and see 500,000+ photos posted by our awesome community! With HappyCow, you can search for vegan-friendly bakeries, health food stores, catering, farmers markets, juice bars, and coffee shops!  ► SEARCH: • Filter by Vegan, Vegetarian, Gluten-Free, cuisine type, and more! • Easily search near you, or nearby an address (perfect for planning a trip!)  • Plan your travels by using our  interactive map and saving places for offline viewing • Find popular and undiscovered eateries with keywords and cuisine filters: perfect for foodie adventures and Instagram pics!  •_...
+
+### OBD Fusion
+
+![OBD Fusion](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/24/89/31/248931ee-333a-b2ce-ae4d-9bbc75e0a3cf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png)The second place belongs to OBD Fusion. The developer OCTech, LLC says the following about the app. _OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone, iPod Touch, or iPad. You can clear your check engine light, create customized dashboards, read diagnostic trouble codes, estimate fuel economy, and much more! OBD Fusion is also available for Apple Watch!  Is your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits_...
+
+### Road to Hana Maui GyPSy Guide
+
+![Road to Hana Maui GyPSy Guide](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a1/d7/ff/a1d7ff16-8796-0adb-623b-291869193e42/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/100x100bb.png)The next place is taken by Road to Hana Maui GyPSy Guide. The developer GPS Tour Guide says the following about the app. _GyPSy Guide’s narrated driving tour for the Road to Hana, Maui is an excellent way to enjoy all the benefits of a guided tour while you explore at your own pace.  There are 140+ audio points that play automatically along the scenic drive, featuring the best things to see and do, stories, tips and driving directions.    Professional tour guides share advice on how to prioritize your time at recommended “not to be missed” viewpoints, suggested side-trips and places of interest.  Tours work offline, using free GPS signal and location services, so no data roaming, network, or wifi is required while touring.  Visit www.gypsyguide.com for route maps, sample audio, tips and advice and what to know _...
+
+### MarineTraffic - Ship Tracking
+
+![MarineTraffic - Ship Tracking](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/30/dd/3e/30dd3e00-6d4f-a7d1-dd6b-e7ce453a8364/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/100x100bb.png)The next place is taken by MarineTraffic - Ship Tracking. The developer MarineTraffic.com says the following about the app. _MarineTraffic displays near real-time positions of ships and yachts worldwide.  Using the largest network of land-based AIS receivers, the app covers most major ports and shipping routes.  • View VESSELS ON THE LIVE MAP, search for ships, boats and seaports and see what's near you! • More than 170,000 VESSELS PER DAY report their positions via MarineTraffic AIS • View live wind and 48-hour WIND FORECASTS on the map • ANIMATED PLAYBACK of vessel's track • PORT ARRIVALS & DEPARTURES live for over 4,000 ports and marinas, current conditions in ports and estimated time of arrival for the boats & ships. • Manage your list of vessels ("MY FLEET"), shared with all your devices and MarineTraffic_...
+
+### PeakFinder AR
+
+![PeakFinder AR](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/4e/aa/05/4eaa05a5-dd34-b68b-5582-01267f1fd65d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is PeakFinder AR. The developer Fabio Soldati says the following about the app. _The mountains are calling! Explore more mountains than any mountaineer! PeakFinder makes it possible… and shows the names of all mountains and peaks with a 360° panorama display. This functions completely offline - and worldwide!  PeakFinder knows more than 650'000 peaks - from Mount Everest to the little hill around the corner.  ••••••••• Winner of several prizes like 'Best of AppStore', 'App of the Week', … Highly recommended by macnewsworld.com, nationalgeographic.com, smokinapps.com, outdoor-magazin.com, themetaq.com, digital-geography.com, … •••••••••   ••• Features •••  • Works offline and worldwide • Includes more than 650'000 peak names • Overlays the camera image with the panorama d_...
+

@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Education in December 2019
+subTitle: Top 5 Free iOS Apps in Education and Reviews from the AppStore in December 2019.
+category: "top 5 free ios apps in education"
+cover: main.png
+---
+
+### Photomath
+
+![Photomath](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/30/e9/e9/30e9e90c-570e-cd5a-5317-f39036f5fe1f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math education app on the planet. Photomath is FREE and works without wi-fi or data. Whether you’re on the bus, in a cave or just offline, core Photomath is always available, because data matters.  From basic arithmetic to advanced calculus and geometry, learn with Photomath. Understand core concepts to help you advance in math and feel confident in class!  KEY FEATURES     ●    NEW! Word problem explanations!     ●    No internet or data required       ●    Free to use     ●    Step-by-step explanations for every solution      ●    Exclusive how-to animations     ●    Scroll through multiple solving met_...
+
+### Google Classroom
+
+![Google Classroom](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/5f/df/0e5fdf03-7785-f6bf-5a6d-d53d40c7cec0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png)The second spot on a top list belongs to the app Google Classroom. The developer Google LLC says the following about the app. _Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.  Classroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organized.  Students can keep track of what’s due on the Assignments page and beg_...
+
+### Kahoot! Play & Create Quizzes
+
+![Kahoot! Play & Create Quizzes](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/19/67/e1/1967e154-beeb-d85c-22a0-fbd7081d366a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Kahoot! Play & Create Quizzes. The developer Kahoot! AS says the following about the app. _Create your own quizzes in seconds, play anywhere, anytime, on your own or with friends, have fun and LEARN! Kahoot! unleashes the magic of learning for students, teachers, office superheroes, trivia fans and lifelong learners.   Our app has a whole bunch of superpowers! Here are a few of them:  Quiz creation app Creativity can spark anytime! Create a game in minutes, even if you’re on the go. This works great for student projects and can also be a hot hit at parties when you want to surprise your friends.   Live game app Join kahoots hosted live - for example, in classrooms - use the app as the game controller, and win medals! Or, put your quizmaster’s hat on: host your own game for others _...
+
+### Quizlet
+
+![Quizlet](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/3c/06/bd3c0653-a0cc-60c1-5418-cb0e653a2fe6/AppIcon-production-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Quizlet. The developer Quizlet Inc says the following about the app. _Quizlet is the easiest way to study, practice and master what you’re learning. Create your own flashcards or choose from millions created by other students. More than 50 million students study for free with the Quizlet app each month!  With the Quizlet flashcards app you can:  - Get test-day ready with Learn - Learn with flashcards - Put your memory to the test with Write - Race against the clock in a game of Match - Share flashcards with friends, classmates or students - Learn Spanish and other foreign languages - Listen to your material pronounced correctly in 18 languages - Learn about science, math, history, coding and more  From foreign language, history and science classes to standardi_...
+
+### Duolingo
+
+![Duolingo](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/d6/cf/75d6cfc8-afb8-5dd8-02d7-83daf4323950/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Duolingo. The developer Duolingo says the following about the app. _Join over 300 million learners on Duolingo, the most popular way to learn languages! It’s free, fun and effective. The secret? Duolingo feels like a game and makes sure you stay motivated.  Over 30 languages to choose from - all completely free!  • "Far and away the best language-learning app." — The Wall Street Journal  • "A single app for language skills, self-improvement and digital escape." - The New York Times  • "Duolingo may hold the secret to the future of education." — TIME Magazine  • "...Duolingo is cheerful, lighthearted and fun..." - Forbes  Duolingo is changing the way people learn languages using advanced technology to personalize every lesson for you_...
+

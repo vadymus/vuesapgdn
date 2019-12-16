@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Productivity in December 2019
+subTitle: Top 5 Free iOS Apps in Productivity and Reviews from the AppStore in December 2019.
+category: "top 5 free ios apps in productivity"
+cover: main.png
+---
+
+### Gmail - Email by Google
+
+![Gmail - Email by Google](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/e9/93/6ee99395-ff28-377f-0c32-d634480358eb/logo_gmail_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Gmail - Email by Google. The developer Google LLC says the following about the app. _The official Gmail app brings the best of Gmail to your iPhone or iPad with real-time notifications, multiple account support and search that works across all your mail.  With the Gmail app, you can: • Undo Send, to prevent embarrassing mistakes • Switch between multiple accounts • Get notified of new mail fast, with notification center, badge and lock screen options • Search your mail faster with instant results, predictions as you type & spelling suggestions • Swipe to archive/delete, to quickly clear out your inbox • Read your mail with threaded conversations • Auto-complete contact names as you type from your Google contacts or your phone • Respond to Google Calendar invites right from t_...
+
+### Google Docs: Sync, Edit, Share
+
+![Google Docs: Sync, Edit, Share](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/25/b1/df/25b1dfa8-18e7-4a50-067e-ee13ac4ce03f/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png)The second spot on a top list belongs to the app Google Docs: Sync, Edit, Share. The developer Google LLC says the following about the app. _Create, edit, and collaborate on the go with the Google Docs app.   Work together in real time * Share documents with your team * Edit, comment and add action items in real time  * Never lose changes or previous versions of your document with version history   Create anywhere, anytime—even offline  * Capture spontaneous ideas on the fly * Get things done, even on the plane, with offline mode  * Save time and add polish with easy-to-use templates   Search Google right in Docs  * Use Google Search without leaving your document  * Search all of your files in Drive, right in Docs   Edit and share multiple file types  * Open a variety of files, including Microsoft Word files, right in Google Docs_...
+
+### Google Drive
+
+![Google Drive](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/41/60/b4/4160b403-694b-f44b-f203-acb89fe152b5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png)The next place is taken by Google Drive. The developer Google LLC says the following about the app. _Get started with Google Drive for free and have all your files within reach from any smartphone, tablet, or computer. All your files in Drive – like your videos, photos, and documents – are backed up safely so you can’t lose them. Easily invite others to view, edit, or leave comments on any of your files or folders.  With Drive, you can:  • View documents, PDFs, photos, videos, and more • Search for files by name and content • Easily share files and folders with others • Set sharing permissions to view, comment, or edit • Quickly access recent files • See file details and activity  • Enable viewing of files offline  Google accounts get 15GB of storage free, shared across Google Drive, Gmail,_...
+
+### Google Slides
+
+![Google Slides](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/16/ec/dc/16ecdcb5-fe91-067f-fd2c-c8abd7c3522c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png)Next comes Google Slides. The developer Google LLC says the following about the app. _Create, edit, and collaborate with others on presentations from your iPod, iPhone, or iPad with the free Google Slides app. With Google Slides you can:  * Create new presentations or edit any that were created on the web or on another device * Share presentations and work together with others in the same presentation at the same time * Get stuff done anytime -- even without an internet connection * Add and rearrange slides, format text and shapes, and more * Present right from your device * Never worry about losing your work -- everything is automatically saved as you type * Present slides to video calls - scheduled meetings will automatically appear * Open, edit, and save PowerPoint files  _...
+
+### Microsoft Outlook
+
+![Microsoft Outlook](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/36/a2/e4/36a2e4bc-9519-4c6f-a69f-2705fd793950/AppIcon-outlook.prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Microsoft Outlook. The developer Microsoft Corporation says the following about the app. _Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it's staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organized, and connected self.  Here's what you'll love about Outlook for iOS:  - Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.  - Swipe to quickly schedule, delete and archive messages.  - Share your meeting availability with just a tap and easily find times to meet with others.  - Find everything you're looking for with our new search experience, including files, contacts, and your upcoming trips_...
+

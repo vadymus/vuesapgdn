@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Utilities in December 2019
+subTitle: Top 5 Grossing iOS Apps in Utilities and Reviews from the AppStore in December 2019.
+category: "top 5 grossing ios apps in utilities"
+cover: main.png
+---
+
+### RoboKiller: Block Spam Calls
+
+![RoboKiller: Block Spam Calls](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a0/a6/43/a0a64377-7a95-1fdc-29b2-6c4673ff70f3/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png)The winner of the battle is RoboKiller: Block Spam Calls. The developer TelTech Systems says the following about the app. _RoboKiller is the award-winning app that blocks spam calls. Stop your phone from ringing with annoying, unwanted calls - and make spammers think twice about trying again. With Robokiller, you’ll reduce spam by 90% in your first 30 days.   But wait - there's more! RoboKiller doesn't just block robocallers and spammers, we annoy the hell out of them, too. Our Answer Bots will send spam calls to lengthy recorded messages, so they can see what it feels like to have time wasted. Finally, get that oh-so-sweet revenge on robocallers.   Want to make sure you don't miss an important call? Easily manage incoming callers from any phone number with RoboKiller's custom block and allow lists_...
+
+### New Emoji & Fonts - RainbowKey
+
+![New Emoji & Fonts - RainbowKey](https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/7a/aa/d47aaa1a-cc8c-accf-3621-45e0a6441443/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/100x100bb.png)The second place is taken by New Emoji & Fonts - RainbowKey. The developer ONE App Essentials says the following about the app. _Express your emotions with 5000+ New, Animated, 3D emojis & stickers. Keyboard Themes, Funny GIFs and Stylish Fonts are also available in RainbowKey!  Customize your own keyboard with your favorite pictures! With RainbowKey integrated, you can create your keyboard with cool fonts, colorful pictures and cute emoji!  RainbowKey provides all the awesome features you want: • Create your own keyboard with your favorite pictures • Decorate your keyboard with 40+ beautiful fonts and colors • Create personal live avatar - Create your personal avatar animated emojis • 10+ Built-in themes to choose from • 30+ Stylish fonts to decorate your words • Swipe input, enjoy one-handed typing • Smart emoji pre_...
+
+### Fonts
+
+![Fonts](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/a6/9d/a9a69d9f-d7c2-1eee-9db7-63899ce86f4e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png)Next on the list is Fonts. The developer Fonts LLC says the following about the app. _Amazing custom fonts that works in ANY app. Works with Instagram, WhatsApp, Snapchat and many more apps! Just open the Fonts keyboard and type away.   •As seen on Instagram  •Incredibly easy to use keyboard.  •New fonts added regularly.    ———————————————————————————   You can unlock all fonts and emojis through auto-renewing subscription and if you want to continue getting premium features, your subscription should be continued.  Payment will be charged to your iTunes Account at confirmation of purchase.  Your subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current subscription.  Your account will be charged for a renewed subscript_...
+
+### QR Code Reader ·
+
+![QR Code Reader ·](https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/de/01/21/de012158-b2cd-48e9-afa0-5bae7b5db96b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png)Then, we have QR Code Reader ·. The developer TinyLab says the following about the app. _The best app to scan QR Code and Barcode!  More than 15 types supported : QR Code, Barcode, Datamatrix, Code128, Code39, EAN-8, EAN-13, Google Auth  With powerful features : - Products & food detailed informations - QR Code detailed data cards - Scan history - Folders to stay organized - Batch Scan - CSV Export  SUBSCRIPTIONS  - You can subscribe for PRO account with unlimited scans, products infos and no ads - Subscription options are: 1-month with 3-day trial, 3-month, 1-year  - Subscription automatically renews for the same price and duration period as the original "one month", "one quarter", "one year" package unless auto-renew is turned off at least 24-hours before the end of the curren_...
+
+### Avatar Keyboard-Themes, Emojis
+
+![Avatar Keyboard-Themes, Emojis](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/98/07/55/980755c4-e7b4-fc89-ee55-f5c5b391d65a/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-85-220.png/100x100bb.png)The next place is taken by Avatar Keyboard-Themes, Emojis. The developer Joali Holdings Limited says the following about the app. _~Take a selfie and create an Avatar of anyone~ ~Customize your keyboard elements~ ~Let you know your future face~ ~Update to new themes every week~ ~Share funny Avatar emojis to your friends~  Avatar Keyboard is your personalized keyboard that makes funny Avatar emojis.  【Avatar emojis】Wanna express your love more passionately? Are words not strong enough to show your anger? Need more facial expressions in a boring chat? Avatar Keyboard helps convey all your emotions with unique & funny Avatar emojis.First, create an Avatar of you by easily taking a selfie or choosing a photo of yourself from gallery. Second, to make a better "MeMoji", you can choose your Avatar in either editable cartoon st_...
+
