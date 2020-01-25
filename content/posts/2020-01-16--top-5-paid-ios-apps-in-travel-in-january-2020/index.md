@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Travel in January 2020
+subTitle: Top 5 Paid iOS Apps in Travel and Reviews from the AppStore in January 2020.
+category: "top 5 paid ios apps in travel"
+cover: main.png
+---
+
+### LiveATC Air Radio
+
+![LiveATC Air Radio](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/91/0d/0b910d37-3a1e-246f-79e3-fb9e46bc3206/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winner of the battle is LiveATC Air Radio. The developer LiveATC.net says the following about the app. _LiveATC Air Radio is brought to you by LiveATC.net PLEASE READ ***IMPORTANT NOTICE*** BELOW **BEFORE** PURCHASING  This notice relates to countries not covered by the LiveATC.net system  Stuck in the airport terminal and want to know why you're delayed? Live near an airport or enjoy plane-spotting and want to tune in to the pilots and the control tower? Have you always wondered what pilots talk to air traffic controllers about? Now you can stop wondering and tune in live!  LiveATC Air Radio provides a quick and easy way to listen in on live conversations between pilots and air traffic controllers near many airports around the world. LiveATC Air Radio lets you easily browse by U.S_...
+
+### OBD Fusion
+
+![OBD Fusion](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7f/ec/74/7fec740d-09bb-3fe1-1828-384fde2b2269/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png)The second spot on a top list belongs to the app OBD Fusion. The developer OCTech, LLC says the following about the app. _OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone, iPod Touch, or iPad. You can clear your check engine light, create customized dashboards, read diagnostic trouble codes, estimate fuel economy, and much more! OBD Fusion is also available for Apple Watch!  Is your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits_...
+
+### MarineTraffic - Ship Tracking
+
+![MarineTraffic - Ship Tracking](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/30/dd/3e/30dd3e00-6d4f-a7d1-dd6b-e7ce453a8364/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/100x100bb.png)Next comes MarineTraffic - Ship Tracking. The developer MarineTraffic.com says the following about the app. _MarineTraffic displays near real-time positions of ships and yachts worldwide.  Using the largest network of land-based AIS receivers, the app covers most major ports and shipping routes.  • View VESSELS ON THE LIVE MAP, search for ships, boats and seaports and see what's near you! • More than 170,000 VESSELS PER DAY report their positions via MarineTraffic AIS • View live wind and 48-hour WIND FORECASTS on the map • ANIMATED PLAYBACK of vessel's track • PORT ARRIVALS & DEPARTURES live for over 4,000 ports and marinas, current conditions in ports and estimated time of arrival for the boats & ships. • Manage your list of vessels ("MY FLEET"), shared with all your devices and MarineTraffic_...
+
+### HappyCow Find Vegan Food
+
+![HappyCow Find Vegan Food](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b1/67/ef/b167ef22-e0e3-e959-745b-80dcdcfd79c6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is HappyCow Find Vegan Food. The developer HappyCow says the following about the app. _Since 1999, HappyCow has helped users  find 108,000+ restaurants, cafes, and grocery stores in 180+ countries. Read 500,000+ reviews and see 500,000+ photos posted by our awesome community! With HappyCow, you can search for vegan-friendly bakeries, health food stores, catering, farmers markets, juice bars, and coffee shops!  ► SEARCH: • Filter by Vegan, Vegetarian, Gluten-Free, cuisine type, and more! • Easily search near you, or nearby an address (perfect for planning a trip!)  • Plan your travels by using our  interactive map and saving places for offline viewing • Find popular and undiscovered eateries with keywords and cuisine filters: perfect for foodie adventures and Instagram pics!  •_...
+
+### Road to Hana Maui GyPSy Guide
+
+![Road to Hana Maui GyPSy Guide](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a1/d7/ff/a1d7ff16-8796-0adb-623b-291869193e42/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/100x100bb.png)Then, we have Road to Hana Maui GyPSy Guide. The developer GPS Tour Guide says the following about the app. _GyPSy Guide’s narrated driving tour for the Road to Hana, Maui is an excellent way to enjoy all the benefits of a guided tour while you explore at your own pace.  There are 140+ audio points that play automatically along the scenic drive, featuring the best things to see and do, stories, tips and driving directions.    Professional tour guides share advice on how to prioritize your time at recommended “not to be missed” viewpoints, suggested side-trips and places of interest.  Tours work offline, using free GPS signal and location services, so no data roaming, network, or wifi is required while touring.  Visit www.gypsyguide.com for route maps, sample audio, tips and advice and what to know _...
+

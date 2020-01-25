@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Utilities in January 2020
+subTitle: Top 5 Grossing iOS Apps in Utilities and Reviews from the AppStore in January 2020.
+category: "top 5 grossing ios apps in utilities"
+cover: main.png
+---
+
+### RoboKiller: Block Spam Calls
+
+![RoboKiller: Block Spam Calls](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/42/d5/96/42d59618-658a-dff4-3503-e1f41891be57/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png)The first place is taken by RoboKiller: Block Spam Calls. The developer TelTech Systems says the following about the app. _RoboKiller is the award-winning app that blocks spam calls. Stop your phone from ringing with annoying, unwanted calls - and make spammers think twice about trying again. With Robokiller, you’ll reduce spam by 90% in your first 30 days.   But wait - there's more! RoboKiller doesn't just block robocallers and spammers, we annoy the hell out of them, too. Our Answer Bots will send spam calls to lengthy recorded messages, so they can see what it feels like to have time wasted. Finally, get that oh-so-sweet revenge on robocallers.   Want to make sure you don't miss an important call? Easily manage incoming callers from any phone number with RoboKiller's custom block and allow lists_...
+
+### Fonts
+
+![Fonts](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/a6/9d/a9a69d9f-d7c2-1eee-9db7-63899ce86f4e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/100x100bb.png)The second place is taken by Fonts. The developer Fonts LLC says the following about the app. _Amazing custom fonts that works in ANY app. Works with Instagram, WhatsApp, Snapchat and many more apps! Just open the Fonts keyboard and type away.   •As seen on Instagram  •Incredibly easy to use keyboard.  •New fonts added regularly.    ———————————————————————————   You can unlock all fonts and emojis through auto-renewing subscription and if you want to continue getting premium features, your subscription should be continued.  Payment will be charged to your iTunes Account at confirmation of purchase.  Your subscription automatically renews unless auto-renewal is turned off at least 24 hours before the end of the current subscription.  Your account will be charged for a renewed subscript_...
+
+### New Emoji & Fonts - RainbowKey
+
+![New Emoji & Fonts - RainbowKey](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/ec/41/e6ec41df-4858-c416-62ff-19998ad43526/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/100x100bb.png)Rolling up next is New Emoji & Fonts - RainbowKey. The developer ONE App Essentials says the following about the app. _Express your emotions with 5000+ New, Animated, 3D emojis & stickers. Keyboard Themes, Funny GIFs and Stylish Fonts are also available in RainbowKey!  Customize your own keyboard with your favorite pictures! With RainbowKey integrated, you can create your keyboard with cool fonts, colorful pictures and cute emoji!  RainbowKey provides all the awesome features you want: • Create your own keyboard with your favorite pictures • Decorate your keyboard with 40+ beautiful fonts and colors • Create personal live avatar - Create your personal avatar animated emojis • 10+ Built-in themes to choose from • 30+ Stylish fonts to decorate your words • Swipe input, enjoy one-handed typing • Smart emoji pre_...
+
+### QR Code Reader ·
+
+![QR Code Reader ·](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/69/39/00/6939004d-21c6-556a-f994-183fed348628/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png)Next comes QR Code Reader ·. The developer TinyLab says the following about the app. _The best app to scan QR Code and Barcode!  More than 15 types supported : QR Code, Barcode, Datamatrix, Code128, Code39, EAN-8, EAN-13, Google Auth  With powerful features : - Products & food detailed informations - QR Code detailed data cards - Scan history - Folders to stay organized - Batch Scan - CSV Export  SUBSCRIPTIONS  - You can subscribe for PRO account with unlimited scans, products infos and no ads - Subscription options are: 1-month with 3-day trial, 3-month, 1-year  - Subscription automatically renews for the same price and duration period as the original "one month", "one quarter", "one year" package unless auto-renew is turned off at least 24-hours before the end of the curren_...
+
+### Burner - 2nd Phone Number
+
+![Burner - 2nd Phone Number](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/5b/52/ca5b52e7-f43e-7e27-6ac5-df8e79a834d4/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/100x100bb.png)The next place is taken by Burner - 2nd Phone Number. The developer Ad Hoc Labs, Inc says the following about the app. _Burner is the market-leading private phone number app — a second line for calling, texting, and picture messaging in everyday situations. Did you know that your personal info is attached to your phone number and easily searchable online? Every time you give out your real phone number, you risk exposing your personal information. Only give your number to people you trust. For everyone else, there's Burner.  HOW BURNER WORKS With Burner, you're in control of your personal information. No one can find your real number from your Burner number. We intercept calls on your Burner and route them to your cell phone so no one can see your real number. Since you can call, text, and manage your contacts_...
+
