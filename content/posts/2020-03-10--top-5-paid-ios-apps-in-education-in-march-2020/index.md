@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Education in March 2020
+subTitle: Top 5 Paid iOS Apps in Education and Reviews from the AppStore in March 2020.
+category: "top 5 paid ios apps in education"
+cover: main.png
+---
+
+### Toca Hair Salon 3
+
+![Toca Hair Salon 3](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/dc/76/86/dc76864a-dbc3-33cc-c36f-fc0c2bbdac11/AppIcon-0-1x_U007emarketing-0-85-220-0-9.png/100x100bb.png)The first place belongs to Toca Hair Salon 3. The developer Toca Boca AB says the following about the app. _Welcome to Toca Hair Salon 3! Our most popular app series returns, better than ever! What do you feel like creating today — something quirky, pretty or edgy? Choose your character from dozens of looks that you can customize — characters have randomized styles and personalities, which creates endless play opportunities! Grab your tools and get styling!  AMAZINGLY REALISTIC HAIR The hair in Toca Hair Salon 3 looks and moves like real hair! You can style silky straight hair, bouncy waves, crinkly curls, and for the first time in the Toca Hair Salon series: kinky hair! This super-curly hair type means you can create fluffy 'fros and other natural hairstyles_...
+
+### SkyView®
+
+![SkyView®](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/7f/1a/84/7f1a84ee-7452-7fbe-57ad-5539b95aea07/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by SkyView®. The developer Terminal Eleven LLC says the following about the app. _SkyView® brings stargazing to everyone. Simply point your iPhone, iPad, or iPod at the sky to identify stars, constellations, planets, satellites, and more!  Over 2.5 million downloads.  App Store Rewind 2011 -- Best Education App  “If you've ever wanted to know what you're looking at in the night sky, this app is the perfect stargazer's companion.”  – CNET   "If you’ve ever been looking for a stargazing app for your iPhone, then this [is] definitely the one to get."  – AppAdvice   “SkyView is an Augmented Reality app that lets you see just what delights the sky has to offer.”  – 148Apps Editor’s Choice  You don't need to be an astronomer to find stars or constellations in the sky, just open_...
+
+### PROmote - Army Study Guide
+
+![PROmote - Army Study Guide](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/be/8d/a9be8dbf-a947-1261-a9ed-e028476ba6de/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is PROmote - Army Study Guide. The developer ForceReadiness.com says the following about the app. _BEFORE YOU BUY ANOTHER BOARD STUDY APP ASK YOURSELF:  1. Does it offer over 3,400 questions?  Our app contains thousands more than some other apps.  You don't have to study all 3,400+ questions but they are there for you if you want.   2. CAN YOU GRADE YOURSELF?  Seriously!  Many board apps don't even allow you to grade yourself.  You can't look at your test scores for each subject because they don't even keep score. 3. Does it have an advanced learn engine that tracks questions seen/unseen, answered correctly/incorrectly, and then dynamically creates your tests accordingly? 4. Does it provide BOTH a casual study mode AND a test mode? 5. Does it provide AUDIO questions? 6_...
+
+### Star Walk 2 - Night Sky Map
+
+![Star Walk 2 - Night Sky Map](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/be/28/17/be281722-de8b-95d3-22b6-af6f3d8a6a34/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png)The next place is taken by Star Walk 2 - Night Sky Map. The developer Vito Technology Inc. says the following about the app. _Star Walk 2 is an exquisite stargazing app enabling you to explore the night sky through the screen of your device. Make an effortless journey through thousands of stars, comets, constellations, and other celestial bodies. All you have to do is point your device to the sky!  ⁕ BEST OF 2014: The next generation of the best-selling Star Walk, winner of Apple Design Award, used by over 10 million people ⁕  The app taps your device’s sensors and the GPS to determine the exact position of stars, planets, constellations, comets, ISS, satellites, meteor showers, etc., in the night sky.  “She’s a beauty.”- The Next Web  “Star Walk 2 is a terrific introduction to astronomy for young and old_...
+
+### AnkiMobile Flashcards
+
+![AnkiMobile Flashcards](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/b9/10/d8/b910d8d7-d5ab-c3cb-259c-06e18f00e6e3/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by AnkiMobile Flashcards. The developer Ankitects Pty Ltd says the following about the app. _AnkiMobile is a mobile companion to Anki, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.  AnkiMobile offers some features not found in other flashcard apps:  - A free cloud synchronization service that lets you keep your card content synchronized across multiple mobile and computer devices. This makes it easy to add content on a computer and then study it on your mobile, easily keep your study progress current between an iPhone and iPad, and so on. - The same proven scheduling algorithm that the computer version_...
+

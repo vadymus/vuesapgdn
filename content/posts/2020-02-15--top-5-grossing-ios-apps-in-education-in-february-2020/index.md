@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in February 2020
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in February 2020.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Duolingo
+
+![Duolingo](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fb/23/d9/fb23d949-9537-3e84-abcc-84d9b750169a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winner of the battle is Duolingo. The developer Duolingo says the following about the app. _Join over 300 million learners on Duolingo, the most popular way to learn languages! It’s free, fun and effective. The secret? Duolingo feels like a game and makes sure you stay motivated.  Over 30 languages to choose from - all completely free!  • "Far and away the best language-learning app." — The Wall Street Journal  • "A single app for language skills, self-improvement and digital escape." - The New York Times  • "Duolingo may hold the secret to the future of education." — TIME Magazine  • "...Duolingo is cheerful, lighthearted and fun..." - Forbes  Duolingo is changing the way people learn languages using advanced technology to personalize every lesson for you_...
+
+### Epic! - Kids’ Books and Videos
+
+![Epic! - Kids’ Books and Videos](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/44/08/57/44085744-f0e8-6835-a04b-a758ba27006f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Epic! - Kids’ Books and Videos. The developer Epic Creations, Inc. says the following about the app. _Welcome to Epic! - the leading digital library for kids, where kids can explore their interests and learn with instant, unlimited access to 35,000 high-quality ebooks, audiobooks, learning videos, and quizzes for kids 12 and under.  There are 2 versions of Epic!, both accessible through this app:  1. EPIC! FOR THE HOME  For families, Epic! offers unlimited access to 35,000 of the best children's books and learning videos so your child can read and learn anytime, anywhere. After a 30-day free trial, Epic! costs only $7.99/month and includes up to 4 individual child profiles per account. You can easily cancel at any time.    2. EPIC! FOR EDUCATORS  Epic! is free for elementary school teachers _...
+
+### ABCmouse.com
+
+![ABCmouse.com](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/48/b3/0b48b317-3166-f34d-b766-530a9af3f1a2/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/100x100bb.png)Then, we have ABCmouse.com. The developer Age of Learning, Inc. says the following about the app. _Start your 30-day free trial of ABCmouse now! Cancel anytime.  ABCmouse is the award-winning learning program that covers reading, math, art, music, and more for kids ages 2 to 8. Created by teachers and education experts, it has 10,000+ exciting Learning Activities for children at all academic levels.  Proven to Significantly Increase Reading Skills with as little as 45 minutes a week*.    Key Features  The ABCmouse Early Learning Academy is the research-validated program that kids 2–8 love to play with as they learn:  • Full standards-based curriculum for learning on the iPad and iPhone • Trusted by teachers and designed by early learning education experts • Used in more than 70,000 classr_...
+
+### Math Learner: Learning Games
+
+![Math Learner: Learning Games](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/da/20/ae/da20ae76-de8d-b511-54f1-17a8f37fa3a6/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.jpeg/100x100bb.png)Rolling up next is Math Learner: Learning Games. The developer Fun Games For Free says the following about the app. _Have fun while learning math with this amazing app with a proven methodology. Work through the levels and learn the basics for a solid mathematics understanding!  Features: - Learn mathematics and improve your skills! - Study through the levels and master the main mathematical operations! New content will be added in the future!  App subscription: You can subscribe for access to the full list of Math lessons. Payment will be charged to iTunes Account at confirmation of purchase. You will be able to do all exercises for the duration of the subscription. Subscription automatically renews for the same price and duration period as the original "one week"/"one month"/"one year" package unless aut_...
+
+### HOMER Reading: Learn to Read
+
+![HOMER Reading: Learn to Read](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/25/07/f3/2507f344-eb24-7b5c-d2cc-af74d1cad8b6/AppIcon-2017-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png)Next comes HOMER Reading: Learn to Read. The developer Homer says the following about the app. _HOMER Reading is the fun, interactive way to spark your child’s passion for reading. Help your child build critical skills with a personalized learn-to-read plan! Download HOMER Reading to start your free trial and help your child fall in love with learning today. You can easily cancel at anytime during your free trial.   When kids read about what they love, they love learning to read. HOMER Reading combines your child’s passions and current reading level to create a personalized learn-to-read plan. It includes thousands of lessons on phonics, sight words, ABCs and more and grows with your child from age 2 to 8.   HOMER Reading has been proven to increase early reading scores by 74% with jus_...
+

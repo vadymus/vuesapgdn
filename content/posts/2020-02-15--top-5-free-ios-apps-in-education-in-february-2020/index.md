@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Education in February 2020
+subTitle: Top 5 Free iOS Apps in Education and Reviews from the AppStore in February 2020.
+category: "top 5 free ios apps in education"
+cover: main.png
+---
+
+### Duolingo
+
+![Duolingo](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/fb/23/d9/fb23d949-9537-3e84-abcc-84d9b750169a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Duolingo. The developer Duolingo says the following about the app. _Join over 300 million learners on Duolingo, the most popular way to learn languages! It’s free, fun and effective. The secret? Duolingo feels like a game and makes sure you stay motivated.  Over 30 languages to choose from - all completely free!  • "Far and away the best language-learning app." — The Wall Street Journal  • "A single app for language skills, self-improvement and digital escape." - The New York Times  • "Duolingo may hold the secret to the future of education." — TIME Magazine  • "...Duolingo is cheerful, lighthearted and fun..." - Forbes  Duolingo is changing the way people learn languages using advanced technology to personalize every lesson for you_...
+
+### Photomath
+
+![Photomath](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/85/73/5f/85735f32-d8c1-b51f-6d55-f9c26241ab2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math education app on the planet. Photomath is FREE and works without wi-fi or data. Whether you’re on the bus, in a cave or just offline, core Photomath is always available, because data matters.  From basic arithmetic to advanced calculus and geometry, learn with Photomath. Understand core concepts to help you advance in math and feel confident in class!  KEY FEATURES     ●    NEW! Word problem explanations!     ●    No internet or data required       ●    Free to use     ●    Step-by-step explanations for every solution      ●    Exclusive how-to animations     ●    Scroll through multiple solving met_...
+
+### Kahoot! Play & Create Quizzes
+
+![Kahoot! Play & Create Quizzes](https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/35/8f/03/358f03d1-531e-cf73-9696-ab601192cd2d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Kahoot! Play & Create Quizzes. The developer Kahoot! AS says the following about the app. _Create your own quizzes in seconds, play anywhere, anytime, on your own or with friends, have fun and LEARN! Kahoot! unleashes the magic of learning for students, teachers, office superheroes, trivia fans and lifelong learners.   Our app has a whole bunch of superpowers! Here are a few of them:  Quiz creation app Creativity can spark anytime! Create a game in minutes, even if you’re on the go. This works great for student projects and can also be a hot hit at parties when you want to surprise your friends.   Live game app Join kahoots hosted live - for example, in classrooms - use the app as the game controller, and win medals! Or, put your quizmaster’s hat on: host your own game for others _...
+
+### Google Classroom
+
+![Google Classroom](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/c8/b8/1f/c8b81fca-fe6b-214a-a033-da6cc4132b65/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Google Classroom. The developer Google LLC says the following about the app. _Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.  Classroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organized.  Students can keep track of what’s due on the Assignments page and beg_...
+
+### Socratic by Google
+
+![Socratic by Google](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d2/3c/50/d23c5017-330d-0f4b-45e7-07a105e966cb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Socratic by Google. The developer Google LLC says the following about the app. _Need to get unstuck? Socratic can help! This learning app, powered by Google AI, helps you understand your school work at a high school and university level. Ask Socratic a question and the app will find the best online resources for you to learn the concepts. Socratic supports most high school subjects, with more coming soon!  *** KEY FEATURES ***  - HELPFUL RESULTS Use your voice or camera to connect to online resources and understand any problem.  - EVERYTHING YOU NEED IN ONE PLACE Find videos, step-by-step explanations, and more to learn subjects at your own pace.  - EXPERT-CREATED STUDY GUIDES Socratic partnered with teachers and experts to bring you visual explanations in each subject,_...
+

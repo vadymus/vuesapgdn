@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Utilities in March 2020
+subTitle: Top 5 Grossing iOS Apps in Utilities and Reviews from the AppStore in March 2020.
+category: "top 5 grossing ios apps in utilities"
+cover: main.png
+---
+
+### RoboKiller: Block Spam Calls
+
+![RoboKiller: Block Spam Calls](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/dd/07/51/dd0751b6-ed25-1169-ddb7-3916b8fba097/BlueAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to RoboKiller: Block Spam Calls. The developer TelTech Systems says the following about the app. _Eliminate 99% of spam calls. RoboKiller is the call-blocking app created by humans and powered by AI. Our patented audio fingerprinting technology uses machine learning to stop your phone from ringing with annoying, unwanted calls. You can finally live spam-free and never miss a legitimate phone call again.  NEW in RoboKiller 5.0: CALL SCREENING WITH AI-POWERED FINGERPRINTING. RoboKiller now provides an additional layer of protection against random number spoofing. Using real-time audio algorithms, RoboKiller identifies spam calls from randomly spoofed and fake numbers before they ring your phone.   Being able to receive legitimate calls is just as important as blocking unwanted ones_...
+
+### QR Code Reader ·
+
+![QR Code Reader ·](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/df/85/d8df853f-f3e1-df28-6cd7-a1d6dea425f9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png)The second place is taken by QR Code Reader ·. The developer TinyLab says the following about the app. _The best app to scan QR Code and Barcode!  More than 15 types supported : QR Code, Barcode, Datamatrix, Code128, Code39, EAN-8, EAN-13, Google Auth  With powerful features : - Products & food detailed informations - QR Code detailed data cards - Scan history - Folders to stay organized - Batch Scan - CSV Export  SUBSCRIPTIONS  - You can subscribe for PRO account with unlimited scans, products infos and no ads - Subscription options are: 1-month with 3-day trial, 3-month, 1-year  - Subscription automatically renews for the same price and duration period as the original "one month", "one quarter", "one year" package unless auto-renew is turned off at least 24-hours before the end of the curren_...
+
+### Burner - 2nd Phone Number
+
+![Burner - 2nd Phone Number](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/b7/12/15/b7121544-d707-99b7-faa4-249f80ec2217/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/100x100bb.png)Next on the list is Burner - 2nd Phone Number. The developer Ad Hoc Labs, Inc says the following about the app. _Burner is the market-leading private phone number app — a second line for calling, texting, and picture messaging in everyday situations. Did you know that your personal info is attached to your phone number and easily searchable online? Every time you give out your real phone number, you risk exposing your personal information. Only give your number to people you trust. For everyone else, there's Burner.  HOW BURNER WORKS With Burner, you're in control of your personal information. No one can find your real number from your Burner number. We intercept calls on your Burner and route them to your cell phone so no one can see your real number. Since you can call, text, and manage your contacts_...
+
+### New Emoji & Fonts - RainbowKey
+
+![New Emoji & Fonts - RainbowKey](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/46/43/97/46439766-29c1-b647-f140-e624d5233ed2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/100x100bb.png)Then, we have New Emoji & Fonts - RainbowKey. The developer ONE App Essentials says the following about the app. _Express your emotions with 5000+ New, Animated, 3D emojis & stickers. Keyboard Themes, Funny GIFs and Stylish Fonts are also available in RainbowKey!  Customize your own keyboard with your favorite pictures! With RainbowKey integrated, you can create your keyboard with cool fonts, colorful pictures and cute emoji!  RainbowKey provides all the awesome features you want: • Create your own keyboard with your favorite pictures • Decorate your keyboard with 40+ beautiful fonts and colors • Create personal live avatar - Create your personal avatar animated emojis • 10+ Built-in themes to choose from • 30+ Stylish fonts to decorate your words • Swipe input, enjoy one-handed typing • Smart emoji pre_...
+
+### Fun Play Stickers
+
+![Fun Play Stickers](https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ae/6f/16/ae6f16fb-e0c3-01eb-2b20-d745966f51ae/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Fun Play Stickers. The developer QiuYan Wu says the following about the app. _Create fun elements for your life.  - Added to iMessage and WhatsApp Add stickers to iMessage and WhatsApp in one click for easier use  - Download interesting stickers Fun Play Stickers allows you to make your own stickers, or you can download our carefully designed stickers, there are hundreds of stickers to choose from.  - Search sticker function You can not only search for the stickers you want online, but also customize your stickers. Like the stickers and download them.  - A refreshing application interface The refreshing interface, smart search and various styles stickers are Waiting for you. Fun Play Stickers is an app that focuses on making stickers or downloading stickers instead of_...
+

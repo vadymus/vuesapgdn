@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Travel in March 2020
+subTitle: Top 5 Paid iOS Apps in Travel and Reviews from the AppStore in March 2020.
+category: "top 5 paid ios apps in travel"
+cover: main.png
+---
+
+### MarineTraffic - Ship Tracking
+
+![MarineTraffic - Ship Tracking](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/30/dd/3e/30dd3e00-6d4f-a7d1-dd6b-e7ce453a8364/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/100x100bb.png)The winning spot belongs to MarineTraffic - Ship Tracking. The developer MarineTraffic.com says the following about the app. _MarineTraffic displays near real-time positions of ships and yachts worldwide.  Using the largest network of land-based AIS receivers, the app covers most major ports and shipping routes.  • View VESSELS ON THE LIVE MAP, search for ships, boats and seaports and see what's near you! • More than 170,000 VESSELS PER DAY report their positions via MarineTraffic AIS • View live wind and 48-hour WIND FORECASTS on the map • ANIMATED PLAYBACK of vessel's track • PORT ARRIVALS & DEPARTURES live for over 4,000 ports and marinas, current conditions in ports and estimated time of arrival for the boats & ships. • Manage your list of vessels ("MY FLEET"), shared with all your devices and MarineTraffic_...
+
+### Camp & RV - Tents to RV Parks
+
+![Camp & RV - Tents to RV Parks](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/9b/15/8e9b1500-fcc8-6f28-302b-4e79c2f07d5b/AppIcon-0-1x_U007emarketing-0-0-85-220-7.png/100x100bb.png)The second place is taken by Camp & RV - Tents to RV Parks. The developer Allstays LLC says the following about the app. _It's time you enjoy the journey. The most complete and popular camping app of all time helps you do that as you find and filter places and services with or without internet. Tents, RV resorts, parking lots, fuel, rest areas, repairs, tunnels, even inclines. Extensive filters and thousands of points unique to this app for a one time price, free updates & no ads.  "Packed with comprehensive information. For those with more discerning tastes in campsites & RV spots. " - NY Times  "Whether you're looking for RV grounds with full amenities or far-flung campsites for a rough getaway, Camp & RV has you covered." -MacNewsWorld  Starbucks featured app  Has data seen in "Harvard Business Review" & rat_...
+
+### OBD Fusion
+
+![OBD Fusion](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7f/ec/74/7fec740d-09bb-3fe1-1828-384fde2b2269/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png)Next on the list is OBD Fusion. The developer OCTech, LLC says the following about the app. _OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone, iPod Touch, or iPad. You can clear your check engine light, create customized dashboards, read diagnostic trouble codes, estimate fuel economy, and much more! OBD Fusion is also available for Apple Watch!  Is your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits_...
+
+### LiveATC Air Radio
+
+![LiveATC Air Radio](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/91/0d/0b910d37-3a1e-246f-79e3-fb9e46bc3206/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes LiveATC Air Radio. The developer LiveATC.net says the following about the app. _LiveATC Air Radio is brought to you by LiveATC.net PLEASE READ ***IMPORTANT NOTICE*** BELOW **BEFORE** PURCHASING  This notice relates to countries not covered by the LiveATC.net system  Stuck in the airport terminal and want to know why you're delayed? Live near an airport or enjoy plane-spotting and want to tune in to the pilots and the control tower? Have you always wondered what pilots talk to air traffic controllers about? Now you can stop wondering and tune in live!  LiveATC Air Radio provides a quick and easy way to listen in on live conversations between pilots and air traffic controllers near many airports around the world. LiveATC Air Radio lets you easily browse by U.S_...
+
+### Vegan Food Near You - HappyCow
+
+![Vegan Food Near You - HappyCow](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/2b/e1/3e/2be13e66-c776-aa42-2ccb-c97d3255c93c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Vegan Food Near You - HappyCow. The developer HappyCow says the following about the app. _Since 1999, HappyCow has helped users find vegan-options at 108,000+ restaurants, cafes, and grocery stores in 180+ countries. Read 500,000+ reviews and see 500,000+ photos posted by our awesome community! With HappyCow, you can search for vegan-friendly bakeries, health food stores, catering, farmers markets, juice bars, coffee shops, and all types of vegan businesses!  ► SEARCH: • Filter by Vegan, Vegetarian, Gluten-Free, cuisine type, and more! • Easily search near you, or nearby an address (perfect for planning a trip!)  • Plan your travels by using our  interactive map and saving places for offline viewing • Find popular and undiscovered eateries with keywords and cuisine filters: perfe_...
+
