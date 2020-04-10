@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Social Networking in April 2020
+subTitle: Top 5 Grossing iOS Apps in Social Networking and Reviews from the AppStore in April 2020.
+category: "top 5 grossing ios apps in social networking"
+cover: main.png
+---
+
+### BIGO LIVE - Live Stream
+
+![BIGO LIVE - Live Stream](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/d8/8b/30/d88b30cc-a55a-3d61-3f3e-940984b28033/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/100x100bb.png)The first place is taken by BIGO LIVE - Live Stream. The developer BIGO TECHNOLOGY PTE. LTD. says the following about the app. _Bigo Live allows you to live-stream your favorite moments, and make friends from all around the world. We enable people to showcase their talent, discover, and stay connected in a positive, healthy, and creative way.   We have over 200 million users around the world. Say no to FOMO, share your life, gain fans, receive gifts, make money and live in the moment. Bigo Live is a new way to experience life.   --Why Bigo Live?--  * GO LIVE Sing? Dance? Have any hidden talents? - Show off your talents. Get followers, gain fans, receive gifts, make money and become an idol to many.  * WATCH LIVE-STREAMS We have an active community, and millions of talented broadcasters, dancers, singers, foodies, com_...
+
+### IMVU: 3D Avatar Creator & Chat
+
+![IMVU: 3D Avatar Creator & Chat](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/b1/eb/bfb1ebf2-9136-fea0-9586-990b9d543bda/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to IMVU: 3D Avatar Creator & Chat. The developer IMVU says the following about the app. _IMVU is the #1 3D avatar-based social experience with the largest 3D world and catalog to customize your look and meet new people.  You can chat with friends, roleplay and join a virtual world with millions of others. The best part? It’s totally free!  Enter a virtual world simulator and social chat. IMVU is more than a life simulation - it’s a virtual life in a 3D world with an avatar that you make. Choose your life as you want it to be.  Customize a 3D avatar, personalize your own animated emoji and message friends! Does life have you down? Then your dream life, love life and virtual life await in IMVU!  YOUR VIRTUAL LIFE The avatar life is your life, make it what you want it to be! Want a_...
+
+### MeetMe - Go Live, Chat & Meet
+
+![MeetMe - Go Live, Chat & Meet](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a4/a4/4c/a4a44c5b-0958-0999-9c95-4b021af019ee/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/100x100bb.png)Then, we have MeetMe - Go Live, Chat & Meet. The developer MeetMe, Inc. says the following about the app. _MeetMe helps you find new people nearby who share your interests and want to chat now! It’s fun, friendly, and free!   Join 100+ MILLION PEOPLE chatting and making new friends.    So what are you waiting for? Download the best app for finding new friends to chat with!        What Our Members Say:   "I've met people I'd never have met otherwise. And it's easy to chat with people. It just makes life a little better in my opinion."   "[It's] probably one of the greatest sites... greater variety of people... everyone is at one place at one time... meeting new people."   "MeetMe has given me the opportunity to talk to really terrific people_...
+
+### Plenty of Fish Dating
+
+![Plenty of Fish Dating](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/df/29/f2df2944-9e64-6f2e-040a-8996b00a36c5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Plenty of Fish Dating. The developer PlentyOfFish says the following about the app. _A conversation is where it all starts. Messaging is 100% FREE! Singles have more conversations on Plenty of Fish than any other dating app. With us, you’re 2.7x more likely to enter a conversation in your first 24 hours! Join now, and we’ll get you talking to someone before you know it.  We also have the most FREE features to help you start dating! You might know someone who's in a relationship/dating because of a match they found on Plenty of Fish. It's your turn!  - Use our advanced matching algorithm for FREE - View your matches for FREE! Sort by last online, newest users and more! - Most importantly, send and receive unlimited messages for FREE + More features than we have room to tell y_...
+
+### LiveMe –Live Video Chat
+
+![LiveMe –Live Video Chat](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9a/df/38/9adf3832-97bb-6579-0baf-9b27f20d6ef4/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/100x100bb.png)Then, we have LiveMe –Live Video Chat. The developer KS Mobile, Inc. says the following about the app. _LiveMe is one of the top live broadcasting apps  - Make new friends in your area and around the world! - Chat with stars and celebrities like Roman Atwood, David Dobrick, Khalid, 2 Chainz and MORE! - Watch your favorite videos by category, such as singing, dancing, gaming and more - Be part of exclusive offline events like VidCon, Playlist Live, Ultra Music Festival - Multi-Beam with your friends  - Compete against your favorite broadcasters with H2H - Features include gaming broadcasts, Shorts, Star Codes, stickers, and so on.  Enjoy and share your moments and memories.   Meet Stars: LiveMe Official routinely hosts some of the hottest celebrities, including top YouTubers and talented influe_...
+

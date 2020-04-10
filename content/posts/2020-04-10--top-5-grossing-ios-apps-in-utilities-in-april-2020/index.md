@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Utilities in April 2020
+subTitle: Top 5 Grossing iOS Apps in Utilities and Reviews from the AppStore in April 2020.
+category: "top 5 grossing ios apps in utilities"
+cover: main.png
+---
+
+### RoboKiller: Block Spam Calls
+
+![RoboKiller: Block Spam Calls](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/5d/a3/be/5da3be32-78b1-f11f-f303-3c09ab208add/BlueAppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/100x100bb.png)The winner of the battle is RoboKiller: Block Spam Calls. The developer TelTech Systems says the following about the app. _Eliminate 99% of spam calls. RoboKiller is the call-blocking app created by humans and powered by AI. Our patented audio fingerprinting technology uses machine learning to stop your phone from ringing with annoying, unwanted calls. You can finally live spam-free and never miss a legitimate phone call again.  NEW in RoboKiller 5.0: CALL SCREENING WITH AI-POWERED FINGERPRINTING. RoboKiller now provides an OPTIONAL layer of protection against random number spoofing. Using real-time audio algorithms, RoboKiller identifies spam calls from randomly spoofed and fake numbers before they ring your phone.   Being able to receive legitimate calls is just as important as blocking unwanted ones_...
+
+### VРN Shiеld - Smаrt Dеfеndеr
+
+![VРN Shiеld - Smаrt Dеfеndеr](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/7c/2c/cf/7c2ccf94-b520-787c-77a2-5d049459d681/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to VРN Shiеld - Smаrt Dеfеndеr. The developer Malesco Global LLP says the following about the app. _Browse websites anonymously and keep your privacy online with VPN Shield - Smart Defender. When using a VPN, your IP address and location data will be masked, and Internet activities will not be monitored.   No configuration is needed, just click one button, you can get safe and anonymous access to the Internet.  Secure surfing through public WiFi. You remain safe wherever you are, even if you use unknown networks to access the Internet.  VPN Shield will free you from trackers, phishing attempts and any attempts to track you on the network.  Get access to premium servers through paid subscriptions.All premium servers can be tested for free during a 3-day trial period_...
+
+### Burner - 2nd Phone Number
+
+![Burner - 2nd Phone Number](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/5f/c4/c5/5fc4c586-24d6-96bf-b5c5-413329590de3/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Burner - 2nd Phone Number. The developer Ad Hoc Labs, Inc says the following about the app. _Burner is the market-leading private phone number app — a second line for calling, texting, and picture messaging in everyday situations. Did you know that your personal info is attached to your phone number and easily searchable online? Every time you give out your real phone number, you risk exposing your personal information. Only give your number to people you trust. For everyone else, there's Burner.  HOW BURNER WORKS With Burner, you're in control of your personal information. No one can find your real number from your Burner number. We intercept calls on your Burner and route them to your cell phone so no one can see your real number. Since you can call, text, and manage your contacts_...
+
+### QR Code Reader ·
+
+![QR Code Reader ·](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/88/cd/f2/88cdf28a-e0d9-58f1-065b-83ac7d059a7a/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png)Rolling up next is QR Code Reader ·. The developer TinyLab says the following about the app. _The best app to scan QR Code and Barcode!  More than 15 types supported : QR Code, Barcode, Datamatrix, Code128, Code39, EAN-8, EAN-13, Google Auth  With powerful features : - Products & food detailed informations - QR Code detailed data cards - Scan history - Folders to stay organized - Batch Scan - CSV Export  SUBSCRIPTIONS  - You can subscribe for PRO account with unlimited scans, products infos and no ads - Subscription options are: 1-month with 3-day trial, 3-month, 1-year  - Subscription automatically renews for the same price and duration period as the original "one month", "one quarter", "one year" package unless auto-renew is turned off at least 24-hours before the end of the curren_...
+
+### New Emoji & Fonts - RainbowKey
+
+![New Emoji & Fonts - RainbowKey](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/46/43/97/46439766-29c1-b647-f140-e624d5233ed2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/100x100bb.png)Rolling up next is New Emoji & Fonts - RainbowKey. The developer ONE App Essentials says the following about the app. _Express your emotions with 5000+ New, Animated, 3D emojis & stickers. Keyboard Themes, Funny GIFs and Stylish Fonts are also available in RainbowKey!  Customize your own keyboard with your favorite pictures! With RainbowKey integrated, you can create your keyboard with cool fonts, colorful pictures and cute emoji!  RainbowKey provides all the awesome features you want: • Create your own keyboard with your favorite pictures • Decorate your keyboard with 40+ beautiful fonts and colors • Create personal live avatar - Create your personal avatar animated emojis • 10+ Built-in themes to choose from • 30+ Stylish fonts to decorate your words • Swipe input, enjoy one-handed typing • Smart emoji pre_...
+

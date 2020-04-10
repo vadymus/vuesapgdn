@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Navigation in April 2020
+subTitle: Top 5 Paid iOS Apps in Navigation and Reviews from the AppStore in April 2020.
+category: "top 5 paid ios apps in navigation"
+cover: main.png
+---
+
+### GPS Tracks
+
+![GPS Tracks](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/14/c7/01/14c701d3-cfe3-f1b5-c050-2f9ecc7d7a20/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/100x100bb.png)The winning spot belongs to GPS Tracks. The developer David Morneault says the following about the app. _"One of the better GPS apps for sporting enthusiasts for the iPhone..." - Bryan Wolfe, AppAdvice.com  Do you want to track your outdoor activities? Do you need to navigate to waypoints?    Do you want to store your favorite destinations?  GPS Tracks is an ideal app for your outdoor navigational needs, it makes navigating to a specific point and tracking your outdoor activities very simple.  It will keep track of your activities and allow you to easliy navigate to coordinates.  GPS Tracks is now available for the Mac in the Mac App Store!  GPS Tracks is one of the only tracking applications to sync data between iOS and OS X.  No login or account required, just turn it on and go!  Use Applicat_...
+
+### Cachly - Geocaching
+
+![Cachly - Geocaching](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/ac/84/ff/ac84ff1a-cdd4-2dee-05e0-d4a975e73d34/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Cachly - Geocaching. The developer Zed Said Studio LLC says the following about the app. _Cachly is a simple and powerful Geocaching app for iOS that includes many advanced features that include the following:  - Geocaching account Cachly uses the Geocaching Live API so that you can login with your account and see all of your information.  - Apple Watch App Use Cachly on your watch!  - Friends View your geocaching friends and add new ones right in Cachly!  - FTF! Show available FTFs on the map so you can be the first to grab the find!**  - Find Caches Current location, coordinates, search for a location, or GC code. *Basic member restrictions apply. Some features only show for Premium users.  - DNF See all your blue frowns and turn those into smilies!  - Offline Vector Maps Maps _...
+
+### Speedometer 55 Pro. GPS kit.
+
+![Speedometer 55 Pro. GPS kit.](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/5b/c5/6b/5bc56b69-74eb-81f4-0372-b7770aed43c8/speedometer_AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Speedometer 55 Pro. GPS kit.. The developer Stanislav Dvoychenko says the following about the app. _A high quality Speedometer, GPS tracker and trip cost monitor for iPhones and cellular iPads.  ∙∙ When you go over a preset speed limit, the large digits change colour from green to red and the device emits a loud sound to alert you!  ∙∙ The cost monitor shows you the current cost of the journey as you drive and tells you each passengers share.  ∙∙ GPS tracker records your trips so they can be analyzed, viewed and shared at any moment.  ‣‣ COST MONITOR. What's the cost of my driving? Based on gas price for a gallon or litre, MPG (U.S. or UK) or liters per 100 km the app will tell you what the cost is as you drive. You can add an extra cost per kilometer or mile! Useful for all cost aware dri_...
+
+### iNavX: Marine Navigation
+
+![iNavX: Marine Navigation](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/73/b0/6c73b069-f906-b046-2f85-a96f4ecbde7e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/100x100bb.png)Then, we have iNavX: Marine Navigation. The developer NavX Studios LLC says the following about the app. _Marine navigation is made easy with iNavX - the world's #1 handheld Chartplotter. Access marine charts, maps, weather, AIS and more!   iNavX is the only app to give you complete worldwide chart coverage, from all your favorite charts providers, including Navionics! Fully enabled with one-touch access, iNavX gives users access to the broadest set of marine charts and maps from multiple providers including:  • Navionics • Blue Latitude • Explorer  • Theyr Weather  • Waterway Guide • … and more  How does iNavX take handheld marine navigation to the next level? • Sailors -  Plan sailing routes with waypoint and route management. Get proactive sail management with GRIB weather forecasts and then _...
+
+### MilGPS
+
+![MilGPS](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/71/e5/51/71e551fc-da48-d2fd-d5a2-9203324d7b18/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have MilGPS. The developer Cascode Labs Pty Ltd says the following about the app. _MilGPS is an MGRS/USNG focused premium navigation tool trusted by soldiers, search and rescue personnel and other professional navigators around the world. View your current location and navigate to a waypoint in seconds. Or plan and organize your navigation using the powerful and intuitive mapping and overlay capabilities.  FEATURES Display your current location in real time - Cell phone signal not required but will make location fixes faster (maps require a data connection) - Military Grid Reference System (MGRS) & United States National Grid (USNG) (4, 6 8 10 figure grid references supported) - Universal Transverse Mercator (UTM) - Latitude/Longitude (degrees, degrees and minutes, degrees_...
+

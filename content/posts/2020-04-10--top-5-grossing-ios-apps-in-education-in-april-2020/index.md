@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in April 2020
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in April 2020.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e4/4d/64/e44d64de-d90d-7a63-f336-9c72141c123c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Want to learn a new language? It’s now fun, entertaining, and efficient to learn, right on your phone!  Trust Duolingo like 300 million other language learners, and find a program that works. The secret? Duolingo feels like a game and makes sure you stay motivated. Take 10 minutes a day, and you’ll surprise yourself with how well you can speak a new language 3 months from now!  Forget everything you knew about language learning. With Duolingo, you’ll practice with fun lessons that will leave you eager to learn more, and develop reading, writing, speaking, listening and conversation skills along the way! Track your progress, earn rewards, and most importantly: join the world’s largest communi_...
+
+### Simply Piano by JoyTunes
+
+![Simply Piano by JoyTunes](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/24/c9/75/24c97550-95f7-984d-13cd-9643ba7f6c95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Simply Piano by JoyTunes. The developer JoyTunes says the following about the app. _Simply Piano is a fast and fun way to learn piano, from beginner to pro. Works with any piano or keyboard. Chosen as one of the best iPhone apps.  - Tons of fun songs like Imagine, Chandelier, All Of Me and Counting Stars, also J.S. Bach - Includes courses for different musical tastes and playing levels - Learn the basics step-by-step from reading sheet music to playing with both hands - Slow down library songs to choose your own pace for easy learning - Personalized 5-Min Workouts ensuring you progress fast and always succeed - Suitable for all ages, no previous knowledge required to learn piano  No Piano? Try the Touch Courses with 3D Touch to turn your device into an on-screen keyboard!  _...
+
+### Mathway
+
+![Mathway](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/0e/77/b8/0e77b856-a92e-2c91-9a89-ddd9a16b5d20/AppIcons-0-0-1x_U007emarketing-0-0-3-85-220.png/100x100bb.png)Then, we have Mathway. The developer Mathway, LLC says the following about the app. _With millions of users and billions of problems solved, Mathway is the world's #1 math problem solver. From basic algebra to complex calculus, Mathway instantly solves your most difficult math problems - simply type your problem in (or point your camera and snap a pic!) to receive instant free answers.  Need detailed step-by-step solutions? Mathway is like a private tutor in the palm of your hand, providing instant homework help anywhere, anytime.  Mathway covers all levels of math, including: • Basic Math/Pre-Algebra (arithmetic, integers, fractions, decimal numbers, roots, factors, and more...) • Algebra (linear equations/inequalities, quadratic equations/inequalities, absolute equations/i_...
+
+### ABCmouse.com
+
+![ABCmouse.com](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/70/70/56/707056d5-a515-dbe2-b061-db72874fe3fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png)Next on the list is ABCmouse.com. The developer Age of Learning, Inc. says the following about the app. _Start your 30-day free trial of ABCmouse now! Cancel anytime.  ABCmouse is the award-winning learning program that covers reading, math, art, music, and more for kids ages 2 to 8. Created by teachers and education experts, it has 10,000+ exciting Learning Activities for children at all academic levels.  Proven to Significantly Increase Reading Skills with as little as 45 minutes a week*.    Key Features  The ABCmouse Early Learning Academy is the research-validated program that kids 2–8 love to play with as they learn:  • Full standards-based curriculum for learning on the iPad and iPhone • Trusted by teachers and designed by early learning education experts • Used in more than 70,000 classr_...
+
+### Rosetta Stone: Learn Languages
+
+![Rosetta Stone: Learn Languages](https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/93/0a/17/930a17a1-4c0c-ef30-268b-5be35b92299b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Rosetta Stone: Learn Languages. The developer Rosetta Stone, Ltd. says the following about the app. _ALL NEW For the first time, we’re offering every one of our languages under one subscription. Flip between languages as often as you’d like and enjoy the freedom to get seriously curious. To access, simply select Unlimited Languages when you subscribe.   EXPANDED DESCRIPTION Rosetta Stone has taught millions of people new languages, and you’re next. From day one, you’ll:  • Stay focused with a personalized learning plan based on your motivation.  • Learn intuitively using our proven immersion method.  • Perfect your pronunciation with instantaneous feedback.  • Download lessons to do everything offline.   • Access different kinds of exercises with our Extended Learning features_...
+

@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Travel in April 2020
+subTitle: Top 5 Grossing iOS Apps in Travel and Reviews from the AppStore in April 2020.
+category: "top 5 grossing ios apps in travel"
+cover: main.png
+---
+
+### My Disney Experience
+
+![My Disney Experience](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e9/86/83/e98683fd-3acd-93dd-f5e0-193a0e0e9f50/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to My Disney Experience. The developer Disney says the following about the app. _The official Walt Disney World® app! Now it’s easier than ever to plan and share your vacation details—at home and on the go.  - Quickly access real-time wait times, park hours, Character greetings, parade showtimes and more.  - Use the interactive, GPS-enabled map to explore Walt Disney World Resort and easily see the dining options, attractions and more nearest to you.  - Find your way around with step-by-step directions to locations across Walt Disney World Resort.  - Purchase your theme park tickets.†  - Buy merchandise from Shop Disney Parks on the app. Browse keepsakes, find items in the park and ship to most U.S. addresses.  - Browse restaurant menus, make dining reservations, modify _...
+
+### Planes Live - Flight Tracker
+
+![Planes Live - Flight Tracker](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a1/11/03/a11103cd-b865-3685-e410-d8e0bdca44e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Planes Live - Flight Tracker. The developer Weather or Not Apps, LLC says the following about the app. _Planes Live Free is a simple yet powerful flight tracking tool that lets you watch the planes online all over the world and get up-to-date information on flights instantly! Track the flights of your family members or beloved ones as if you were traveling with them and find the best time to pick them up at the airport.   Whether you are a professional pilot or an aviation enthusiast, you'll definitely appreciate our flight tracker - the simple, clean and informative interface coupled with powerful functionality!  FEATURES  * Track planes and biplanes online all over the world * Get notified about the flight schedule changes with handy alerts: be aware of the flight status, canceled flights, n_...
+
+### Flightradar24 | Flight Tracker
+
+![Flightradar24 | Flight Tracker](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/f5/50/41/f5504160-bedf-f5f4-797d-1dc63a4c641e/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/100x100bb.png)The next place is taken by Flightradar24 | Flight Tracker. The developer Flightradar24 AB says the following about the app. _The world's most popular flight tracker - #1 Travel app in over 150 countries.  Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.  •Watch aircraft move around the world in real-time •Identify flights overhead & see flight information—including a photo of the actual aircraft—by simply pointing your device at the sky  •See what the pilot of an aircraft sees in 3D  •Tap on a plane for flight details such as r_...
+
+### iTranslate Converse
+
+![iTranslate Converse](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/cc/13/a3cc13a7-0902-f344-4764-aae640d3a833/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is iTranslate Converse. The developer iTranslate says the following about the app. _Turn your iPhone into a translation device!    Introducing iTranslate Converse, a revolutionary new speech translation App. iTranslate Converse turns your iPhone and Apple Watch into a two-way translation device. The simple design enables natural conversations in 38 languages, and automatically detects the correct language between two selected languages for a fast and accurate translation.  Speak directly into your iPhone’s microphone and dramatically improve results as well as create a more natural conversation experience. It literally turns your iPhone into the first real translation device.  SIMPLE & EASY Tap & Hold to Speak. Release to Translate_...
+
+### OkTalk Translator
+
+![OkTalk Translator](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1f/72/4c/1f724c19-0c49-1c9c-0880-e2c20c3c9f7d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is OkTalk Translator. The developer Zapps Mobi says the following about the app. _OkTalk is a handy translator for travels, business and study. You will get instant translation to 110 languages by voice, text or camera. This powerful combination will give you an opportunity to feel confident in every corner of the world.  How can you use it? - TRAVELS. Apply a smart assistance in café, restaurants, shop, pharmacy, taxi and hotel booking during your trips. Use OkTalk as personal facilitator having small talks and asking for direction. Translate boards and signs through camera, get help from locals using simultaneous voice translation.  - BUSINESS. Translate contracts and official documents to any of numerous languages using text option_...
+
