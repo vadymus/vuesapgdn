@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Navigation in May 2020
+subTitle: Top 5 Paid iOS Apps in Navigation and Reviews from the AppStore in May 2020.
+category: "top 5 paid ios apps in navigation"
+cover: main.png
+---
+
+### iNavX: Marine Navigation
+
+![iNavX: Marine Navigation](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/73/b0/6c73b069-f906-b046-2f85-a96f4ecbde7e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/100x100bb.png)The first place belongs to iNavX: Marine Navigation. The developer NavX Studios LLC says the following about the app. _Marine navigation is made easy with iNavX - the world's #1 handheld Chartplotter. Access marine charts, maps, weather, AIS and more!   iNavX is the only app to give you complete worldwide chart coverage, from all your favorite charts providers, including Navionics! Fully enabled with one-touch access, iNavX gives users access to the broadest set of marine charts and maps from multiple providers including:  • Navionics • Blue Latitude • Explorer  • Theyr Weather  • Waterway Guide • … and more  How does iNavX take handheld marine navigation to the next level? • Sailors -  Plan sailing routes with waypoint and route management. Get proactive sail management with GRIB weather forecasts and then _...
+
+### Land Nav Assistant
+
+![Land Nav Assistant](https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/6f/7a/f76f7a4e-bb5a-0484-ac08-cd1aa7e0d3d4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/100x100bb.png)The second spot on a top list belongs to the app Land Nav Assistant. The developer Gammon Applications says the following about the app. _Land Nav Assistant accepts MGRS (Military Grid) or Latitude / Longitude coordinates and visually navigates you to each point.  This app was designed with Army, Marine, and other military personnel in mind. Use it to correct your Land Nav technique by analyzing your pace count and tendency to veer left and right.  Available Input: 8 digit MGRS, 10 digit MGRS, Lat/Lon decimal, Lat/Lon dms, and map input.  Angles: degrees or mils Distance: meters/km or feet/miles Speed: kph or mph  Use the simple arrow interface or map to direct you to your locations. Your distance, direction, speed, and bearing are shown as you navigate.  Long-tap anywhere on the map to get the coordinate for that location_...
+
+### Boating USA
+
+![Boating USA](https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/1c/d5/33/1cd53328-833f-e84a-521b-80e7a0bc00db/Marine-Usa-AppIcon-0-1x_U007emarketing-0-0-85-220-0-9.png/100x100bb.png)Next comes Boating USA. The developer NAVIONICS S.R.L. says the following about the app. _THIS APP WILL BE DISCONTINUED!​  > SEARCH this store for our “Boating Marine & Lakes” FREE app.​  > Download it and get a 2-week trial of the subscription to check out the charts and features. Then subscribe. ​   Boating Marine & Lakes is a favorite among cruisers, anglers, sailors, and divers, with the same detailed charts and advanced features as on the best GPS plotters.​  With Boating Marine & Lakes you will get:​  >THE MOST DETAILED CHART LAYERS FOR OFFLINE USE - Nautical Chart, SonarChart™ and Community Edits. Plus, local information from the Garmin ActiveCaptain Community.​  > DAILY CHART UPDATES, more than 2,000 every day!​  > ADVANCED FEATURES like Dock-to-dock Autorouting, Advanced_...
+
+### GPS Tracks
+
+![GPS Tracks](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/74/80/37/748037ba-92ca-7724-b490-47cb028e5215/AppIcon-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/100x100bb.png)The next place is taken by GPS Tracks. The developer David Morneault says the following about the app. _"One of the better GPS apps for sporting enthusiasts for the iPhone..." - Bryan Wolfe, AppAdvice.com  Do you want to track your outdoor activities? Do you need to navigate to waypoints?    Do you want to store your favorite destinations?  GPS Tracks is an ideal app for your outdoor navigational needs, it makes navigating to a specific point and tracking your outdoor activities very simple.  It will keep track of your activities and allow you to easliy navigate to coordinates.  GPS Tracks is now available for the Mac in the Mac App Store!  GPS Tracks is one of the only tracking applications to sync data between iOS and OS X.  No login or account required, just turn it on and go!  Use Applicat_...
+
+### Cachly - Geocaching
+
+![Cachly - Geocaching](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/ac/84/ff/ac84ff1a-cdd4-2dee-05e0-d4a975e73d34/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Cachly - Geocaching. The developer Zed Said Studio LLC says the following about the app. _Cachly is a simple and powerful Geocaching app for iOS that includes many advanced features that include the following:  - Geocaching account Cachly uses the Geocaching Live API so that you can login with your account and see all of your information.  - Apple Watch App Use Cachly on your watch!  - Friends View your geocaching friends and add new ones right in Cachly!  - FTF! Show available FTFs on the map so you can be the first to grab the find!**  - Find Caches Current location, coordinates, search for a location, or GC code. *Basic member restrictions apply. Some features only show for Premium users.  - DNF See all your blue frowns and turn those into smilies!  - Offline Vector Maps Maps _...
+

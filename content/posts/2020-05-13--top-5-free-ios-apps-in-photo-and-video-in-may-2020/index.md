@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Photo and Video in May 2020
+subTitle: Top 5 Free iOS Apps in Photo and Video and Reviews from the AppStore in May 2020.
+category: "top 5 free ios apps in photo and video"
+cover: main.png
+---
+
+### YouTube: Watch, Listen, Stream
+
+![YouTube: Watch, Listen, Stream](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/de/ac/badeac01-fca3-03ee-886b-5894959a6979/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to YouTube: Watch, Listen, Stream. The developer Google LLC says the following about the app. _Make watching your favorite videos easier with the YouTube app. Explore brand new content, music, news and more with the official YouTube app for iPhone and iPad.  Discover even more with the official YouTube app. Subscribe to channels with your favorite content, share them with friends or upload your very own videos for everyone to see.  Get more out of your video streaming app and discover even more with YouTube.  YOUTUBE FEATURES:  DISCOVER BRAND NEW CONTENT - Browse YouTube’s personal recommendations on the home tab - Watch the hottest videos, from music to viral sensations on the trending tab - Like something? Tap like to save to your personal list or share with your friends!  STREAM MU_...
+
+### Instagram
+
+![Instagram](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/4d/1f/8c/4d1f8ca4-ab7e-f3a4-4209-fb4a019591f7/Prod-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Instagram. The developer Instagram, Inc. says the following about the app. _Bringing you closer to the people and things you love. — Instagram from Facebook  Connect with friends, share what you’re up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.  Express Yourself and Connect With Friends  - Add photos and videos to your story that disappear after 24 hours, and bring them to life with fun creative tools. - Message your friends in Direct. Start fun conversations about what you see on Feed and Stories. - Post photos and videos to your feed that you want to show on your profile.  Learn More About Your Interests  - Check out IGTV for lo_...
+
+### Snapchat
+
+![Snapchat](https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/29/1d/c8/291dc8f4-f69d-1473-b67f-e4401ad56662/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Snapchat. The developer Snap, Inc. says the following about the app. _Snapchat is the most fun way to share the moment!  SNAP •Snapchat opens right to the camera, so you can send a Snap in seconds! Just take a photo or video, add a caption, and send it to your best friends and family. Express yourself with Filters, Lenses, Bitmojis, and all kinds of fun effects. • Capturing and sending photos and videos is easy! Tap to take a photo, or press and hold for video. • New selfie Lenses and Filters are added every day. Change the way you look, dance with your 3D Bitmoji, and even play games with your face! • Create your own Filters to add to photos and videos — or try out Lenses made by our community!  CHAT • Stay in touch with friends and groups with live messaging_...
+
+### Celebs - Celebrity Look Alike
+
+![Celebs - Celebrity Look Alike](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ce/2c/05/ce2c0539-b2ec-0642-d7a8-85a98889f7ba/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png)Rolling up next is Celebs - Celebrity Look Alike. The developer Mango Labs LLC says the following about the app. _What celebrity do you look like? Take a photo and Celebs will find your celebrity match.  Find your twin and celebrity look alike now - 100% free - with new faster comparisons and improved accuracy thanks to machine learning.  Share your results with friends on Instagram and Snapchat. Try with different photos and different looks.  With Celebs look alike app, you can answer questions such as:  - Which celeb do I look like? - Find my look alike. - Which celeb is my twin? - Which famous person do I most resemble?  This fast, fun and free app helps you find what celebrity you look like, and compares your picture to thousands of famous celebrities to find your best match_...
+
+### Twitch: Live Game Streaming
+
+![Twitch: Live Game Streaming](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/c7/92/38/c79238a6-f4b0-4bfb-1046-b6ad412ce12a/TwitchAppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png)Then, we have Twitch: Live Game Streaming. The developer Twitch Interactive, Inc. says the following about the app. _Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.  Catch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.  Twitch: TOP 3 FEATURES  1. Watch live videos of your favorite games, from blockbuster titles like Minecraft and League of Legends to little-known indie gems.  2. Connect with other gamers in real time with full-featured live chat. 3. Go live with a touch and share your passion with the world!  Be a par_...
+
