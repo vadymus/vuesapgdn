@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Photo and Video in June 2020
+subTitle: Top 5 Free iOS Apps in Photo and Video and Reviews from the AppStore in June 2020.
+category: "top 5 free ios apps in photo and video"
+cover: main.png
+---
+
+### FaceApp - AI Face Editor
+
+![FaceApp - AI Face Editor](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/f1/13/a2/f113a270-b6be-e244-a4a2-a9c9b313d1d3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to FaceApp - AI Face Editor. The developer FaceApp Inc says the following about the app. _Get magazine cover quality for any selfie with just a few taps! Powered by FaceApp AI, the most advanced neural portrait editing technology. Improve your selfie or just have fun with gender swap, hair styling and other free amazing transformations.  IMPROVE  - Hollywood-ready selfies with the Impression filters - Change hair color and style - Apply perfect evening or day makeup - Find your perfect beard/mustache style - Add a beautiful smile - Replace background with a single tap - Apply color filters, lens blur, and numerous other tools  HAVE FUN  - Swap genders - Let AI find your best hairstyle and color - Change your age - Add amazing tattoos - Let AI find the best style for you - Check o_...
+
+### YouTube: Watch, Listen, Stream
+
+![YouTube: Watch, Listen, Stream](https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/c4/29/fbc429d9-e471-7698-c32a-e8fc98b1471e/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by YouTube: Watch, Listen, Stream. The developer Google LLC says the following about the app. _Make watching your favorite videos easier with the YouTube app. Explore brand new content, music, news and more with the official YouTube app for iPhone and iPad.  Discover even more with the official YouTube app. Subscribe to channels with your favorite content, share them with friends or upload your very own videos for everyone to see.  Get more out of your video streaming app and discover even more with YouTube.  YOUTUBE FEATURES:  DISCOVER BRAND NEW CONTENT - Browse YouTube’s personal recommendations on the home tab - Watch the hottest videos, from music to viral sensations on the trending tab - Like something? Tap like to save to your personal list or share with your friends!  STREAM MU_...
+
+### Instagram
+
+![Instagram](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/7d/09/ae7d09ca-ed7b-5468-7f2a-1b3b16735d75/Prod-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Instagram. The developer Instagram, Inc. says the following about the app. _Bringing you closer to the people and things you love. — Instagram from Facebook  Connect with friends, share what you’re up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.  Express Yourself and Connect With Friends  - Add photos and videos to your story that disappear after 24 hours, and bring them to life with fun creative tools. - Message your friends in Direct. Start fun conversations about what you see on Feed and Stories. - Post photos and videos to your feed that you want to show on your profile.  Learn More About Your Interests  - Check out IGTV for lo_...
+
+### Snapchat
+
+![Snapchat](https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/14/c3/f4/14c3f42e-6617-dec6-54e5-c5a7e3975f2d/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Snapchat. The developer Snap, Inc. says the following about the app. _Snapchat is the most fun way to share the moment!  SNAP •Snapchat opens right to the camera, so you can send a Snap in seconds! Just take a photo or video, add a caption, and send it to your best friends and family. Express yourself with Filters, Lenses, Bitmojis, and all kinds of fun effects. • Capturing and sending photos and videos is easy! Tap to take a photo, or press and hold for video. • New selfie Lenses and Filters are added every day. Change the way you look, dance with your 3D Bitmoji, and even play games with your face! • Create your own Filters to add to photos and videos — or try out Lenses made by our community!  CHAT • Stay in touch with friends and groups with live messaging_...
+
+### Google Photos
+
+![Google Photos](https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/87/ac/4a/87ac4a62-f904-19e7-a26b-aa35cc2b287b/logo_photos_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Google Photos. The developer Google LLC says the following about the app. _Google Photos is a smarter home for all your photos and videos, made for the way you take photos today.  “The best photo product on Earth” – The Verge “Google Photos is your new essential picture app” – Wired “Upload the pictures, and let Google Photos do the rest” – The New York Times  • FREE UP SPACE: Never worry about running out of space on your phone again. Photos that are safely backed up can be removed from your device’s storage in just a tap.  • VISUAL SEARCH: Your photos are now searchable by the people, places and things in them—no tagging required.  • SMARTER SHARING: With smart sharing suggestions, giving your friends the photos you took of them is painless_...
+

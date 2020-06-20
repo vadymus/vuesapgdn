@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Productivity in June 2020
+subTitle: Top 5 Free iOS Apps in Productivity and Reviews from the AppStore in June 2020.
+category: "top 5 free ios apps in productivity"
+cover: main.png
+---
+
+### Gmail - Email by Google
+
+![Gmail - Email by Google](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ff/3c/84/ff3c84ea-3172-df18-e627-245f7cde7442/logo_gmail_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Gmail - Email by Google. The developer Google LLC says the following about the app. _The official Gmail app brings the best of Gmail to your iPhone or iPad with real-time notifications, multiple account support and search that works across all your mail.  With the Gmail app, you can: • Undo Send, to prevent embarrassing mistakes • Switch between multiple accounts • Get notified of new mail fast, with notification center, badge and lock screen options • Search your mail faster with instant results, predictions as you type & spelling suggestions • Swipe to archive/delete, to quickly clear out your inbox • Read your mail with threaded conversations • Auto-complete contact names as you type from your Google contacts or your phone • Respond to Google Calendar invites right from t_...
+
+### Microsoft Outlook
+
+![Microsoft Outlook](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/51/f3/80/51f3808b-9b49-9055-45bb-f12b5977f436/AppIcon-outlook.prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Microsoft Outlook. The developer Microsoft Corporation says the following about the app. _Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it's staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organized, and connected self.  Here's what you'll love about Outlook for iOS:  - Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.  - Swipe to quickly schedule, delete and archive messages.  - Share your meeting availability with just a tap and easily find times to meet with others.  - Find everything you're looking for with our new search experience, including files, contacts, and your upcoming trips_...
+
+### Google Drive
+
+![Google Drive](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/98/fd/ff/98fdffbe-022e-3c87-4340-15bcb30d8227/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Google Drive. The developer Google LLC says the following about the app. _Google Drive is a safe place to back up and access all your files from any device. Easily invite others to view, edit, or leave comments on any of your files or folders.  With Drive, you can:  • Safely store and access your files anywhere • Quickly access recent and important files • Search for files by name and content • Share and set permissions for files and folders • View your content on the go while offline • Receive notifications about important activity on your files  Learn more about Google Apps update policy: https://support.google.com/a/answer/6288871  Google accounts get 15GB of storage free, shared across Google Drive, Gmail, and Google Photos_...
+
+### Google Docs: Sync, Edit, Share
+
+![Google Docs: Sync, Edit, Share](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bc/19/92/bc199220-fb2c-b102-8428-fd45e16693ae/AppIcon-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png)Then, we have Google Docs: Sync, Edit, Share. The developer Google LLC says the following about the app. _Create, edit, and collaborate on the go with the Google Docs app.   Work together in real time * Share documents with your team * Edit, comment and add action items in real time  * Never lose changes or previous versions of your document with version history   Create anywhere, anytime—even offline  * Capture spontaneous ideas on the fly * Get things done, even on the plane, with offline mode  * Save time and add polish with easy-to-use templates   Search Google right in Docs  * Use Google Search without leaving your document  * Search all of your files in Drive, right in Docs   Edit and share multiple file types  * Open a variety of files, including Microsoft Word files, right in Google Docs_...
+
+### Dropbox - Backup, Sync, Share
+
+![Dropbox - Backup, Sync, Share](https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/16/7c/1e/167c1ed3-6ebf-1fc7-fdb9-151269165e55/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Dropbox - Backup, Sync, Share. The developer Dropbox, Inc. says the following about the app. _Dropbox lets you back up photos and videos, and access files stored on any of your computers or mobile devices—from anywhere. And with advanced sharing features, it’s easy to send any file, large or small, to anyone.  Features: • Automatically back up the photos and videos in your camera roll—all in the background. • Access any file in your account—even offline—and preview over 175 file types, no special software required. • Easily share large files by copying and pasting a link you can send to anyone, even if they don’t have a Dropbox account. • Scan documents using your camera, and turn receipts, documents, whiteboards, and notes into PDFs.  Sign up now for your free Dropbox Plus trial_...
+
