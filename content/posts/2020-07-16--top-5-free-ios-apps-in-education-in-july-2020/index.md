@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Education in July 2020
+subTitle: Top 5 Free iOS Apps in Education and Reviews from the AppStore in July 2020.
+category: "top 5 free ios apps in education"
+cover: main.png
+---
+
+### SignSchool
+
+![SignSchool](https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/75/49/1c/75491cc2-fcf2-bc5c-f63b-f929380d5d18/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/100x100bb.png)The first place belongs to SignSchool. The developer SignSchool Technologies LLC says the following about the app. _Learn American Sign Language for free. Wherever. Whenever.   Whether you’re on the go or relaxing at home, SignSchool’s app lets you learn American Sign Language at your own pace.  In this app, you can: - Browse the dictionary: Learn thousands of signs from a diverse group of signers and various dialects - Choose a category: Explore hundreds of sign categories covering a variety of topics - Reinforce your learning: Review categories with multiple choice games - Learn at your own pace: Watch signs in more detail with the slow motion feature  - Play with SignBuilder: Strengthen your vocabulary with the randomized sign generator - Improve your ASL with Sign of the Day: Learn a new sign everyday_...
+
+### Toca Hair Salon 4
+
+![Toca Hair Salon 4](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/47/c0/a0/47c0a0a0-ac8c-924d-26bb-8797c6e82081/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Toca Hair Salon 4. The developer Toca Boca AB says the following about the app. _Welcome to Toca Hair Salon 4--play around in the salon and create any style you can imagine! Whether you choose a character and turn them into a creation you’ve dreamed up, or just see where the tools take you, it will be an adventure. Get creative with makeup, face paint, hair and beard tools, and much more!  Toca Hair Salon 4 is free to download, and comes with the full hair and beard, style, photo booth and shampoo stations. The in-app shop offers the face station and lots of content packs featuring clothes, accessories, and stickers available for purchase. Check back for fun new content as it becomes available!  HAIR AND BEARD STATION  Cut, trim, shave, and even re-grow hair anywhere on _...
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/fc/77/3afc7735-8cc7-5e1a-ae81-edd55aa2d092/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png)Rolling up next is Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### SkyView® Lite
+
+![SkyView® Lite](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/cf/2f/a8cf2fe5-a2c0-0582-5ce6-0b09dce71cd5/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is SkyView® Lite. The developer Terminal Eleven LLC says the following about the app. _SkyView® Lite brings stargazing to everyone! Simply point your iPhone, iPad, or iPod at the sky to identify stars, constellations, satellites, and more!  Downloaded over 27 million times.  If you like our lite version of SkyView then you'll love our full version! It includes: a convenient Apple Watch app, a Today Widget displaying tonight's brightest objects, ALL in-app purchases offered in this version, thousands more objects to discover, and more!  App Store Best of 2012 App Store Rewind 2011 -- Best Education App  “If you've ever wanted to know what you're looking at in the night sky, this app is the perfect stargazer's companion.”  – CNET   "If you’ve ever been looking for a stargazing a_...
+
+### PictureThis - Plant Identifier
+
+![PictureThis - Plant Identifier](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/10/c2/6e10c2b7-716b-d0a3-e1af-c640e77fc9a7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is PictureThis - Plant Identifier. The developer Glority Global Group Ltd. says the following about the app. _PictureThis® identifies 1,000,000+ plants everyday, with 98% accuracy - better than most human experts. Get your gardening questions answered and become part of our global community!  When you take a walk on sunny days, have you ever come across a beautiful flower that you would know more about? When you’re at a vacation with families, have your children ever asked you questions about plants? When you’re gardening, have you ever needed tips on plant care? Simply take a photo of the plant, PictureThis answers all the questions for you.  With the revolutionary artificial intelligence engine, it’s constantly learning from experts and specialists, identify more and better every day_...
+
