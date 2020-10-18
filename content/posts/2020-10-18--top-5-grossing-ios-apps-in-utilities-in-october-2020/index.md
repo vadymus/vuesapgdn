@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Utilities in October 2020
+subTitle: Top 5 Grossing iOS Apps in Utilities and Reviews from the AppStore in October 2020.
+category: "top 5 grossing ios apps in utilities"
+cover: main.png
+---
+
+### RoboKiller: Block Spam Calls
+
+![RoboKiller: Block Spam Calls](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/a2/33/90/a233909d-1fd5-1fdb-cdb1-9578d500c134/BlueAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to RoboKiller: Block Spam Calls. The developer TelTech Systems says the following about the app. _Eliminate up to 99% of spam calls with RoboKiller! RoboKiller’s global database of 1.4 Billion analyzed calls instantly protects you from known phone scams. Our patented audio fingerprinting technology uses machine learning to stop your phone from ringing with annoying, unwanted calls. You can finally live spam-call-free and never miss a legitimate phone call again!  But wait - there's more! RoboKiller doesn't just block robocallers and spammers, we annoy the hell out of them, too. Incoming spam calls are sent to clever recorded messages called Answer Bots so they can see what it feels like to have their time wasted. Finally, get that oh-so-sweet revenge on robocallers.  NEW in RoboKiller 5_...
+
+### QR Code Reader ·
+
+![QR Code Reader ·](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/1c/89/3d/1c893d84-cd73-f311-263f-be5ccac08915/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app QR Code Reader ·. The developer TinyLab says the following about the app. _The best app to scan QR Code and Barcode!  More than 15 types supported : QR Code, Barcode, Datamatrix, Code128, Code39, EAN-8, EAN-13, Google Auth  With powerful features : - Products & food detailed informations - QR Code detailed data cards - Scan history - Folders to stay organized - Batch Scan - CSV Export  SUBSCRIPTIONS  - You can subscribe for PRO account with unlimited scans, products infos and no ads - Subscription options are: 1-month with 3-day trial, 3-month, 1-year  - Subscription automatically renews for the same price and duration period as the original "one month", "one quarter", "one year" package unless auto-renew is turned off at least 24-hours before the end of the curren_...
+
+### NordVPN: VPN Fast & Secure
+
+![NordVPN: VPN Fast & Secure](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/55/55/c4/5555c4b4-59e7-41c4-b110-d8fe8a72d4f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is NordVPN: VPN Fast & Secure. The developer Tefincom S.A. says the following about the app. _Looking for a way to stay private online? Here it is! With NordVPN, one tap is all you need to hide your IP address, encrypt your traffic, and enjoy the internet without limits.   NordVPN is an easy-to-use VPN app for iPhone and iPad, trusted by millions of users worldwide. It shields your online activities from nosy advertisers, malicious actors, and intrusive internet service providers. How? By encrypting your internet traffic.  NordVPN is the best way to have a private, fast, and secure internet connection wherever you are.   Why NordVPN?  TURBO SPEEDS NordLynx, our modern solution based on the WireGuard® protocol, gives you VPN connection speeds that are hard to beat_...
+
+### LockVPN Unlimited VPN & Proxy
+
+![LockVPN Unlimited VPN & Proxy](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/51/e9/8a/51e98a6d-4f9f-cb54-d474-f3e38de77997/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is LockVPN Unlimited VPN & Proxy. The developer KSA CAPITAL DEVELOPMENT LIMITED says the following about the app. _LockVPN - free anonymous VPN service to protect your iOS device, safely and securely surf the websites and more. Best free VPN app for iPhone to protect your privacy online.  Benefits:  - Free VPN is a 100% unlimited - A wide range of countries - Connection with one click - No registration - Full anonymity - Connects to Wi-Fi safely - Free 3-days trial Premium  Stay secure and anonymous anytime you go online. Lock VPN hides your IP address and encrypts your network data. One click, and you’re protected_...
+
+### Burner - 2nd Phone Number
+
+![Burner - 2nd Phone Number](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/0a/07/a80a0711-53a8-c9ca-990b-9867b1e64c75/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Burner - 2nd Phone Number. The developer Ad Hoc Labs, Inc says the following about the app. _Burner is the market-leading private phone number app — a second line for calling, texting, and picture messaging in everyday situations. Did you know that your personal info is attached to your phone number and easily searchable online? Every time you give out your real phone number, you risk exposing your personal information. Only give your number to people you trust. For everyone else, there's Burner.  HOW BURNER WORKS With Burner, you're in control of your personal information. No one can find your real number from your Burner number. We intercept calls on your Burner and route them to your cell phone so no one can see your real number. Since you can call, text, and manage your contacts_...
+

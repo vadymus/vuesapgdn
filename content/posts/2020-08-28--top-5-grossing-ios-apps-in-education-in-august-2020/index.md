@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in August 2020
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in August 2020.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Toca Life World: Build stories
+
+![Toca Life World: Build stories](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/a1/12/55/a1125589-1006-d9d6-9bc8-41f357eff147/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to Toca Life World: Build stories. The developer Toca Boca AB says the following about the app. _Create your own world and play out any story you like with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Office, Hospital and more, all together in one place.   INTRODUCING TOCA LIFE WORLD Want to give grandma a wild hairstyle? Bring a sloth to the Skate Park? Or just hang out with friends? If you thought it was fun to dive into a Toca Life app and do whatever you want then you were right. Anything is possible and the choices are all yours.   Go even further by creating stories with your favorite characters in any location you want. Want to take a pet to School? Go for it. Take the doctor to the Salon and dye her hair green? Rock on_...
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/23/a0/67/23a06700-d06f-ecf8-d350-ff27634fb3a9/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.png)The second place is taken by Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### ClassDojo
+
+![ClassDojo](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/c9/b2/1b/c9b21bac-389c-e8b6-b629-a2494471243e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes ClassDojo. The developer ClassDojo, Inc. says the following about the app. _Ready to build an amazing classroom community?  ClassDojo is a beautiful, safe, and simple communication app for teachers, parents, and students.   * Teachers can encourage students for any skill, like “Working hard” and “Teamwork” * Teachers can bring parents into the classroom experience by sharing photos, videos, and announcements * Teachers can also safely and instantly message with any parent * Parents see their child’s updates at home, as well as a stream of photos and videos from school  ClassDojo helps teachers build a positive classroom culture by encouraging students and communicating with parents.  ClassDojo is free for everyone, and K-12 teachers, parents, students, and school le_...
+
+### PictureThis - Plant Identifier
+
+![PictureThis - Plant Identifier](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/88/08/12/880812cd-65ee-b35a-302b-152ea5824c05/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is PictureThis - Plant Identifier. The developer Glority Global Group Ltd. says the following about the app. _PictureThis® identifies 1,000,000+ plants everyday, with 98% accuracy - better than most human experts. Get your gardening questions answered and become part of our global community!  When you take a walk on sunny days, have you ever come across a beautiful flower that you would know more about? When you’re at a vacation with families, have your children ever asked you questions about plants? When you’re gardening, have you ever needed tips on plant care? Simply take a photo of the plant, PictureThis answers all the questions for you.  With the revolutionary artificial intelligence engine, it’s constantly learning from experts and specialists, identify more and better every day_...
+
+### ABCmouse.com
+
+![ABCmouse.com](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/cb/45/9c/cb459c79-15a7-ae73-4b46-93f3d58e4134/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png)Then, we have ABCmouse.com. The developer Age of Learning, Inc. says the following about the app. _Start your 30-day free trial of ABCmouse now! Cancel anytime.  ABCmouse is the award-winning learning program that covers reading, math, art, music, and more for kids ages 2 to 8. Created by teachers and education experts, it has 10,000+ exciting Learning Activities for children at all academic levels.  Proven to Significantly Increase Reading Skills with as little as 45 minutes a week*.    Key Features  The ABCmouse Early Learning Academy is the research-validated program that kids 2–8 love to play with as they learn:  • Full standards-based curriculum for learning on the iPad and iPhone • Trusted by teachers and designed by early learning education experts • Used in more than 70,000 classr_...
+

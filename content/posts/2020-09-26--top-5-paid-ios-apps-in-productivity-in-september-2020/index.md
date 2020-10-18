@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Productivity in September 2020
+subTitle: Top 5 Paid iOS Apps in Productivity and Reviews from the AppStore in September 2020.
+category: "top 5 paid ios apps in productivity"
+cover: main.png
+---
+
+### Forest - Stay focused
+
+![Forest - Stay focused](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/6e/24/5a/6e245a75-4be9-31c1-242a-e616ea06b284/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to Forest - Stay focused. The developer SEEKRTECH CO., LTD. says the following about the app. _## Top productivity app in 136 countries. More than 2 million satisfied paying users. Featured in Apple's "Amazing Apps" TV commercial. ## Staying focused with the cutest gamified timer.  ## Over 800,000 real trees were planted on Earth by our users.    "Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you."— The New York Times   "In order to establish new, better habits, it's helpful to engage with tools that make it easier to reinforce them. For anyone looking to curtail their phone usage, the Forest app might be for you."— Business Insider  If you want to temporarily put down yo_...
+
+### Screen Mirroring+ for Roku
+
+![Screen Mirroring+ for Roku](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/a7/51/19/a7511992-6b1c-49f0-fdeb-17255e7a8b22/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Screen Mirroring+ for Roku. The developer 2kit consulting says the following about the app. _TV Mirror for Roku is the easy mirror app to share your iPhone or iPad screen on your Roku Streaming Player, Roku Stick or Roku TV. It's the most advanced screen mirroring solution with zero delay and the highest screen quality.  Mirror photos, videos, games, websites, apps, presentations, documents and spreadsheets on Roku.  * Supported Roku TVs: Hisense, Sharp, TCL, Insignia, Hitachi, Philips, Element, JVC  * Your iPhone/iPad and your Roku must be connected to the same wifi to enable screen mirroring. Please do not use VPN, Proxy, VLANS and Subnets.  * Latency is supreme (below 1 second) when you have good wifi network conditions   Limitations and Support  * Black screen issues: Some third_...
+
+### FlickType Keyboard
+
+![FlickType Keyboard](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/d7/b7/78/d7b7784f-acbe-8dde-9f0d-5809d0425bd0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by FlickType Keyboard. The developer Kpaw, LLC says the following about the app. _FlickType is the practical keyboard for your Apple Watch. It's also a fully accessible iPhone keyboard for visually impaired users.  TYPE EFFORTLESSLY, ANYWHERE. FlickType's universal design makes typing easy, fast, and comfortable — even on your Apple Watch!  SURPRISINGLY SMART. Don't slow down or try to be accurate. Just tap where it feels right and FlickType's unique algorithm will find the correct word from the pattern of your taps.   FLICK TO EDIT Delete or change entire words with a single flick of your finger. On Apple Watch you can also use the Digital Crown to change words, punctuation, or emoji.  FAST, EASY & FUN. FlickType users type up to three times faster compared to the standa_...
+
+### GoodNotes 5
+
+![GoodNotes 5](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/1e/a1/2d/1ea12d7c-be44-310a-d5a5-42cfd76676ce/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes GoodNotes 5. The developer Time Base Technology Limited says the following about the app. _Transform your iPad into smart digital paper. Take handwritten notes in digital notebooks, on imported PDF, PowerPoint, and Word documents, or on images and photos. All notes are searchable and you'll never have to worry about losing or misplacing them again. GoodNotes is one of the top paid iPad apps worldwide and is frequently featured on the App Store, making it a must-have for your iPad.   WRITE NATURALLY - LIKE ON REAL PAPER * Fluent, precise, and completely natural writing experience thanks to GoodNotes pioneering vector ink engine * Write with the Apple Pencil, Logitech Crayon, or with many capacitive styluses and even your finger * Select and customize your pen color, thickness, and _...
+
+### Notability
+
+![Notability](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/5b/87/3f5b8701-fed3-24cb-abe4-e9c6fb8b12ce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Notability. The developer Ginger Labs says the following about the app. _Welcome to Notability: powerful, yet wonderfully simple note-taking and PDF annotation.  Apple Editors' Choice on iPad, iPhone, and Mac!  Top selling paid app on iPad App Store, regularly ranked #1.  Students, teachers, and business professionals use Notability daily to enrich their lives. It is uniquely designed for each device to provide the best note-taking experience at school, home, and work.   CREATE MEMORABLE MULTI-MEDIA NOTES  • Work with a variety of note-taking, journaling, and drawing tools like ink, highlighter, text, and audio.   • Explore endless ideas with continuous page scroll.   • Mark up imported textbooks, documents, lecture slides, class assignments, and images_...
+

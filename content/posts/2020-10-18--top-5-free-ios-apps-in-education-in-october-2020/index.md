@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Education in October 2020
+subTitle: Top 5 Free iOS Apps in Education and Reviews from the AppStore in October 2020.
+category: "top 5 free ios apps in education"
+cover: main.png
+---
+
+### Photomath
+
+![Photomath](https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/12/fc/ae/12fcaeb3-39d8-2f2f-d42c-0ec09dd87ded/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.    Photomath is free and works without wi-fi or data. Whether you’re on the bus, in a cave, or just offline, core Photomath is always available.   We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • No internet or data required for equation-based problems  • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solv_...
+
+### Toca Life World: Build stories
+
+![Toca Life World: Build stories](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/1b/2e/a5/1b2ea5fa-22a3-b3a0-fa10-a2938e36def5/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Toca Life World: Build stories. The developer Toca Boca AB says the following about the app. _Create your own world and play out any story you like with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Office, Hospital and more, all together in one place.   INTRODUCING TOCA LIFE WORLD Want to give grandma a wild hairstyle? Bring a sloth to the Skate Park? Or just hang out with friends? If you thought it was fun to dive into a Toca Life app and do whatever you want then you were right. Anything is possible and the choices are all yours.   Go even further by creating stories with your favorite characters in any location you want. Want to take a pet to School? Go for it. Take the doctor to the Salon and dye her hair green? Rock on_...
+
+### Socratic by Google
+
+![Socratic by Google](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/18/46/b1/1846b1e1-13ea-ff6e-d642-49d731bdefad/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Socratic by Google. The developer Google LLC says the following about the app. _Need to get unstuck? Socratic can help! This learning app, powered by Google AI, helps you understand your school work at a high school and university level. Ask Socratic a question and the app will find the best online resources for you to learn the concepts. Socratic supports most high school subjects, with more coming soon!  *** KEY FEATURES ***  - HELPFUL RESULTS Use your voice or camera to connect to online resources and understand any problem.  - EVERYTHING YOU NEED IN ONE PLACE Find videos, step-by-step explanations, and more to learn subjects at your own pace.  - EXPERT-CREATED STUDY GUIDES Socratic partnered with teachers and experts to bring you visual explanations in each subject,_...
+
+### SkyView® Lite
+
+![SkyView® Lite](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/cf/2f/a8cf2fe5-a2c0-0582-5ce6-0b09dce71cd5/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is SkyView® Lite. The developer Terminal Eleven LLC says the following about the app. _SkyView® Lite brings stargazing to everyone! Simply point your iPhone, iPad, or iPod at the sky to identify stars, constellations, satellites, and more!  Downloaded over 27 million times.  If you like our lite version of SkyView then you'll love our full version! It includes: a convenient Apple Watch app, a Today Widget displaying tonight's brightest objects, ALL in-app purchases offered in this version, thousands more objects to discover, and more!  App Store Best of 2012 App Store Rewind 2011 -- Best Education App  “If you've ever wanted to know what you're looking at in the night sky, this app is the perfect stargazer's companion.”  – CNET   "If you’ve ever been looking for a stargazing a_...
+
+### Google Classroom
+
+![Google Classroom](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/be/f7/eb/bef7ebc8-1617-4b8f-f9fd-35969a7e19e7/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Google Classroom. The developer Google LLC says the following about the app. _Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.  Classroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organized.  Students can keep track of what’s due on the Assignments page and beg_...
+

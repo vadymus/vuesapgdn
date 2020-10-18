@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Education in October 2020
+subTitle: Top 5 Paid iOS Apps in Education and Reviews from the AppStore in October 2020.
+category: "top 5 paid ios apps in education"
+cover: main.png
+---
+
+### SkyView®
+
+![SkyView®](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/7f/1a/84/7f1a84ee-7452-7fbe-57ad-5539b95aea07/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winner of the battle is SkyView®. The developer Terminal Eleven LLC says the following about the app. _SkyView® brings stargazing to everyone. Simply point your iPhone, iPad, or iPod at the sky to identify stars, constellations, planets, satellites, and more!  Over 2.5 million downloads.  App Store Rewind 2011 -- Best Education App  “If you've ever wanted to know what you're looking at in the night sky, this app is the perfect stargazer's companion.”  – CNET   "If you’ve ever been looking for a stargazing app for your iPhone, then this [is] definitely the one to get."  – AppAdvice   “SkyView is an Augmented Reality app that lets you see just what delights the sky has to offer.”  – 148Apps Editor’s Choice  You don't need to be an astronomer to find stars or constellations in the sky, just open_...
+
+### Toca Life: Neighborhood
+
+![Toca Life: Neighborhood](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/55/63/63/556363aa-0f92-d2ef-9be0-baf2a98695aa/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Toca Life: Neighborhood. The developer Toca Boca AB says the following about the app. _Welcome to your new neighborhood, filled with friendly faces to hang out with. Explore your new block, where you can check out cafés and shops, and meet a new set of characters. And guess what? A Toca Life app has never had this many homes!  MOVE INTO YOUR NEW APARTMENT What’s your interior style? Minimalistic, cute, bohemian or industrial? Pick one of four apartments, or move into all of them! Move in, get settled, visit your neighbors and invite them to help decorate your home!   DECORATE YOUR PLACE Visit the interior design store where​ you can find loads of items to decorate your new place. Plants, clocks, pillows and mailboxes! Paintings, stools and many other things_...
+
+### Star Walk 2 - Night Sky Map
+
+![Star Walk 2 - Night Sky Map](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/f5/cf/19/f5cf19a7-fa0d-c867-d56b-30d4ebecffdd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Star Walk 2 - Night Sky Map. The developer Vito Technology Inc. says the following about the app. _Star Walk 2 is an exquisite stargazing app enabling you to explore the night sky through the screen of your device. Make an effortless journey through thousands of stars, comets, constellations, and other celestial bodies. All you have to do is point your device to the sky!  ⁕ BEST OF 2014: The next generation of the best-selling Star Walk, winner of Apple Design Award, used by over 10 million people ⁕  The app taps your device’s sensors and the GPS to determine the exact position of stars, planets, constellations, comets, ISS, satellites, meteor showers, etc., in the night sky.  “She’s a beauty.”- The Next Web  “Star Walk 2 is a terrific introduction to astronomy for young and old_...
+
+### Toca Life: Hospital
+
+![Toca Life: Hospital](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/bf/14/5a/bf145aa4-4531-dd69-6125-3efbb9989609/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Toca Life: Hospital. The developer Toca Boca AB says the following about the app. _Experience the excitement of a busy medical center with Toca Life: Hospital! Welcome newborn babies into the world, treat sick patients and even say goodbye to loved ones. Toca Life: Hospital is a place where you can play out the joy and pain of life in your own way.  LIVE THE CIRCLE OF LIFE  THE BEGINNING Welcoming a new baby into the world can be a little scary and very exciting! Share in that excitement as we welcome newborn babies to Toca Life! Family members and medical staff can love and care for these tiny, swaddled cuties.   THE END Sometimes sad moments happen in hospitals, too. The farewell room in Toca Life: Hospital gives loved ones a chance to say goodbye in a peaceful setting_...
+
+### Toca Life: Vacation
+
+![Toca Life: Vacation](https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/1c/e0/fc/1ce0fc94-26b8-907a-cec1-d5882fd6626d/AppIcon-1x_U007emarketing-85-220-8.png/100x100bb.png)Then, we have Toca Life: Vacation. The developer Toca Boca AB says the following about the app. _Make every day a vacation adventure! Feel the excitement of going through the airport to catch your flight. Jumping on a hotel bed. Digging for treasure on the beach. Create all the vacation fun you want with Toca Life: Vacation!  EXPLORE With four locations to explore in Toca Life: Vacation, you’ll never run out of ideas for your stories. Want to start your adventure at the airport? Have fun with the X-ray machine, board the plane and visit the cockpit. Then get a snack and enjoy your flight! At your destination, you have many choices for activities: shopping and sightseeing on the boardwalk, playing at the beach and surfing in the ocean and exploring the hotel_...
+

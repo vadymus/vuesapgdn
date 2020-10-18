@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Photo and Video in September 2020
+subTitle: Top 5 Paid iOS Apps in Photo and Video and Reviews from the AppStore in September 2020.
+category: "top 5 paid ios apps in photo and video"
+cover: main.png
+---
+
+### Facetune
+
+![Facetune](https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a1/2a/29/a12a29ba-b21d-9ad5-28c2-ec989e0d0734/AppIcon-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png)The first place is taken by Facetune. The developer Lightricks Ltd. says the following about the app. _Facetune 2 is now available on the App Store!  • "Facetune helps you look your Hollywood best, even in photos taken on mobile phones." - Roy Furchgott, The NY Times •  Facetune is a fun and powerful portrait & selfie photo editor! •  #1 Photo and Video App in 127 countries!                       Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.  Praises about Facetune: • "Facetune helps you look your Holl_...
+
+### TouchRetouch
+
+![TouchRetouch](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/33/f8/b6/33f8b663-c77a-7469-4523-599ebf465e39/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app TouchRetouch. The developer ADVA Soft GmbH says the following about the app. _“…there's no easier way to remove unwanted items from your images...” — The Guardian “It's in my Top 5 "must have" photo apps.” — Michał Koralewski, Photographer of the Year 2015, IPPAwards “TouchRetouch is a terrific ‘remover’.” — Life In LoFi   TouchRetouch is an app that offers you all the tools you need to efficiently remove unwanted content from your iPhone photos.  What magic can you do with TouchRetouch?  • Remove telephone wires and posts, power lines • Remove surface breaks and scratches — both straight and curved • Remove photobombers • Remove pimples and skin blemishes • Remove human-made objects like stop lights, street signs, trash cans • Remove whatever you feel is spoiling you_...
+
+### Superimpose
+
+![Superimpose](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/30/23/c6/3023c68b-c99c-176d-1ce6-a550fefb92e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Superimpose. The developer Pankaj Goswami says the following about the app. _Just with a few taps, create professional grade superimposed or juxtaposed photos on your iPhone! You don't need a computers and expensive software to superimpose or blend/mix/combine/cut/copy/paste one photo on top of another any more.  Here is how it works...  1. Load a background image. 2. Load a foreground image. 3. Mask out unwanted portion of the foreground image using wide range of masking tools. 4. Smoothen the edges with smoothen tool inside the app, if required. 5. Move, Scale, Resize, Rotate, Flip the foreground to place it on the right location on the background image. 6. Adjust the colors/exposure/contrast/hue/saturation etc. of the foreground and the background images if requir_...
+
+### Photo Widget
+
+![Photo Widget](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/17/5d/6c/175d6c87-66fd-75dd-b420-217838369ebe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Photo Widget. The developer Francis Bonnin says the following about the app. _Those Widgets are compatible with the new iOS 14 Home Screen Widgets.  Thanks to this application (and the other Widget apps from PacoLabs), you can now customize the Today view of your device, by adding custom widgets for some specific purposes. From anywhere in your device, with a simple top to bottom swipe, you'll have access to your own information and actions.  Each Photo widget allows to view one or more photos from the photo library of your device. This is the quickest access to the favorite photos of your beloved family and friends. Add from 1 to 6 photos in each widget, in order to maximize the available space. Those photos can be viewed in fullscreen by touching them_...
+
+### Mirror for Roku - AirBeamTV
+
+![Mirror for Roku - AirBeamTV](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/35/ad/a5/35ada548-017f-b131-b9df-db5b3020dc82/AppIcon-Screen-Roku-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Mirror for Roku - AirBeamTV. The developer AirBeamTV BV says the following about the app. _Application to mirror the screen and audio of your iPhone or iPad to your Roku. This can be any Roku Streaming Player, Roku Stick or Roku TV (from Hisense, TCL, Insignia, Element, Onn and Sharp)! You can mirror any app on your iPhone or iPad to your Roku.  In using the app, there will be a couple of seconds of latency (usually between 1 and 3). So this mirroring is not suitable for gaming.   However, it is very suitable for watching movies, giving presentations, watching photos, and much more!  How the app works:  1. Make sure that your iPhone or iPad is connected to the same local network as your Roku. Don't use multiple VLANs, a VPN or subnets.  2. Launch the Mirror for Roku app_...
+

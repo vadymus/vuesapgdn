@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Navigation in August 2020
+subTitle: Top 5 Free iOS Apps in Navigation and Reviews from the AppStore in August 2020.
+category: "top 5 free ios apps in navigation"
+cover: main.png
+---
+
+### Google Maps - Transit & Food
+
+![Google Maps - Transit & Food](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/e4/10/85/e41085f8-c929-a097-ec29-c73e9ac9c610/logo_maps_ios_color-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png)The first place belongs to Google Maps - Transit & Food. The developer Google LLC says the following about the app. _Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and find what you need by getting the latest information on businesses, including grocery stores, pharmacies and other important places.  Get where you need to go efficiently: • Find the best route with automatic rerouting based on live traffic, incidents, and road closure  Find important businesses: • Know what’s open in your area and their latest business hours • Find local restaurants offering delivery and takeout • Create lists of your important places   Get there faster wit_...
+
+### Waze Navigation & Live Traffic
+
+![Waze Navigation & Live Traffic](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/54/6e/88/546e8832-8ead-7211-06e6-09f787b744ac/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Waze Navigation & Live Traffic. The developer Waze Inc. says the following about the app. _Always know what’s happening on the road with Waze. Even if you know the way, Waze tells you instantly about traffic, construction, police, crashes, & more. If traffic is bad on your route, Waze will change it to save you time.  Why Waze? ◦ See what’s happening - Alerts about traffic, police, hazards and more on your drive ◦ Get there faster - Instant routing changes to avoid traffic and save you time ◦ Easily listen to music - play your favorite apps for music, podcasts & more right from Waze ◦ Know when you’ll arrive - your Arrival Time is based on live traffic data ◦ Pay less for gas - find the cheapest gas along your route ◦ Drive with Apple CarPlay - use Waze on your car’s display ◦ Alw_...
+
+### ParkMobile - Find Parking
+
+![ParkMobile - Find Parking](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/5c/69/bf/5c69bf73-80fd-46de-2857-7deca8b6d76c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes ParkMobile - Find Parking. The developer Parkmobile USA, Inc. says the following about the app. _With over 18 million users, ParkMobile is a smarter way to park. Easily pay for street, lot, or garage parking right from your mobile device. You can also reserve parking ahead of time near garages and stadiums across the country. ParkMobile is available in over 350 cities including New York, San Francisco, Washington, DC, Atlanta, Chicago, Miami, New Orleans, Dallas, St. Louis, Minneapolis, Pittsburgh and Philadelphia.  Why Use ParkMobile? •	Skip the meter and easily pay for parking right on your mobile device •	Extend your parking time remotely from the app •	Get alerts so you know when your parking session is going to expire •	Reserve parking spots in garages ahead of time to save up to 5_...
+
+### Transit • Subway & Bus Times
+
+![Transit • Subway & Bus Times](https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/21/d5/d7/21d5d7de-901f-b62e-55ba-29b02ffac7f2/AppIcon-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/100x100bb.png)Next comes Transit • Subway & Bus Times. The developer Transit App, Inc. says the following about the app. _"Gives you the best route to where you want to go" - New York Times “You won't realize how much time you can save planning until you use this app” - LA Times “Killer app” - WSJ  "MBTA has a favorite transit app — and it's called Transit" - Boston Globe  Transit is your real-time urban travel companion. Navigate your city’s public transit system with accurate real-time predictions, simple trip planning, step-by-step navigation, service disruption notifications, and departure and stop reminders... all presented in a clear, bold interface. Public transport not cooperating? Easily request a ride from Uber, Lyft or VIA, or grab the closest bikeshare_...
+
+### onX Hunt: #1 GPS Hunting Map
+
+![onX Hunt: #1 GPS Hunting Map](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/de/96/94/de969485-d785-ce96-8ac7-0cd2315ea27b/AppIcon-Hunt-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is onX Hunt: #1 GPS Hunting Map. The developer onXmaps, Inc. says the following about the app. _onX Hunt has been featured in Field and Stream, Outdoor Life and American Hunter as the best hunting app, hiking app, and GPS app for any outdoorsman or hunter. Used by millions of US hunters.  Know where you stand with the most trusted and accurate map data. Use onX Hunt as a fully functioning free GPS on your phone. View private and public land ownership maps, Hunting Units, roads and all trails, US topographic maps and more! Turn your phone into the best free hunting app with offline maps, location tracking GPS for hunting, and more!  ▶ FREE HUNTING APP FEATURES  • NO ADS • Web Map for scouting at home and syncing data to your mobile. Web Hunting Map: www.onxmaps_...
+
