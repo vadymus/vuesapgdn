@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Education in December 2020
+subTitle: Top 5 Free iOS Apps in Education and Reviews from the AppStore in December 2020.
+category: "top 5 free ios apps in education"
+cover: main.png
+---
+
+### Kahoot! Play & Create Quizzes
+
+![Kahoot! Play & Create Quizzes](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/01/16/ac/0116acd3-3460-3b0e-0b45-37ae7319976c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to Kahoot! Play & Create Quizzes. The developer Kahoot! AS says the following about the app. _Play engaging quiz-based games (kahoots) at school, at home and at work, create your own kahoots and learn something new! Kahoot! brings the magic of learning for students, teachers, office superheroes, trivia fans and lifelong learners.   Here’s what you can do with the Kahoot! app:   Students - Join kahoots hosted live - in class or virtually - and use the app to submit answers - Complete self-paced challenges - Study at home or on the go with flashcards and other study modes - Challenge your friends with kahoots you found or created - Create your own kahoots and add images or videos - Host kahoots live for family and friends directly from your mobile device     Families and friends - Find_...
+
+### Photomath
+
+![Photomath](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/8d/30/5d/8d305dde-e2e3-a518-72c9-936738684577/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.    Photomath is free and works without wi-fi or data. Whether you’re on the bus, in a cave, or just offline, core Photomath is always available.   We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • No internet or data required for equation-based problems  • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solv_...
+
+### Google Classroom
+
+![Google Classroom](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/40/93/9d/40939dc8-0c90-edf4-0910-20247beb5e75/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Google Classroom. The developer Google LLC says the following about the app. _Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.  Classroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organized.  Students can keep track of what’s due on the Assignments page and beg_...
+
+### Socratic by Google
+
+![Socratic by Google](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/18/21/33/182133b8-6a7b-4899-6ad4-8bd8fbf9d8e7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Socratic by Google. The developer Google LLC says the following about the app. _Need to get unstuck? Socratic can help! This learning app, powered by Google AI, helps you understand your school work at a high school and university level. Ask Socratic a question and the app will find the best online resources for you to learn the concepts. Socratic supports most high school subjects, with more coming soon!  *** KEY FEATURES ***  - HELPFUL RESULTS Use your voice or camera to connect to online resources and understand any problem.  - EVERYTHING YOU NEED IN ONE PLACE Find videos, step-by-step explanations, and more to learn subjects at your own pace.  - EXPERT-CREATED STUDY GUIDES Socratic partnered with teachers and experts to bring you visual explanations in each subject,_...
+
+### Mathway: Math Problem Solver
+
+![Mathway: Math Problem Solver](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/68/39/13/68391341-a6c1-2edb-4fa8-24f4069daa1a/AppIcons-1x_U007emarketing-3-85-220.png/100x100bb.png)Next comes Mathway: Math Problem Solver. The developer Mathway, LLC says the following about the app. _With millions of users and billions of problems solved, Mathway is the world's #1 math problem solver. From basic algebra to complex calculus, Mathway instantly solves your most difficult math problems - simply type your problem in (or point your camera and snap a pic!) to receive instant free answers.  Need detailed step-by-step solutions? Mathway is like a private tutor in the palm of your hand, providing instant homework help anywhere, anytime.  Mathway covers all levels of math, including: • Basic Math/Pre-Algebra (arithmetic, integers, fractions, decimal numbers, roots, factors, and more...) • Algebra (linear equations/inequalities, quadratic equations/inequalities, absolute equations/i_...
+

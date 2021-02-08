@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Education in February 2021
+subTitle: Top 5 Free iOS Apps in Education and Reviews from the AppStore in February 2021.
+category: "top 5 free ios apps in education"
+cover: main.png
+---
+
+### Brainly – Homework Help App
+
+![Brainly – Homework Help App](https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/ed/e6/1e/ede61e97-6aac-bc5f-ac6d-0a47cf8161bb/BrainlyAppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Brainly – Homework Help App. The developer Brainly sp. z o o says the following about the app. _Need help with school, and fast? Brainly makes you instantly smarter at any school subject, like Math, History, English, Biology, Chemistry, Physics, Social Studies, Advanced Placement (AP), Geography, Health, Arts, Business, Computers and Technology, French, German, Spanish, and World Languages. All to help you grow from questioning to understanding.  • NEW! MATH SOLVER: Scan math problems and get step-by-step guidance • Free homework help - Brainly Basic is 100% free of charge • 24/7 schoolwork app - Unlimited access, anywhere, anytime • Lightning quick answers and explanations - Questions are answered in minutes • Ask by pic, voice, or text and get instant answers • Verified info - A dedi_...
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/79/39/2a/79392ab2-f95f-87fe-8b63-fb0625ea15d3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### Photomath
+
+![Photomath](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/2b/5d/ae/2b5dae81-1faa-1a38-0a21-d309c745245b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.    Photomath is free and works without wi-fi or data. Whether you’re on the bus, in a cave, or just offline, core Photomath is always available.   We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • No internet or data required for equation-based problems  • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solv_...
+
+### Google Classroom
+
+![Google Classroom](https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/40/93/9d/40939dc8-0c90-edf4-0910-20247beb5e75/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Google Classroom. The developer Google LLC says the following about the app. _Classroom is a free service for schools, non-profits, and anyone with a personal Google account. Classroom makes it easy for learners and instructors to connect—inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate, and stay organized.  Classroom is designed to help teachers create, collect, and grade assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organized.  Students can keep track of what’s due on the Assignments page and beg_...
+
+### Socratic by Google
+
+![Socratic by Google](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/18/21/33/182133b8-6a7b-4899-6ad4-8bd8fbf9d8e7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Socratic by Google. The developer Google LLC says the following about the app. _Need to get unstuck? Socratic can help! This learning app, powered by Google AI, helps you understand your school work at a high school and university level. Ask Socratic a question and the app will find the best online resources for you to learn the concepts. Socratic supports most high school subjects, with more coming soon!  *** KEY FEATURES ***  - HELPFUL RESULTS Use your voice or camera to connect to online resources and understand any problem.  - EVERYTHING YOU NEED IN ONE PLACE Find videos, step-by-step explanations, and more to learn subjects at your own pace.  - EXPERT-CREATED STUDY GUIDES Socratic partnered with teachers and experts to bring you visual explanations in each subject,_...
+

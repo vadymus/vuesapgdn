@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Productivity in December 2020
+subTitle: Top 5 Paid iOS Apps in Productivity and Reviews from the AppStore in December 2020.
+category: "top 5 paid ios apps in productivity"
+cover: main.png
+---
+
+### Screen Mirroring+ for Roku
+
+![Screen Mirroring+ for Roku](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/a7/51/19/a7511992-6b1c-49f0-fdeb-17255e7a8b22/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to Screen Mirroring+ for Roku. The developer Kraus und Karnath GbR 2Kit Consulting says the following about the app. _TV Mirror for Roku is the easy mirror app to share your iPhone or iPad screen on your Roku Streaming Player, Roku Stick or Roku TV. It's the most advanced screen mirroring solution with zero delay and the highest screen quality.  Mirror photos, videos, games, websites, apps, presentations, documents and spreadsheets on Roku.  * Supported Roku TVs: Hisense, Sharp, TCL, Insignia, Hitachi, Philips, Element, JVC  * Your iPhone/iPad and your Roku must be connected to the same wifi to enable screen mirroring. Please do not use VPN, Proxy, VLANS and Subnets.  * Latency is supreme (below 1 second) when you have good wifi network conditions   Limitations and Support  * Black screen issues: Some third_...
+
+### Forest - Stay focused
+
+![Forest - Stay focused](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/76/06/af/7606af47-07fe-46a0-0424-8842c10cab30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Forest - Stay focused. The developer SEEKRTECH CO., LTD. says the following about the app. _## Top productivity app in 136 countries. More than 2 million satisfied paying users. Featured in Apple's "Amazing Apps" TV commercial. ## Staying focused with the cutest gamified timer.  ## Over 800,000 real trees were planted on Earth by our users.    "Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you."— The New York Times   "In order to establish new, better habits, it's helpful to engage with tools that make it easier to reinforce them. For anyone looking to curtail their phone usage, the Forest app might be for you."— Business Insider  If you want to temporarily put down yo_...
+
+### FlickType Keyboard
+
+![FlickType Keyboard](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/cb/97/d8/cb97d836-3954-343b-e56f-63ce6fabd7a8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes FlickType Keyboard. The developer Kpaw, LLC says the following about the app. _FlickType is the practical keyboard for your Apple Watch. It's also a fully accessible iPhone keyboard for visually impaired users.  TYPE EFFORTLESSLY, ANYWHERE. FlickType's universal design makes typing easy, fast, and comfortable — even on your Apple Watch!  SURPRISINGLY SMART. Don't slow down or try to be accurate. Just tap where it feels right and FlickType's unique algorithm will find the correct word from the pattern of your taps.   FLICK TO EDIT Delete or change entire words with a single flick of your finger. On Apple Watch you can also use the Digital Crown to change words, punctuation, or emoji.  FAST, EASY & FUN. FlickType users type up to three times faster compared to the standa_...
+
+### GoodNotes 5
+
+![GoodNotes 5](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/e2/63/13/e263132b-2329-3a2a-90d8-6b509dd89eb6/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is GoodNotes 5. The developer Time Base Technology Limited says the following about the app. _Transform your iPad into smart digital paper. Take handwritten notes in digital notebooks, on imported PDF, PowerPoint, and Word documents, or on images and photos. All notes are searchable and you'll never have to worry about losing or misplacing them again. GoodNotes is one of the top paid iPad apps worldwide and is frequently featured on the App Store, making it a must-have for your iPad.   WRITE NATURALLY - LIKE ON REAL PAPER * Fluent, precise, and completely natural writing experience thanks to GoodNotes pioneering vector ink engine * Write with the Apple Pencil, Logitech Crayon, or with many capacitive styluses and even your finger * Select and customize your pen color, thickness, and _...
+
+### PLANBELLA - Planner App
+
+![PLANBELLA - Planner App](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/60/1e/3d/601e3d16-62a5-f51c-6e58-6e9d30a09b62/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes PLANBELLA - Planner App. The developer Netzinkubator Software GmbH says the following about the app. _A minimal and modern calendar app with an exceptional design. A digital version of your bullet journal where you can organize events, tasks and notes.  Features - enjoy an elegant and eye-pleasing design - plan appointments and set up a stylish agenda - write daily to-do lists and mark tasks as completed - take notes for every day and create a diary - set reminders for important events, tasks or notes - synchronize with other calendars - add highlights to significant calendar entries - save time with recurrence options - create backups - no sign-in or registration necessary_...
+

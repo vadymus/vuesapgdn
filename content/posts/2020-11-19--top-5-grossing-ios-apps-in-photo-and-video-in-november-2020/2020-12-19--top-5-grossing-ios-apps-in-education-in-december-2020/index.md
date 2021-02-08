@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in December 2020
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in December 2020.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/49/a5/71/49a5718b-6172-dd76-0970-1b2323117eb7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### Toca Life World: Build stories
+
+![Toca Life World: Build stories](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/b4/23/d5b423f9-fad6-60bd-0a7c-defd0cc2e37e/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Toca Life World: Build stories. The developer Toca Boca AB says the following about the app. _Create your own world and play out any story you like with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Office, Hospital and more, all together in one place.   INTRODUCING TOCA LIFE WORLD Want to give grandma a wild hairstyle? Bring a sloth to the Skate Park? Or just hang out with friends? If you thought it was fun to dive into a Toca Life app and do whatever you want then you were right. Anything is possible and the choices are all yours.   Go even further by creating stories with your favorite characters in any location you want. Want to take a pet to School? Go for it. Take the doctor to the Salon and dye her hair green? Rock on_...
+
+### Mathway: Math Problem Solver
+
+![Mathway: Math Problem Solver](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/68/39/13/68391341-a6c1-2edb-4fa8-24f4069daa1a/AppIcons-1x_U007emarketing-3-85-220.png/100x100bb.png)Next comes Mathway: Math Problem Solver. The developer Mathway, LLC says the following about the app. _With millions of users and billions of problems solved, Mathway is the world's #1 math problem solver. From basic algebra to complex calculus, Mathway instantly solves your most difficult math problems - simply type your problem in (or point your camera and snap a pic!) to receive instant free answers.  Need detailed step-by-step solutions? Mathway is like a private tutor in the palm of your hand, providing instant homework help anywhere, anytime.  Mathway covers all levels of math, including: • Basic Math/Pre-Algebra (arithmetic, integers, fractions, decimal numbers, roots, factors, and more...) • Algebra (linear equations/inequalities, quadratic equations/inequalities, absolute equations/i_...
+
+### ABCmouse.com
+
+![ABCmouse.com](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/8c/bc/58/8cbc58a6-3385-8f41-9708-c5e87bd3be43/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.png)Next comes ABCmouse.com. The developer Age of Learning, Inc. says the following about the app. _Start your 30-day free trial of ABCmouse now! Cancel anytime.  ABCmouse is the award-winning learning program that covers reading, math, art, music, and more for kids ages 2 to 8. Created by teachers and education experts, it has 10,000+ exciting Learning Activities for children at all academic levels.  Proven to Significantly Increase Reading Skills with as little as 45 minutes a week*.    Key Features  The ABCmouse Early Learning Academy is the research-validated program that kids 2–8 love to play with as they learn:  • Full standards-based curriculum for learning on the iPad and iPhone • Trusted by teachers and designed by early learning education experts • Used in more than 70,000 classr_...
+
+### Photomath
+
+![Photomath](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/8d/30/5d/8d305dde-e2e3-a518-72c9-936738684577/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.    Photomath is free and works without wi-fi or data. Whether you’re on the bus, in a cave, or just offline, core Photomath is always available.   We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • No internet or data required for equation-based problems  • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solv_...
+

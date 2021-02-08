@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Photo and Video in February 2021
+subTitle: Top 5 Paid iOS Apps in Photo and Video and Reviews from the AppStore in February 2021.
+category: "top 5 paid ios apps in photo and video"
+cover: main.png
+---
+
+### Facetune
+
+![Facetune](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/96/36/41/963641f7-44ee-84b7-73eb-831a899087e2/AppIcon-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png)The winner of the battle is Facetune. The developer Lightricks Ltd. says the following about the app. _Facetune 2 is now available on the App Store!  • "Facetune helps you look your Hollywood best, even in photos taken on mobile phones." - Roy Furchgott, The NY Times •  Facetune is a fun and powerful portrait & selfie photo editor! •  #1 Photo and Video App in 127 countries!                       Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.  Praises about Facetune: • "Facetune helps you look your Holl_...
+
+### TouchRetouch
+
+![TouchRetouch](https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/33/f8/b6/33f8b663-c77a-7469-4523-599ebf465e39/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app TouchRetouch. The developer ADVA Soft GmbH says the following about the app. _“…there's no easier way to remove unwanted items from your images...” — The Guardian “It's in my Top 5 "must have" photo apps.” — Michał Koralewski, Photographer of the Year 2015, IPPAwards “TouchRetouch is a terrific ‘remover’.” — Life In LoFi   TouchRetouch is an app that offers you all the tools you need to efficiently remove unwanted content from your iPhone photos.  What magic can you do with TouchRetouch?  • Remove telephone wires and posts, power lines • Remove surface breaks and scratches — both straight and curved • Remove photobombers • Remove pimples and skin blemishes • Remove human-made objects like stop lights, street signs, trash cans • Remove whatever you feel is spoiling you_...
+
+### Screen Mirroring+ for Fire TV
+
+![Screen Mirroring+ for Fire TV](https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/0e/1c/13/0e1c131d-4f6b-e1c1-9889-eb5e80a1e9e3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Screen Mirroring+ for Fire TV. The developer Kraus und Karnath GbR 2Kit Consulting says the following about the app. _TV Mirror for Fire TV is the easy screen mirror app to share your iPhone or iPad screen on your Fire TV. It's the most advanced screen mirroring solution with zero delay and the highest screen quality.  Mirror photos, videos, games, websites, apps, presentations, documents and spreadsheets on Fire TV.  * Supported Fire TVs: Fire TV Box+Stick, Fire TV Cube and all other devices of the Fire TV Family.  * Supported TVs: Insignia TV and Toshiba TV with Fire TV Edition  * Your iPhone/iPad and your Fire TV must be connected to the same wifi to enable screen mirroring. Please do not use VPN, Proxy, VLANS and Subnets.  * Latency is supreme (below 1 second) when you have good wifi network conditions _...
+
+### Rarevision VHS - Retro 80s Cam
+
+![Rarevision VHS - Retro 80s Cam](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/77/67/7d/77677d61-cad3-3bbe-8f3c-475b0f989134/AppIcon-1x_U007emarketing-0-4-0-0-85-220.png/100x100bb.png)Then, we have Rarevision VHS - Retro 80s Cam. The developer Rarevision says the following about the app. _Used by Kendall Jenner, Snoop Dogg, Khloe Kardashian, Victoria Beckham, Wiz Khalifa, BTS, Die Antwoord, Philip Bloom and featured on SNL (S41E01) and in countless TV shows and music videos!  Covered by WIRED, TechCrunch, Mashable, Forbes, Wall Street Journal, Popular Mechanics, The Independent, Macworld, TMZ and many, many others!  App of the Day for Friday, Dec 22, 2017  It's 1984, and you've got a VHS camcorder! It'll look that way when you record and send old, messed up-looking retro videos to friends. They'll swear you built a time machine: "OMG, how'd you shoot that?"  With Rarevision VHS, you'll make videos that look and sound like real retro video tapes pulled out of storage after 30 _...
+
+### Mirror for Samsung TV
+
+![Mirror for Samsung TV](https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a4/bc/f3/a4bcf346-8f0a-1a40-83d9-c1f2db27d9ac/contsched.euhuirfh.png/100x100bb.png)Next comes Mirror for Samsung TV. The developer AirBeamTV BV says the following about the app. _Application to mirror the screen of your iPhone or iPad to any Samsung Smart TV. No wires and no additional hardware needed! You can mirror any app on your iPhone or iPad to your Samsung TV.  To mirror video as well as audio, please make sure that you start mirroring when you are in the app (Photos, YouTube, Facebook etc.) that you want to mirror to your TV.  This works on any Samsung Smart TV from the 2012 models onward. Which model year do you have? You can see that by looking at the middle letter in your model type (on the back of your Samsung TV).  E = 2012 F = 2013 H = 2014 J = 2015 K = 2016 M = 2017 N = 2018 R = 2019 T = 2020 Q = QLED (also supported)  For instance:  UE55_E_S8000 = 201_...
+
