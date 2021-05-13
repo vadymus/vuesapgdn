@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Photo and Video in May 2021
+subTitle: Top 5 Free iOS Apps in Photo and Video and Reviews from the AppStore in May 2021.
+category: "top 5 free ios apps in photo and video"
+cover: main.png
+---
+
+### YouTube: Watch, Listen, Stream
+
+![YouTube: Watch, Listen, Stream](https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/7f/a5/86/7fa5863b-82ba-ab50-3a0e-08a1d7b67591/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winner of the battle is YouTube: Watch, Listen, Stream. The developer Google LLC says the following about the app. _Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.  Watch and subscribe ● Browse personal recommendations on Home ● See the latest from your favorite channels in Subscriptions ● Look up videos you’ve watched, liked, and saved for later in Library  Explore different topics, what’s popular, and on the rise (available in select countries) ● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more ● See what’s trending on YouTube and_...
+
+### Instagram
+
+![Instagram](https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/2c/32/94/2c3294c1-2430-feb1-fa51-b62d73733678/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Instagram. The developer Instagram, Inc. says the following about the app. _Bringing you closer to the people and things you love. — Instagram from Facebook  Connect with friends, share what you’re up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.  Express Yourself and Connect With Friends  * Add photos and videos to your story that disappear after 24 hours, and bring them to life with fun creative tools. * Message your friends with Messenger. Share and connect over what you see on Feed and Stories. * Create and discover short, entertaining videos on Instagram with Reels. * Post photos and videos to your feed that you want to show on_...
+
+### Snapchat
+
+![Snapchat](https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/d6/08/e8/d608e8a7-d63e-d798-854c-ab6991325250/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Snapchat. The developer Snap, Inc. says the following about the app. _Snapchat is the most fun way to share the moment!  SNAP •Snapchat opens right to the camera, so you can send a Snap in seconds! Just take a photo or video, add a caption, and send it to your best friends and family. Express yourself with Filters, Lenses, Bitmojis, and all kinds of fun effects. • Capturing and sending photos and videos is easy! Tap to take a photo, or press and hold for video. • New selfie Lenses and Filters are added every day. Change the way you look, dance with your 3D Bitmoji, and even play games with your face! • Create your own Filters to add to photos and videos — or try out Lenses made by our community!  CHAT • Stay in touch with friends and groups with live messaging_...
+
+### Google Photos
+
+![Google Photos](https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f9/0a/53/f90a5333-442b-6326-2fac-473a35880e90/logo_photos_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Google Photos. The developer Google LLC says the following about the app. _Google Photos is a smarter home for all your photos and videos, made for the way you take photos today.  “The best photo product on Earth” – The Verge “Google Photos is your new essential picture app” – Wired “Upload the pictures, and let Google Photos do the rest” – The New York Times  • FREE UP SPACE: Never worry about running out of space on your phone again. Photos that are safely backed up can be removed from your device’s storage in just a tap.  • VISUAL SEARCH: Your photos are now searchable by the people, places and things in them—no tagging required.  • SMARTER SHARING: With smart sharing suggestions, giving your friends the photos you took of them is painless_...
+
+### Twitch: Live Game Streaming
+
+![Twitch: Live Game Streaming](https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c7/18/68/c7186895-2719-4d46-a863-a76213fdd681/TwitchAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Twitch: Live Game Streaming. The developer Twitch Interactive, Inc. says the following about the app. _Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.  Catch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.  Twitch: TOP 3 FEATURES  1. Watch live videos of your favorite games, from blockbuster titles like Minecraft and League of Legends to little-known indie gems.  2. Connect with other gamers in real time with full-featured live chat. 3. Go live with a touch and share your passion with the world!  Be a par_...
+
