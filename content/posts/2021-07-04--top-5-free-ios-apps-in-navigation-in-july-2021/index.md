@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Navigation in July 2021
+subTitle: Top 5 Free iOS Apps in Navigation and Reviews from the AppStore in July 2021.
+category: "top 5 free ios apps in navigation"
+cover: main.png
+---
+
+### Google Maps
+
+![Google Maps](https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ed/d8/c0/edd8c0a4-a0b0-998f-5d59-1ff8b875e09f/logo_maps_ios_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Google Maps. The developer Google LLC says the following about the app. _Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and find what you need by getting the latest information on businesses, including grocery stores, pharmacies and other important places.  Get where you need to go efficiently: • Find the best route with automatic rerouting based on live traffic, incidents, and road closure  Find important businesses: • Know what’s open in your area and their latest business hours • Find local restaurants offering delivery and takeout • Create lists of your important places   Get there faster wit_...
+
+### Waze Navigation & Live Traffic
+
+![Waze Navigation & Live Traffic](https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/b3/38/48/b338488c-d6a9-558a-b1d4-fc65f5276915/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Waze Navigation & Live Traffic. The developer Waze Inc. says the following about the app. _Always know what’s happening on the road with Waze. Even if you know the way, Waze tells you instantly about traffic, construction, police, crashes, & more. If traffic is bad on your route, Waze will change it to save you time.  Why Waze? ◦ See what’s happening - Alerts about traffic, police, hazards and more on your drive ◦ Get there faster - Instant routing changes to avoid traffic and save you time ◦ Easily listen to music - play your favorite apps for music, podcasts & more right from Waze ◦ Know when you’ll arrive - your Arrival Time is based on live traffic data ◦ Pay less for gas - find the cheapest gas along your route ◦ Drive with Apple CarPlay - use Waze on your car’s display ◦ Alw_...
+
+### ParkMobile - Find Parking
+
+![ParkMobile - Find Parking](https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/01/51/51/015151ea-e0d7-7c0c-997a-c0325e9098c8/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)Then, we have ParkMobile - Find Parking. The developer Parkmobile USA, Inc. says the following about the app. _With over 20 million users, ParkMobile is a smarter way to park. Easily pay for street, lot, or garage parking right from your mobile device. You can also reserve parking ahead of time near garages and stadiums across the country. ParkMobile is available in over 350 cities including New York, San Francisco, Washington, DC, Atlanta, Chicago, Miami, New Orleans, Dallas, St. Louis, Minneapolis, Pittsburgh and Philadelphia.  Why Use ParkMobile? •	Skip the meter and easily pay for parking right on your mobile device •	Extend your parking time remotely from the app •	Get alerts so you know when your parking session is going to expire •	Reserve parking spots in garages ahead of time to save up to 5_...
+
+### Transit • Subway & Bus Times
+
+![Transit • Subway & Bus Times](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/31/a1/e7/31a1e7f9-70e5-346c-fc0a-fc52ba3f8bf6/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Transit • Subway & Bus Times. The developer Transit App, Inc. says the following about the app. _"Gives you the best route to where you want to go" - New York Times “You won't realize how much time you can save planning until you use this app” - LA Times “Killer app” - WSJ  "MBTA has a favorite transit app — and it's called Transit" - Boston Globe  Transit is your real-time urban travel companion. Navigate your city’s public transit system with accurate real-time predictions, simple trip planning, step-by-step navigation, service disruption notifications, and departure and stop reminders... all presented in a clear, bold interface. Public transport not cooperating? Easily request a ride from Uber, Lyft or VIA, or grab the closest bikeshare_...
+
+### SpotHero: #1 Rated Parking App
+
+![SpotHero: #1 Rated Parking App](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/76/b9/de/76b9de52-0b52-e9ea-f8cb-682cd4e88510/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)Rolling up next is SpotHero: #1 Rated Parking App. The developer SpotHero, Inc. says the following about the app. _Park smarter with the SpotHero iPhone app. SpotHero helps you get everywhere, easier by making it fast and convenient to find and reserve parking in major cities. Plus, when you book your parking spot in advance, you can save up to 50%.  SpotHero gives you access to thousands of garages, lots, and valets nationwide. Whether you’re commuting to work, heading to the airport, or exploring your city, we have a parking spot near you. Use the SpotHero parking app to reserve parking in New York City, Los Angeles, Chicago, Atlanta, Austin, Baltimore, Boston, Dallas, Denver, Detroit, Houston, Indianapolis, Milwaukee, Minneapolis, Miami, New Orleans, Newark, Oakland, Philadelphia, Sacramento, San Dieg_...
+
