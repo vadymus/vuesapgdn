@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Education in September 2021
+subTitle: Top 5 Paid iOS Apps in Education and Reviews from the AppStore in September 2021.
+category: "top 5 paid ios apps in education"
+cover: main.png
+---
+
+### SkyView®
+
+![SkyView®](https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/7f/1a/84/7f1a84ee-7452-7fbe-57ad-5539b95aea07/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to SkyView®. The developer Terminal Eleven LLC says the following about the app. _SkyView® brings stargazing to everyone. Simply point your iPhone, iPad, or iPod at the sky to identify stars, constellations, planets, satellites, and more!  Over 2.5 million downloads.  App Store Rewind 2011 -- Best Education App  “If you've ever wanted to know what you're looking at in the night sky, this app is the perfect stargazer's companion.”  – CNET   "If you’ve ever been looking for a stargazing app for your iPhone, then this [is] definitely the one to get."  – AppAdvice   “SkyView is an Augmented Reality app that lets you see just what delights the sky has to offer.”  – 148Apps Editor’s Choice  You don't need to be an astronomer to find stars or constellations in the sky, just open_...
+
+### Star Walk 2: The Night Sky Map
+
+![Star Walk 2: The Night Sky Map](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/2a/e7/b2/2ae7b2e4-3b00-698d-8750-27f7d07bb04c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Star Walk 2: The Night Sky Map. The developer Vito Technology Inc. says the following about the app. _Star Walk 2 is an exquisite stargazing app enabling you to explore the night sky through the screen of your device. Make an effortless journey through thousands of stars, comets, constellations, and other celestial bodies. All you have to do is point your device to the sky!  ⁕ BEST OF 2014: The next generation of the best-selling Star Walk, winner of Apple Design Award, used by over 10 million people ⁕  The app taps your device’s sensors and the GPS to determine the exact position of stars, planets, constellations, comets, ISS, satellites, meteor showers, etc., in the night sky.  “She’s a beauty.”- The Next Web  “Star Walk 2 is a terrific introduction to astronomy for young and old_...
+
+### Toca Kitchen 2
+
+![Toca Kitchen 2](https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/66/81/34/668134c9-4d40-0377-9d95-aa716f3332b8/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.png)Rolling up next is Toca Kitchen 2. The developer Toca Boca AB says the following about the app. _The wildly popular Toca Kitchen is back! With new guests to cook for, more tools to play with and new food combinations to test out, Toca Kitchen 2 invites all chefs to get messy and start playing!  GET CREATIVE Who said dishes have to be pretty and tasty? In Toca Kitchen 2 you can cook however you want! Juice tomatoes, boil the salad or make a burger. Come up with your very own recipes and treat your guests to something special.  MAKE A MESS With five different kitchen tools to choose from, you have the perfect setup for preparing fun foods! Load up with your favorite ingredients, add a squeeze of messiness and finish off with a pinch of weirdness_...
+
+### Toca Life: Hospital
+
+![Toca Life: Hospital](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/bf/14/5a/bf145aa4-4531-dd69-6125-3efbb9989609/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Toca Life: Hospital. The developer Toca Boca AB says the following about the app. _Experience the excitement of a busy medical center with Toca Life: Hospital! Welcome newborn babies into the world, treat sick patients and even say goodbye to loved ones. Toca Life: Hospital is a place where you can play out the joy and pain of life in your own way.  LIVE THE CIRCLE OF LIFE  THE BEGINNING Welcoming a new baby into the world can be a little scary and very exciting! Share in that excitement as we welcome newborn babies to Toca Life! Family members and medical staff can love and care for these tiny, swaddled cuties.   THE END Sometimes sad moments happen in hospitals, too. The farewell room in Toca Life: Hospital gives loved ones a chance to say goodbye in a peaceful setting_...
+
+### AnkiMobile Flashcards
+
+![AnkiMobile Flashcards](https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/46/d3/80/46d380f9-e5df-753f-dd9a-2244b0ceb789/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is AnkiMobile Flashcards. The developer Ankitects Pty Ltd says the following about the app. _AnkiMobile is a mobile companion to Anki, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.  AnkiMobile was written by the lead developer of Anki and AnkiWeb, and it has been around since 2010. Beware other apps using "Anki" in their name that have sprung up recently - they are not compatible with the rest of the Anki ecosystem, and they offer far fewer features.  Some of AnkiMobile's features include:  - A free cloud synchronization service that lets you keep your card content synchronized across multiple mobile a_...
+

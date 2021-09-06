@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Travel in September 2021
+subTitle: Top 5 Free iOS Apps in Travel and Reviews from the AppStore in September 2021.
+category: "top 5 free ios apps in travel"
+cover: main.png
+---
+
+### Uber - Request a ride
+
+![Uber - Request a ride](https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/5f/d5/f6/5fd5f6e1-405c-1d50-54cb-4d26d0ba093f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to Uber - Request a ride. The developer Uber Technologies, Inc. says the following about the app. _We’re committed to your safety at Uber. We’ve established a Door-to-Door Safety Standard to help you feel safe every time you ride.  And with Uber, your destination is at your fingertips. Just open the app and enter where you want to go, and a nearby driver will help you get there reliably.  FIND A RIDE FROM ALMOST ANYWHERE Request a ride from 600+ airports and in 10,000+ cities around the world, the Uber app is a great way to make your travel plans stress-free. Request a ride on demand or schedule one ahead of time.      FIND A RIDE TO ALMOST ANYWHERE Whether you’re looking for style, space, or affordability, Uber can help you find the perfect ride to fit your needs:  Enjoy elegance and pre_...
+
+### Lyft
+
+![Lyft](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/ba/3e/73/ba3e73ab-3d57-488f-aaf4-9a255c9c4d3c/PassengerAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Lyft. The developer Lyft, Inc. says the following about the app. _Count on Lyft to take you where you need to go with safety first. Got an appointment? Need to pick up some groceries? We’ll match you with a driver, help you find the quickest bus route, or show you the nearest scooter — you’ll be on your way in minutes. If it gets you there, it’s on the app.   USING LYFT IS EASY Choose your destination, find a ride in seconds, and pay directly in the app. It’s that simple.   YOUR WELL-BEING COMES FIRST We want to make sure every ride is as comfortable as it can be so that you can sit back and relax. With guidance from the CDC and local health officials, we’ve created health safety requirements to help protect everyone in the car_...
+
+### Hopper - Flight & Hotel Deals
+
+![Hopper - Flight & Hotel Deals](https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/4b/b4/09/4bb40927-9741-0522-684f-c97b3ba46282/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png)The next place is taken by Hopper - Flight & Hotel Deals. The developer Hopper says the following about the app. _Relax — booking travel just got easy.  Hopper predicts prices for flights and hotels, with 95% accuracy up to 1 year in advance. You can watch a trip right in the app and we’ll send you a notification when it’s the best time to buy — recommending you to book now, or maybe wait just a little longer.  We’ve helped over 30 million travelers book trips around the world, saving them more than $1.8 billion to date. That’s a saving of up to 40%.  Hopper features the major airlines in the US, Canada and around the world such as American Airlines, United Airlines, Delta Air Lines, JetBlue, Alaska Airlines, Air Canada, Frontier, Spirit Airlines, Hawaiian Airlines, Air Transat, WestJet, British Airways_...
+
+### Bird - Be Free, Enjoy the Ride
+
+![Bird - Be Free, Enjoy the Ride](https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/6b/18/06/6b1806a8-6a89-4b32-1f88-cc321c76b468/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Bird - Be Free, Enjoy the Ride. The developer Bird Rides, Inc. says the following about the app. _Bird gives you access to shared electric scooters and personal electric vehicles in 100+ locations worldwide. Whether you’re headed to work, class, or just need a breath of fresh air, Bird gets you to your destination with ease. No traffic, no pollution—just you, the open road, and a sustainable way to travel around the neighborhood. Be free. Enjoy the ride.  Use the Bird app to ride with our partners: Brum, Wolf, YoYoWay, Scroll, Skootel, Sherpa, EVIKES, Glow, and Lava.  HOW IT WORKS  Download the app, load up your account, and get ready to fly. You can also pay with your Bird app at local businesses in select locations.         •        Create your account        •        Find and scan a v_...
+
+### Lime - Your Ride Anytime
+
+![Lime - Your Ride Anytime](https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/d0/cf/a3d0cf8c-e3a0-bcaf-f300-f69393e6f00c/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Lime - Your Ride Anytime. The developer Neutron Holdings. Inc. says the following about the app. _Lime is your ideal carbon-free option for any trip, any time, anywhere.   Available in more than 150 cities globally, Lime is a leading provider of electric vehicles, including scooters, bikes and mopeds. Whether you’re commuting to work, running errands, riding with friends, or exploring a new city, Lime has an electric vehicle to meet any need, preference or comfort level.    HOW IT WORKS 	•	Download the app, create an account, accept our User Agreement, acknowledge you’ve read our Privacy Notice, and add a valid payment method 	•	Find a nearby Lime vehicle on the map (vehicle availability depends on your location and supply) 	•	Unlock your vehicle by scanning the QR code, entering the pla_...
+

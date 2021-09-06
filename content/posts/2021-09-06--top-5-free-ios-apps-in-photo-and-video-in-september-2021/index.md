@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Photo and Video in September 2021
+subTitle: Top 5 Free iOS Apps in Photo and Video and Reviews from the AppStore in September 2021.
+category: "top 5 free ios apps in photo and video"
+cover: main.png
+---
+
+### YouTube: Watch, Listen, Stream
+
+![YouTube: Watch, Listen, Stream](https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/73/4b/a9/734ba9ce-3372-d803-8959-da4edef8b3d4/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to YouTube: Watch, Listen, Stream. The developer Google LLC says the following about the app. _Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.  Watch and subscribe ● Browse personal recommendations on Home ● See the latest from your favorite channels in Subscriptions ● Look up videos you’ve watched, liked, and saved for later in Library  Explore different topics, what’s popular, and on the rise (available in select countries) ● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more ● See what’s trending on YouTube and_...
+
+### Snapchat
+
+![Snapchat](https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/95/72/1a/95721a37-521f-1c3f-65e0-271affdc15dd/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Snapchat. The developer Snap, Inc. says the following about the app. _Snapchat is a fast and fun way to share the moment with your friends and family  SNAP  • Snapchat opens right to the Camera — just tap to take a photo, or press and hold for video. • Express yourself with Lenses, Filters, Bitmoji and more!  • Try out new Lenses daily created by the Snapchat community!  CHAT  • Stay in touch with friends through live messaging, or share your day with Group Stories. • Video Chat with up to 16 friends at once — you can even use Lenses and Filters when chatting! • Express yourself with Friendmojis — exclusive Bitmoji made just for you and a friend.  STORIES • Watch friends' Stories to see their day unfold. • See Stories from the Snapchat community that are based_...
+
+### Instagram
+
+![Instagram](https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/73/ec/be/73ecbe74-7b33-a98b-048a-5c2d2cc9ceea/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Instagram. The developer Instagram, Inc. says the following about the app. _Bringing you closer to the people and things you love. — Instagram from Facebook  Connect with friends, share what you’re up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.  Express Yourself and Connect With Friends  * Add photos and videos to your story that disappear after 24 hours, and bring them to life with fun creative tools. * Message your friends with Messenger. Share and connect over what you see on Feed and Stories. * Create and discover short, entertaining videos on Instagram with Reels. * Post photos and videos to your feed that you want to show on_...
+
+### Fontmaker - Font Keyboard App
+
+![Fontmaker - Font Keyboard App](https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/55/77/08/5577085d-857e-6913-84f6-cbb863e6ada9/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)Then, we have Fontmaker - Font Keyboard App. The developer Mango Labs LLC says the following about the app. _Fontmaker is the first font maker keyboard app for iPhone to create your own font with handwriting and use it as a keyboard in iMessage, Instagram, Snapchat, Tiktok, Facebook and more to chat with your friends!  Use your own handwriting to chat with your friends to make it feel personal and intimate.  --  Subscription Details:  • Subscription length: 1 week • Fontmaker+ Subscription price: $4.99/week • Payment will be charged to iTunes Account at confirmation of purchase • Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period • Account will be charged for renewal within 24-hours prior to the end of the current period, and ide_...
+
+### CapCut - Video Editor
+
+![CapCut - Video Editor](https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/13/d9/bf/13d9bfb8-2b85-76b3-30f9-8e9183556229/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is CapCut - Video Editor. The developer Bytedance Pte. Ltd says the following about the app. _CapCut is a free all-in-one video editing app that helps you create incredible videos.   「Easy to use」 Cut, reverse and change speed: getting it just right is easier than ever, posting only your wonderful moments.   「High quality」 Advanced filters and flawless beauty effects open up a world of possibilities.  「Top Music Hits/Sounding incredible」 Tremendous music library and exclusive copyright songs.  「Stickers and text」 Top trending stickers and fonts let you fully express your videos.   「Effect」 Get creative with a range of magical effects.  Contact：capcut.support@bytedance_...
+
