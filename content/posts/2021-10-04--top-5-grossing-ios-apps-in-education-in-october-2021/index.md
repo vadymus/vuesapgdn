@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in October 2021
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in October 2021.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/6b/e1/a16be114-90fc-8766-c130-062c9744c929/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### Toca Life World: Build stories
+
+![Toca Life World: Build stories](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/83/5c/40/835c40d1-04f8-f730-9117-dadb36903510/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Toca Life World: Build stories. The developer Toca Boca AB says the following about the app. _Create your own world and play out any story you like with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Office, Hospital and more, all together in one place.   INTRODUCING TOCA LIFE WORLD Want to give grandma a wild hairstyle? Bring a sloth to the Skate Park? Or just hang out with friends? If you thought it was fun to dive into a Toca Life app and do whatever you want then you were right. Anything is possible and the choices are all yours.   Go even further by creating stories with your favorite characters in any location you want. Want to take a pet to School? Go for it. Take the doctor to the Salon and dye her hair green? Rock on_...
+
+### PictureThis - Plant Identifier
+
+![PictureThis - Plant Identifier](https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/79/43/6e/79436e3f-3946-6064-3ffa-157d8973dc0d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes PictureThis - Plant Identifier. The developer Glority Global Group Ltd. says the following about the app. _PictureThis® identifies 1,000,000+ plants every day with 98% accuracy-better than most human experts. Get your gardening questions answered and become a “green thumb” with PictureThis!  Encounter a beautiful, unknown flower during your walk?  Want to inspire your children?  Need advice on how to care for your plants?  Simply take a photo of the plant and PictureThis answers all the questions for you!  Our revolutionary artificial intelligence engine is constantly learning from experts and specialists - and now it’s all at your fingertips. Picture this plant, and discover a new appreciation for nature.  Key Features:  - Identify plants, flowers, and trees instantly with artificial intelligenc_...
+
+### Photomath
+
+![Photomath](https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/3c/56/cd/3c56cdc4-d20c-b290-18f9-02f4d5abef3f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.     We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solving methods per problem • Multi-functional scientific calculator  • Interactive graphs  MATH TOPICS COVERED • Basic Math/Pre-Algebra: arithmetic, integers, fractions, decimal numbers, powers, roots, fact_...
+
+### ClassDojo
+
+![ClassDojo](https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/4b/e3/82/4be382a7-6fde-9886-0398-ae624dcdc56f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)The next place is taken by ClassDojo. The developer ClassDojo, Inc. says the following about the app. _Ready to build an amazing classroom community?  ClassDojo is a beautiful, safe, and simple communication app for teachers, parents, and students.   * Teachers can encourage students for any skill, like “Working hard” and “Teamwork” * Teachers can bring parents into the classroom experience by sharing photos, videos, and announcements * Teachers can also safely and instantly message with any parent * Parents see their child’s updates at home, as well as a stream of photos and videos from school  ClassDojo helps teachers build a positive classroom culture by encouraging students and communicating with parents.  ClassDojo is free for everyone, and K-12 teachers, parents, students, and school le_...
+

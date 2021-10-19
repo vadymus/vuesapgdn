@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Utilities in October 2021
+subTitle: Top 5 Paid iOS Apps in Utilities and Reviews from the AppStore in October 2021.
+category: "top 5 paid ios apps in utilities"
+cover: main.png
+---
+
+### Shadowrocket
+
+![Shadowrocket](https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/96/63/ef/9663efcf-1d09-f651-a482-ac9320662e42/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.png)The first place is taken by Shadowrocket. The developer Shadow Launch Technology Limited says the following about the app. _Rule based proxy utility client for iPhone/iPad.  - Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server. - Record and display HTTP, HTTPS, DNS requests from your iOS devices. - Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup. - Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections. - Import rule files from URL or iCloud Drive. - Block ads by domain, user agent rules. - Local DNS Mapping. - Work on cellular networks. - Decrypt HTTPS traffic. - Perform URL rewrite. - Fully IPv6 supports. - Script filter supports. - Multi-level forward proxy_...
+
+### Noir - Dark Mode for Safari
+
+![Noir - Dark Mode for Safari](https://is5-ssl.mzstatic.com/image/thumb/Purple115/v4/c5/0a/d5/c50ad5a3-3709-8efd-74cf-473187e6d981/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)The second spot on a top list belongs to the app Noir - Dark Mode for Safari. The developer Jeffrey Kuiken says the following about the app. _Noir is a Safari extension that automatically adds a dark mode to every website you visit.  It makes browsing the web at night so much better. With Noir, you won’t be blinded by bright websites ever again.  And the results look great too. Noir generates a custom dark style for each website you visit, based on the colors that are used on a page. You won’t even notice this happening in the background – that’s how fast it it – but you’ll certainly appreciate the end result: a beautiful dark mode tailored for each website, where contrast is preserved and highlights still pop.  Noir works with any website you visit in Safari, automatically. By default, Noir is linked to your device’s Dark Mode, s_...
+
+### Tome of D2
+
+![Tome of D2](https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/42/ae/76/42ae7658-78f1-2547-7fc4-cb5f44bd19ce/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Tome of D2. The developer Alexander Sommerville says the following about the app. _Tome of Diablo II (formerly Runeword Helper Pro) has everything you need to know about Diablo 2. Now updated for D2: Resurrected!  -- New: Trading - Post your loot!  -- Runewords - searchable and filterable) -- Runeword Calculator - Input the runes you have see what runewords you can or can almost make -- Drop Calculator - calculate the exact chance of any item dropping -- Attack Speed Calculator - Calculate exactly how much IAS you need to hit the breakpoints. -- Run / Walk calculator -- Area levels & Act maps -- Mercenaries - Skills, Aura Levels, Level up Stats etc -- Horadric Cube - Easily find that one cube recipe you can never quite remember -- Breakpoints - FHR, FCR, FBR breakpoints fo_...
+
+### Necrophonic
+
+![Necrophonic](https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/a2/01/ac/a201acf4-6129-b8dd-6a3d-9fad284bf752/AppIcon-1x_U007emarketing-0-85-220-0-8.png/100x100bb.png)Next comes Necrophonic. The developer chris rogers says the following about the app. _Necrophonic is an ITC app used for spirit communication and EVP research.  8 Sounds Banks:  The audio has been mastered in a way to bring out various sound properties .  Using Pro Tools I was able to enhance high, mid, and low range frequencies. I also applied  other filters to create unique sound characteristics to help layer the audio and create an  environment suitable for spirit communication.  The audio itself is made up of phonemes,  partial words, reverse audio, foreign languages, and other parts of speech that can help  spirits communicate. Besides some basic phonetic sounds such as na, no, da, do, di, ma, may, etc. there are no real words of phrases contained in the banks_...
+
+### Construction Master Pro Calc
+
+![Construction Master Pro Calc](https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/b3/fe/90/b3fe90b7-3cad-055f-6577-7dae9cb345dd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Construction Master Pro Calc. The developer Calculated Industries says the following about the app. _Save time and reduce costly errors on all your jobs with the award-winning and industry-leading Construction Master® Pro feet-inch-fraction builder's calculator!   For over 30 years the Calculated Industries Construction Master handheld calculator has been the trusted go-to tool by top carpenters and framers all across North America and beyond.  As an app for your phone or tablet it is ideal for busy Architects, Builders, Contractors, Designers, Engineers, Framers/Carpenters and Tradesmen of every specialty -- Anyone who works with dimensions who is interested in improving speed, accuracy and productivity.  You’ll actually get two apps in one, since the Construction Master Pro for iPhone has_...
+

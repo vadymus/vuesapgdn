@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Productivity in October 2021
+subTitle: Top 5 Paid iOS Apps in Productivity and Reviews from the AppStore in October 2021.
+category: "top 5 paid ios apps in productivity"
+cover: main.png
+---
+
+### Screen Mirroring + for Roku
+
+![Screen Mirroring + for Roku](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/ae/56/11/ae561131-9842-84d5-e12f-16051684deef/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to Screen Mirroring + for Roku. The developer Kraus und Karnath GbR 2Kit Consulting says the following about the app. _Screen Mirroring+ for Roku is the easy mirror app to share your iPhone or iPad screen on your Roku Streaming Player, Roku Stick or Roku TV. It's the most advanced screen mirroring solution with zero delay and the highest screen quality.  Mirror photos, videos, games, websites, apps, presentations, documents and spreadsheets on Roku.  * Supported Roku TVs: Hisense, Sharp, TCL, Insignia, Hitachi, Philips, Element, JVC  * Your iPhone/iPad and your Roku must be connected to the same wifi to enable screen mirroring. Please do not use VPN, Proxy, VLANS and Subnets.  * Latency is supreme (below 1 second) when you have good wifi network conditions  * No hidden subscriptions or costs  * Sound is not _...
+
+### Forest - Your Focus Motivation
+
+![Forest - Your Focus Motivation](https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/59/4c/6c/594c6cb2-3189-154a-b202-712e50cfca33/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Forest - Your Focus Motivation. The developer SEEKRTECH CO., LTD. says the following about the app. _Can't stop scrolling? Have trouble focusing? Use Forest, a must-have gamified timer which helps you beat procrastination and boost productivity!  #Top paid productivity app in 157 countries.  #More than 40 millions users around the world.  #Over 1,000,000 real trees were planted on Earth by our users.  "Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you."— The New York Times  Plant a seed in Forest when you need to put down your phone and stay focused to get things done. As you stay focused, this seed will gradually grow into a tree_...
+
+### GoodNotes 5
+
+![GoodNotes 5](https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/56/b7/9b/56b79b20-4c62-c725-f113-5695c45b85b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have GoodNotes 5. The developer Time Base Technology Limited says the following about the app. _Transform your iPad into smart digital paper. Take handwritten notes in digital notebooks, on imported PDF, PowerPoint, and Word documents, or on images and photos. All notes are searchable and you'll never have to worry about losing or misplacing them again. GoodNotes is one of the top paid iPad apps worldwide and is frequently featured on the App Store, making it a must-have for your iPad.   WRITE NATURALLY - LIKE ON REAL PAPER * Fluent, precise, and completely natural writing experience thanks to GoodNotes pioneering vector ink engine * Write with the Apple Pencil, Logitech Crayon, or with many capacitive styluses and even your finger * Select and customize your pen color, thickness, and _...
+
+### Notability
+
+![Notability](https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/6f/98/4e6f983f-0daf-b442-5581-9d6cc06087aa/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/100x100bb.png)Next on the list is Notability. The developer Ginger Labs says the following about the app. _Welcome to Notability: powerful, yet wonderfully simple note-taking and PDF annotation.  Apple Editors' Choice on iPad, iPhone, and Mac!  Top selling paid app on iPad App Store, regularly ranked #1.  Students, teachers, and business professionals use Notability daily to enrich their lives. It is uniquely designed for each device to provide the best note-taking experience at school, home, and work.   CREATE MEMORABLE MULTI-MEDIA NOTES  • Work with a variety of note-taking, journaling, and drawing tools like ink, highlighter, text, and audio.   • Explore endless ideas with continuous page scroll.   • Mark up imported textbooks, documents, lecture slides, class assignments, and images_...
+
+### PLANBELLA - Planner App
+
+![PLANBELLA - Planner App](https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/a4/2b/99/a42b995d-bd18-16d1-97a6-b718047c4d1a/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)The next place is taken by PLANBELLA - Planner App. The developer Netzinkubator Software GmbH says the following about the app. _A minimal and modern calendar app with an exceptional design. A digital version of your bullet journal where you can organize events, tasks, and notes.  Features - enjoy an elegant and eye-pleasing design - plan appointments and set up a stylish agenda - write daily to-do lists and mark tasks as completed - take notes for every day and create a diary - set reminders for important events, tasks or notes - synchronize with other calendars - add highlights to significant calendar entries - save time with recurrence options - add widgets to your home screen - create backups - no sign-in or registration necessary_...
+

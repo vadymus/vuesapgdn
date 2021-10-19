@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Navigation in October 2021
+subTitle: Top 5 Paid iOS Apps in Navigation and Reviews from the AppStore in October 2021.
+category: "top 5 paid ios apps in navigation"
+cover: main.png
+---
+
+### CDOT Colorado Road Conditions
+
+![CDOT Colorado Road Conditions](https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/9e/d5/4f/9ed54f9b-6d74-c189-2118-6003c7f98ede/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by CDOT Colorado Road Conditions. The developer LW Brands, LLC says the following about the app. _The best way to view CDOT traffic alerts, road conditions and travel information.  CDOT TRAFFIC INCIDENTS:  + Traffic collisions, advisories, hazards  + Weather / wind advisory  + Heavy traffic  + Road closure  + Chain control  + Road work  + Fire activity  CCTV CAMERAS Create customized groups of CCTV cameras for viewing traffic on your route. This feature gives users a quick way of assessing road and traffic conditions.  PUSH NOTIFICATIONS Track CDOT incidents and receive Push Notifications when new updates are available. The app also sends notifications when an incident is no longer being tracked by CDOT. This feature is critical for staying up-to-date on road closures due to accidents_...
+
+### MilGPS
+
+![MilGPS](https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/06/14/68/0614685b-b5b8-2cfe-c2ca-d7520f8c1f06/AppIcon-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png)The second place belongs to MilGPS. The developer Cascode Labs Pty Ltd says the following about the app. _MilGPS is an MGRS/USNG focused premium navigation tool trusted by soldiers, search and rescue personnel and other professional navigators around the world. View your current location and navigate to a waypoint in seconds. Or plan and organize your navigation using the powerful and intuitive mapping and overlay capabilities.  FEATURES Display your current location in real time - Cell phone signal not required but will make location fixes faster (maps require a data connection) - Military Grid Reference System (MGRS) & United States National Grid (USNG) (4, 6 8 10 figure grid references supported) - Universal Transverse Mercator (UTM) - Latitude/Longitude (degrees, degrees and minutes, degrees_...
+
+### Sun Seeker - Tracker & Compass
+
+![Sun Seeker - Tracker & Compass](https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/b2/14/f1/b214f1e5-4172-0e02-9d67-c256e1e4a798/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Sun Seeker - Tracker & Compass. The developer ozPDA says the following about the app. _Sunseeker is a comprehensive solar tracking & compass app. It shows the sun’s hourly direction intervals, its equinox, winter & summer solstice paths, sunrise sunset times, twilight times, sun shadow, the golden hour & more. The app allows you to add sun-event notifications & has a widget showing the day’s solar data & position on an arc. The surveyor view shows the solar direction for each sunlight hour. Sunseeker has both a flat compass view & a 3D Augmented Reality (AR) view to show the solar position & path.  The app is useful for -   ▶ Photographers- to plan according to the golden hour or blue hour & optimal sunlight conditions, sunrise & sunset times & directions_...
+
+### iNavX: Marine Navigation
+
+![iNavX: Marine Navigation](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/d8/91/1c/d8911cc0-adcc-4d3a-58eb-ec5c2787f76e/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is iNavX: Marine Navigation. The developer NavX Studios LLC says the following about the app. _Marine navigation is made easy with iNavX - the world's #1 handheld Chartplotter. Access marine charts, maps, weather, AIS and more!   iNavX is the only app to give you complete worldwide chart coverage, from all your favorite charts providers, including C-MAP! Fully enabled with one-touch access, iNavX gives users access to the broadest set of marine charts and maps from multiple providers including:  • C-MAP • Blue Latitude • Explorer  • Theyr Weather  • Waterway Guide • … and more  How does iNavX take handheld marine navigation to the next level? • Sailors -  Plan sailing routes with waypoint and route management. Get proactive sail management with GRIB weather forecasts and then keep wat_...
+
+### Land Nav Assistant
+
+![Land Nav Assistant](https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f7/6f/7a/f76f7a4e-bb5a-0484-ac08-cd1aa7e0d3d4/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/100x100bb.png)Rolling up next is Land Nav Assistant. The developer Gammon Applications says the following about the app. _Land Nav Assistant accepts MGRS (Military Grid) or Latitude / Longitude coordinates and visually navigates you to each point.  This app was designed with Army, Marine, and other military personnel in mind. Use it to correct your Land Nav technique by analyzing your pace count and tendency to veer left and right.  Available Input: 8 digit MGRS, 10 digit MGRS, Lat/Lon decimal, Lat/Lon dms, and map input.  Angles: degrees or mils Distance: meters/km or feet/miles Speed: kph or mph  Use the simple arrow interface or map to direct you to your locations. Your distance, direction, speed, and bearing are shown as you navigate.  Long-tap anywhere on the map to get the coordinate for that location_...
+
