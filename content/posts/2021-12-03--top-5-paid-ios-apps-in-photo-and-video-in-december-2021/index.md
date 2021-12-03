@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Photo and Video in December 2021
+subTitle: Top 5 Paid iOS Apps in Photo and Video and Reviews from the AppStore in December 2021.
+category: "top 5 paid ios apps in photo and video"
+cover: main.png
+---
+
+### TouchRetouch
+
+![TouchRetouch](https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/42/73/3b/42733ba2-4c02-c465-3f21-04dbb3acb436/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to TouchRetouch. The developer ADVA Soft GmbH says the following about the app. _“…there's no easier way to remove unwanted items from your images...” — The Guardian “It's in my Top 5 "must have" photo apps.” — Michał Koralewski, Photographer of the Year 2015, IPPAwards “TouchRetouch is a terrific ‘remover’.” — Life In LoFi   TouchRetouch is an app that offers you all the tools you need to efficiently remove unwanted content from your iPhone photos.  What magic can you do with TouchRetouch?  • Remove telephone wires and posts, power lines • Remove surface breaks and scratches — both straight and curved • Remove photobombers • Remove pimples and skin blemishes • Remove human-made objects like stop lights, street signs, trash cans • Remove whatever you feel is spoiling you_...
+
+### Facetune
+
+![Facetune](https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/96/36/41/963641f7-44ee-84b7-73eb-831a899087e2/AppIcon-1x_U007emarketing-0-3-0-85-220.png/100x100bb.png)The second spot on a top list belongs to the app Facetune. The developer Lightricks Ltd. says the following about the app. _Facetune 2 is now available on the App Store!  • "Facetune helps you look your Hollywood best, even in photos taken on mobile phones." - Roy Furchgott, The NY Times •  Facetune is a fun and powerful portrait & selfie photo editor! •  #1 Photo and Video App in 127 countries!                       Professional photographers and graphic designers constantly photoshop models to perfection, and now so can you! Without the expensive price tag or complicated tools, Facetune gives you the ability to retouch and add artistic flair to selfies and portraits with ease, from the convenience of your iPhone.  Praises about Facetune: • "Facetune helps you look your Holl_...
+
+### Screen Mirroring+ for Fire TV
+
+![Screen Mirroring+ for Fire TV](https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/33/fa/97/33fa97c1-41d5-b8b6-91df-8c78d644a87c/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Screen Mirroring+ for Fire TV. The developer Kraus und Karnath GbR 2Kit Consulting says the following about the app. _Screen Mirroring+ for Fire TV is the easy screen mirror app to share your iPhone or iPad screen on your Fire TV. It's the most advanced screen mirroring solution with zero delay and the highest screen quality.  Mirror photos, videos, games, websites, apps, presentations, documents and spreadsheets on Fire TV.  * Supported Fire TVs: Fire TV Box+Stick, Fire TV Cube and all other devices of the Fire TV Family.  * Supported TVs: Insignia TV and Toshiba TV with Fire TV Edition  * Your iPhone/iPad and your Fire TV must be connected to the same wifi to enable screen mirroring. Please do not use VPN, Proxy, VLANS and Subnets.  * Latency is supreme (below 1 second) when you have good wifi network con_...
+
+### Screen Mirroring+ App
+
+![Screen Mirroring+ App](https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/25/be/5c25be4f-dc54-6754-2879-04661e3d11e9/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Screen Mirroring+ App. The developer Kraus und Karnath GbR 2Kit Consulting says the following about the app. _Mirror your iPhone or iPad screen to any device in your local Wifi or remote via Internet. Share your screen on a Smart TV, Mac, PC, Laptop, Gaming Console, Smartphone or Tablet.  The Screen Mirroring App can connect to any Web Browser and cast your screen with zero delay in HD quality. Screen Mirroring over DLS / Cable / Internet is supported by Safari, Chrome, Firefox, Opera, Edge and the newest Smart TVs.  This is the easiest and most powerful screen sharing tool. Share your photos, videos, games, websites, apps, presentations and documents with your friends and family, even to remote places.  * Supported devices: Any device with an integrated Web Browser, e.g_...
+
+### FILCA - SLR Film Camera
+
+![FILCA - SLR Film Camera](https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/ef/68/9cef68aa-3e4f-204f-faae-44c55e131f31/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)Next comes FILCA - SLR Film Camera. The developer Cheol Kim says the following about the app. _Filca is a camera that combines digital camera and film sensitivity.  High quality silent shooting function, professional manual operation Leave the best moments in your photos.  ■ Manual mode for shutter speed, ISO, white balance control ■ 35mm film filters from Kodak, Fuji, Agfa  It is optimized for taking snapshots. Take pictures of people, self-portraits, night scenes and all the moments of everyday sports. Use filters to create an analog film look.  main function : - Automatic mode camera with 35mm film filter - Manual mode (Exposer and Focus) - Fully manual control shutter speed, ISO - Aspect ratio 4: 3, 3: 2, 16: 9, 1: 1 - Digital zoom 8x (up to 8x magnification) - Manual Focus Focus _...
+

@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Productivity in December 2021
+subTitle: Top 5 Paid iOS Apps in Productivity and Reviews from the AppStore in December 2021.
+category: "top 5 paid ios apps in productivity"
+cover: main.png
+---
+
+### Forest - Your Focus Motivation
+
+![Forest - Your Focus Motivation](https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/20/88/5e/20885e04-a7e6-4195-d346-62da599b56b6/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winning spot belongs to Forest - Your Focus Motivation. The developer SEEKRTECH CO., LTD. says the following about the app. _Can't stop scrolling? Have trouble focusing? Use Forest, a must-have gamified timer which helps you beat procrastination and boost productivity!  #Top paid productivity app in 157 countries.  #More than 40 millions users around the world.  #Over 1,000,000 real trees were planted on Earth by our users.  "Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you."— The New York Times  Plant a seed in Forest when you need to put down your phone and stay focused to get things done. As you stay focused, this seed will gradually grow into a tree_...
+
+### Screen Mirroring + for Roku
+
+![Screen Mirroring + for Roku](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/ae/56/11/ae561131-9842-84d5-e12f-16051684deef/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Screen Mirroring + for Roku. The developer Kraus und Karnath GbR 2Kit Consulting says the following about the app. _Screen Mirroring+ for Roku is the easy mirror app to share your iPhone or iPad screen on your Roku Streaming Player, Roku Stick or Roku TV. It's the most advanced screen mirroring solution with zero delay and the highest screen quality.  Mirror photos, videos, games, websites, apps, presentations, documents and spreadsheets on Roku.  * Supported Roku TVs: Hisense, Sharp, TCL, Insignia, Hitachi, Philips, Element, JVC  * Your iPhone/iPad and your Roku must be connected to the same wifi to enable screen mirroring. Please do not use VPN, Proxy, VLANS and Subnets.  * Latency is supreme (below 1 second) when you have good wifi network conditions  * No hidden subscriptions or costs  * Sound is not _...
+
+### GoodNotes 5
+
+![GoodNotes 5](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/88/63/94/886394d0-67fb-ee37-ead2-d8e20f91c104/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is GoodNotes 5. The developer Time Base Technology Limited says the following about the app. _Transform your iPad into smart digital paper. Take handwritten notes in digital notebooks, on imported PDF, PowerPoint, and Word documents, or on images and photos. All notes are searchable and you'll never have to worry about losing or misplacing them again. GoodNotes is one of the top paid iPad apps worldwide and is frequently featured on the App Store, making it a must-have for your iPad.   WRITE NATURALLY - LIKE ON REAL PAPER * Fluent, precise, and completely natural writing experience thanks to GoodNotes pioneering vector ink engine * Write with the Apple Pencil, Logitech Crayon, or with many capacitive styluses and even your finger * Select and customize your pen color, thickness, and _...
+
+### Site Audit Pro
+
+![Site Audit Pro](https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/3e/29/5c/3e295c8b-52a5-eea5-584d-3ac854faac59/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Site Audit Pro. The developer Veam Studios Ltd says the following about the app. _‘The fastest way to audit on the go’  Site Audit Pro helps thousands of businesses worldwide improve their productivity by making audits and inspections quicker to carry out and easier to manage. Whether performing a safety inspection, snagging issues, creating a punch list, or providing a quotation, Site Audit Pro will help you collate and share your findings on the go with customised Reports to add a personal and professional touch.      FEATURES  - Record Issues with an Image, add a Title, Assignee and Comments. - Annotate Images to highlight important information. - Organise Issues into Projects, adding site and client details specific to each Project_...
+
+### QuickBend: Conduit Bending
+
+![QuickBend: Conduit Bending](https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/27/83/e7/2783e795-395e-cbbd-2a4f-cf8e069cf2ac/AppIcon-1-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes QuickBend: Conduit Bending. The developer Bret Hardman says the following about the app. _QuickBend is the quickest and most accurate conduit bending calculator app.  QuickBend is an advanced conduit bending calculator that was created to be fast and accurate while being visually appealing, innovative, and intuitive. Offering you the most accurate measurements using the center-line radius algorithm based upon the bender that you're using.   Easily select between different types of benders and choose the size of the shoe and conduit type that you're using. The last bender that you selected will be the bender that appears when you open the app up again. See and edit your bender's information (Center-line Radius, Deduct, Gain, Setback, Travel, and Radius Adjustment) within the 'Bend_...
+

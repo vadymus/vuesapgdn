@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in December 2021
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in December 2021.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/7c/e8/5b/7ce85ba5-5865-157f-4c94-1404f2f3897b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winner of the battle is Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### Toca Life World: Build stories
+
+![Toca Life World: Build stories](https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/af/45/2f/af452f31-65d5-b2a8-0365-2355f2b31237/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Toca Life World: Build stories. The developer Toca Boca AB says the following about the app. _Create your own world and play out any story you like with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Office, Hospital and more, all together in one place.   INTRODUCING TOCA LIFE WORLD Want to give grandma a wild hairstyle? Bring a sloth to the Skate Park? Or just hang out with friends? If you thought it was fun to dive into a Toca Life app and do whatever you want then you were right. Anything is possible and the choices are all yours.   Go even further by creating stories with your favorite characters in any location you want. Want to take a pet to School? Go for it. Take the doctor to the Salon and dye her hair green? Rock on_...
+
+### Chegg Study - Homework Help
+
+![Chegg Study - Homework Help](https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/37/3e/60/373e60ca-34f2-3a4a-eb8c-e3fa0ee9ec28/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)Rolling up next is Chegg Study - Homework Help. The developer Chegg, Inc. says the following about the app. _With the Chegg Study® app, get personalized support for each of your courses—from homework to exams.  Used by millions of students, Chegg Study app helps you:   • Learn your courses inside-out  Tap into our massive library of millions of fully explained, step-by-step Textbook Solutions for subjects including Math, Business, Physics, Engineering, Chemistry, and more. Get homework help for 80 subjects and hundreds of courses. Chegg has you covered for your toughest classes and assignments.  • Get expert help, 24/7  Snap a photo of any homework question and submit it to our Chegg experts. You’ll get a detailed answer in as little as 30 minutes.*   Understand tough concepts with detailed explana_...
+
+### Photomath
+
+![Photomath](https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/50/d6/30/50d6301d-4af1-7f17-1581-fc58f1ed4b3b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.     We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solving methods per problem • Multi-functional scientific calculator  • Interactive graphs  MATH TOPICS COVERED • Basic Math/Pre-Algebra: arithmetic, integers, fractions, decimal numbers, powers, roots, fact_...
+
+### Mathway: Math Problem Solver
+
+![Mathway: Math Problem Solver](https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/45/c2/b5/45c2b56e-c7b3-f1ec-0c81-a19c72a02cd5/AppIcon-1x_U007emarketing-0-4-85-220.png/100x100bb.png)Next comes Mathway: Math Problem Solver. The developer Mathway, LLC says the following about the app. _With millions of users and billions of problems solved, Mathway is the world's #1 math problem solver. From basic algebra to complex calculus, Mathway instantly solves your most difficult math problems - simply type your problem in (or point your camera and snap a pic!) to receive instant free answers.  Need detailed step-by-step solutions? Mathway is like a private tutor in the palm of your hand, providing instant homework help anywhere, anytime.  Mathway covers all levels of math, including: • Basic Math/Pre-Algebra (arithmetic, integers, fractions, decimal numbers, roots, factors, and more...) • Algebra (linear equations/inequalities, quadratic equations/inequalities, absolute equations/i_...
+
