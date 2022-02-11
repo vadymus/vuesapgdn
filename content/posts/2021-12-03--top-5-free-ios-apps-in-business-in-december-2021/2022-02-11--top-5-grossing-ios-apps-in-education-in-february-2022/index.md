@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in February 2022
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in February 2022.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/82/80/44828058-7237-f644-6fce-a3c57731f09a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place is taken by Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### Photomath
+
+![Photomath](https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/2c/60/d52c6079-99c6-c779-c169-b037f192a8b4/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png)The second spot on a top list belongs to the app Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.     We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solving methods per problem • Multi-functional scientific calculator  • Interactive graphs  MATH TOPICS COVERED • Basic Math/Pre-Algebra: arithmetic, integers, fractions, decimal numbers, powers, roots, fact_...
+
+### Toca Life World: Build stories
+
+![Toca Life World: Build stories](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/a9/d3/cfa9d329-d143-33a1-3f8d-8e16eb04028a/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Toca Life World: Build stories. The developer Toca Boca AB says the following about the app. _Create your own world and play out any story you like with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Office, Hospital and more, all together in one place.   INTRODUCING TOCA LIFE WORLD Want to give grandma a wild hairstyle? Bring a sloth to the Skate Park? Or just hang out with friends? If you thought it was fun to dive into a Toca Life app and do whatever you want then you were right. Anything is possible and the choices are all yours.   Go even further by creating stories with your favorite characters in any location you want. Want to take a pet to School? Go for it. Take the doctor to the Salon and dye her hair green? Rock on_...
+
+### Chegg Study - Homework Help
+
+![Chegg Study - Homework Help](https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/40/fe/ee/40feeef2-8624-1ecd-40c9-1c7151491d3e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)Next comes Chegg Study - Homework Help. The developer Chegg, Inc. says the following about the app. _With the Chegg Study® app, get personalized support for each of your courses—from homework to exams.  Used by millions of students, Chegg Study app helps you:   • Learn your courses inside-out  Tap into our massive library of millions of fully explained, step-by-step Textbook Solutions for subjects including Math, Business, Physics, Engineering, Chemistry, and more. Get homework help for 80 subjects and hundreds of courses. Chegg has you covered for your toughest classes and assignments.  • Get expert help, 24/7  Snap a photo of any homework question and submit it to our Chegg experts. You’ll get a detailed answer in as little as 30 minutes.*   Understand tough concepts with detailed explana_...
+
+### Babbel - Language Learning
+
+![Babbel - Language Learning](https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/01/4c/38/014c383a-7327-90e4-06fc-983b0a68b535/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Babbel - Language Learning. The developer Babbel GmbH says the following about the app. _Millions of people are learning languages with Babbel — the language app built by language experts. Why Babbel? Our short, interactive lessons rethink old-school language education to get you speaking a new language with confidence!   BABBEL WORKS:  • Efficacy backed by researchers at Yale University:  100% of study participants improved their oral proficiency in 3 months*  • After 10 hours with Babbel, Michigan State University researchers found: 96% of learners saw better test scores on grammar and vocabulary 73% of study participants became better speakers**  ====================  Our language experts build every language course tailored to your native language_...
+

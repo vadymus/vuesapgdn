@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Travel in January 2022
+subTitle: Top 5 Grossing iOS Apps in Travel and Reviews from the AppStore in January 2022.
+category: "top 5 grossing ios apps in travel"
+cover: main.png
+---
+
+### My Disney Experience
+
+![My Disney Experience](https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/b6/8c/3b/b68c3b4d-1b51-f360-c358-27a87cd86f59/AppIcon-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png)The winner of the battle is My Disney Experience. The developer Disney says the following about the app. _The official Walt Disney World® app! Now it’s easier than ever to plan and share your vacation details—at home and on the go.  - Make your theme park visit easier and more fun by taking advantage of our complimentary new Disney Genie service, which grants you a personalized itinerary that seamlessly maps out your special day with updates that continue during your visit.  - Create your very own personal Tip Board to track wait times for your favorite experiences, make dining reservations, mobile order food from select locations and more. - Quickly access current estimated wait times and forecasted wait times for attractions, park hours, Character Greetings, showtimes and more_...
+
+### Planes Live - Flight Tracker
+
+![Planes Live - Flight Tracker](https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/bc/6f/2ebc6f81-3ba4-b0f8-b746-0cbafd1f286b/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)The second spot on a top list belongs to the app Planes Live - Flight Tracker. The developer Weather or Not Apps, LLC says the following about the app. _Planes Live Free is a simple yet powerful flight tracking tool that lets you watch the planes online all over the world and get up-to-date information on flights instantly! Track the flights of your family members or beloved ones as if you were traveling with them and find the best time to pick them up at the airport.  Whether you are a professional pilot or an aviation enthusiast, you'll definitely appreciate our flight tracker - the simple, clean and informative interface coupled with powerful functionality!  FEATURES  * Track planes and biplanes online all over the world * Get notified about the flight schedule changes with handy alerts: be aware of the flight status, canceled flights, ne_...
+
+### Flightradar24 | Flight Tracker
+
+![Flightradar24 | Flight Tracker](https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/13/74/42/13744260-721a-c279-324e-ea14a59a5ada/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Flightradar24 | Flight Tracker. The developer Flightradar24 AB says the following about the app. _The world's best flight tracker app - #1 Travel app in over 150 countries.  Turn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.  •Watch aircraft move around the world in real-time •Identify flights overhead & see flight information—including a photo of the actual aircraft—by simply pointing your device at the sky  •See what the pilot of an aircraft sees in 3D  •Tap on a plane for flight details such as route_...
+
+### Disneyland®
+
+![Disneyland®](https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/a8/29/d6/a829d6f5-f9cd-4226-973f-3fcf06042281/AppIcon-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png)The next place is taken by Disneyland®. The developer Disney says the following about the app. _Download the official app for the Disneyland® Resort! Enhance your next visit with an enchanting mobile experience. Buy your tickets, use the complimentary Disney Genie service planning tool, browse maps, locate Disney Characters appearing throughout the parks and much more! * Make your theme park visit easier and more fun by taking advantage of our complimentary new Disney Genie service, which grants you a personalized itinerary that seamlessly maps out your special day with updates that continue during your visit. * Create your very own personal Tip Board to track estimated wait times for your favorite experiences and more. * Quickly access current estimated wait times and forecasted wait _...
+
+### Airside Mobile Passport
+
+![Airside Mobile Passport](https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/ea/03/57/ea035764-0d4e-9544-10d4-8ebf44b41411/AppIcon_release-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next on the list is Airside Mobile Passport. The developer Airside Mobile LLC says the following about the app. _Airside Mobile Passport enables U.S. and Canadian passport holders to streamline the international customs process at most major U.S. airports and cruise ports! Trusted by over 9M people, use the app to securely submit passports and CBP questions and access designated lanes in the inspection area.  Mobile Passport plus ($14.99/year or $4.99/month) provides even greater convenience with features to digitally scan and store passports and keep a record of your trip history. “... makes clearing US customs a breeze.” - CNBC “... the best-kept secret in air travel.” - Washington Post “... the godsend you need.” - Forbes  How it works: 1. Download the free app_...
+

@@ -1,0 +1,27 @@
+---
+title: Top 5 Paid iOS Apps in Productivity in February 2022
+subTitle: Top 5 Paid iOS Apps in Productivity and Reviews from the AppStore in February 2022.
+category: "top 5 paid ios apps in productivity"
+cover: main.png
+---
+
+### GoodNotes 5
+
+![GoodNotes 5](https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/bc/a1d8bc53-7fbf-aeef-7337-81a44b76d003/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/100x100bb.png)The winning spot belongs to GoodNotes 5. The developer Time Base Technology Limited says the following about the app. _Take beautiful, searchable handwritten notes with the note-taking app that turns your iPad into digital paper. See why GoodNotes is Editors’ Choice. Download now and unlock on all platforms. Available on the iPad, Mac, and iPhone.   WRITE - BETTER THAN REAL PAPER • Enjoy a fluent, precise, and completely natural writing experience thanks to GoodNotes pioneering vector ink engine. • Select and customize your pen color, thickness, pressure sensitivity, and style (fountain pen, ball pen, brush pen, and highlighter). • Write with the Apple Pencil, Logitech Crayon, or other capacitive styluses. • Convert your handwriting to text in the same page or share it with other apps_...
+
+### Screen Mirroring + for Roku
+
+![Screen Mirroring + for Roku](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/ae/56/11/ae561131-9842-84d5-e12f-16051684deef/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place is taken by Screen Mirroring + for Roku. The developer Kraus und Karnath GbR 2Kit Consulting says the following about the app. _Screen Mirroring+ for Roku is the easy mirror app to share your iPhone or iPad screen on your Roku Streaming Player, Roku Stick or Roku TV. It's the most advanced screen mirroring solution with zero delay and the highest screen quality.  Mirror photos, videos, games, websites, apps, presentations, documents and spreadsheets on Roku.  * Supported Roku TVs: Hisense, Sharp, TCL, Insignia, Hitachi, Philips, Element, JVC  * Your iPhone/iPad and your Roku must be connected to the same wifi to enable screen mirroring. Please do not use VPN, Proxy, VLANS and Subnets.  * Latency is supreme (below 1 second) when you have good wifi network conditions  * No hidden subscriptions or costs  * Sound is not _...
+
+### Forest - Your Focus Motivation
+
+![Forest - Your Focus Motivation](https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/2e/c7/08/2ec708d8-3468-a5a0-9133-7c5917473ef4/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Forest - Your Focus Motivation. The developer SEEKRTECH CO., LTD. says the following about the app. _Can't stop scrolling? Have trouble focusing? Use Forest, a must-have gamified timer which helps you beat procrastination and boost productivity!  #Top paid productivity app in 157 countries.  #More than 40 millions users around the world.  #Over 1,000,000 real trees were planted on Earth by our users.  "Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you."— The New York Times  Plant a seed in Forest when you need to put down your phone and stay focused to get things done. As you stay focused, this seed will gradually grow into a tree_...
+
+### Things 3
+
+![Things 3](https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/02/c6/94/02c69462-e21b-66df-51e8-893ceecdf514/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have Things 3. The developer Cultured Code GmbH & Co. KG says the following about the app. _Get things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.  Best of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.  “Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delightful interface that never gets in the way of your work.” —Wirecutter, The New York Times   KEY FEATURES  • Your To-Dos Your basic building block is the almighty To-Do—each a small step toward a great a_...
+
+### Ugly's Electrical References
+
+![Ugly's Electrical References](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/24/28/47/24284786-1cde-34c4-7410-2b6d1e3bca8d/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/100x100bb.png)The next place is taken by Ugly's Electrical References. The developer Informed Publishing says the following about the app. _Featuring new menu designs the Ugly's Electrical References App 2020 has been updated to reflect changes to the 2020 National Electrical Code (NEC) and the 2020 Edition of our popular Ugly’s Electrical References book. The Ugly’s 2020 App offers the most pertinent, up-to-date digital information for electricians, including table change information, mathematical formulas; National Electrical Manufacturers Association (NEMA) wiring configurations; a conduit bending guide with videos, ampacity and conduit fill information, transformer and control circuit wiring diagrams, and conversion tables.   The 2020 Edition: •	Reflects changes to the 2020 NEC •	New look and updated menu icons •	Improved de_...
+

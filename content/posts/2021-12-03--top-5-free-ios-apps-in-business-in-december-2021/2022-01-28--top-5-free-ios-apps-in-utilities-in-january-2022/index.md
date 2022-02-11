@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Utilities in January 2022
+subTitle: Top 5 Free iOS Apps in Utilities and Reviews from the AppStore in January 2022.
+category: "top 5 free ios apps in utilities"
+cover: main.png
+---
+
+### Google
+
+![Google](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/36/b3/0f36b360-b2db-d685-5226-59c0eaafb8c0/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/100x100bb.png)The first place is taken by Google. The developer Google LLC says the following about the app. _Get fast access to Google Search with the new Google home screen widget built for iOS 14. The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests, and stay up to date with Discover. The more you use the Google app, the better it gets.  More ways to access Google: • Google Search widget — Search from your home screen with the new Google widget built for iOS 14. Choose from 2 widgets, giving you a quick search bar in both sizes, and shortcuts to choose how you Search with Lens, Voice, and Incognito in the medium size widget. • Google Lens — Search with your camera, copy and translate text, find similar apparel, identify plants and animal_...
+
+### Google Chrome
+
+![Google Chrome](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/98/59/0a9859a8-e1be-3e70-8a0d-696863776031/AppIcon-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/100x100bb.png)The second place belongs to Google Chrome. The developer Google LLC says the following about the app. _Browse fast on your iPhone and iPad with the Google Chrome browser you love on desktop. Pick up where you left off on your other devices, search by voice, and easily read webpages in any language.  • SYNC ACROSS DEVICES - seamlessly access and open tabs and bookmarks from your laptop, phone or tablet • FASTER BROWSING - choose from search results that instantly appear as you type and quickly access previously visited pages • VOICE SEARCH - use the magic of Google voice search to find answers on-the-go without typing • TRANSLATE - easily read webpages in any language • UNLIMITED TABS - open as many tabs as your heart desires and quickly flip through them like a deck of cards • PRIVACY - use I_...
+
+### Phone Cleaner−Clean Storage
+
+![Phone Cleaner−Clean Storage](https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/1a/cc/cc/1accccd9-1099-00e4-22d0-64f2c511e28a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Phone Cleaner−Clean Storage. The developer Smart Tool Studio says the following about the app. _Best duplicate photo cleaner to delete duplicate & similar photos & free up space. Fast & Easy! 100% accurate results. Include file preview & undo option. Try Now!  Quickly clean up your iphone in 1-Click! What’s more, our app supports Battery & Storage Widgets!   Cleaner Key features:  ◆ SUPER CLEANER ◆ -Clean duplicate photos & videos  -Clean similar photos -Quickly remove useless videos by different types  -Merge duplicate contacts by name, number, email -Delete incomplete contacts -Backup contacts -Battery widgets to check the battery state easily -Storage widgets to check the storage easily -Photo widgets to stylish your homescreen  ◆ SUBSCRIPTION TERMS ◆  Tittle：One Year- Super Cleaner_...
+
+### TV Remote - Universal Control
+
+![TV Remote - Universal Control](https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/01/e6/bc/01e6bceb-01e5-62a9-100b-23a7d36cdeaa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have TV Remote - Universal Control. The developer EVOLLY.APP says the following about the app. _The universal remote control app for all Smart TVs. It helps you to control your TV smoothly from your phone.  Main features: - Auto detect smart TV on the same WIFI network.  - Work with most popular TVs. - A large touchpad for menu and content navigation - Launching of channels directly from the application - Fast & easy keyboard  *** Upgrade to Premium to remove ads and unlock all features***  You can choose one-time payment or a yearly subscription. (with 3-day free trial)  – Payment will be charged to iTunes Account at confirmation of purchase (After free trial period if offered). – Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the_...
+
+### Google Authenticator
+
+![Google Authenticator](https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/02/ba/25/02ba25a2-5214-49e5-f4ed-effc5cbce78c/logo_authenticator_color-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png)Then, we have Google Authenticator. The developer Google LLC says the following about the app. _Google Authenticator works with 2-Step Verification for your Google Account to provide an additional layer of security when signing in.  With 2-Step Verification, signing into your account will require both your password and a verification code you can generate with this app. Once configured, you can get verification codes without the need for a network or cellular connection.  Features include: - Automatic setup via QR code - Support for multiple accounts - Support for time-based and counter-based code generation - Transfer accounts between devices via QR code  To use Google Authenticator with Google, you need to enable 2-Step Verification on your Google Account. Visit http://www.google_...
+

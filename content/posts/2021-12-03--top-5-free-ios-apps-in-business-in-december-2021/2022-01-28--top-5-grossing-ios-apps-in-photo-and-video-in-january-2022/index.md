@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Photo and Video in January 2022
+subTitle: Top 5 Grossing iOS Apps in Photo and Video and Reviews from the AppStore in January 2022.
+category: "top 5 grossing ios apps in photo and video"
+cover: main.png
+---
+
+### YouTube: Watch, Listen, Stream
+
+![YouTube: Watch, Listen, Stream](https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/2f/a7/cb2fa7a8-a886-52a3-1049-bbf85e17af95/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to YouTube: Watch, Listen, Stream. The developer Google LLC says the following about the app. _Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.  Watch and subscribe ● Browse personal recommendations on Home ● See the latest from your favorite channels in Subscriptions ● Look up videos you’ve watched, liked, and saved for later in Library  Explore different topics, what’s popular, and on the rise (available in select countries) ● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more ● See what’s trending on YouTube and_...
+
+### Google Photos
+
+![Google Photos](https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/8f/96/86/8f968621-b124-3f3d-3323-74fa3a3162f0/logo_photos_color-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png)The second place is taken by Google Photos. The developer Google LLC says the following about the app. _Google Photos is a smarter home for all your photos and videos, made for the way you take photos today.  “The best photo product on Earth” – The Verge “Google Photos is your new essential picture app” – Wired “Upload the pictures, and let Google Photos do the rest” – The New York Times  • FREE UP SPACE: Never worry about running out of space on your phone again. Photos that are safely backed up can be removed from your device’s storage in just a tap.  • VISUAL SEARCH: Your photos are now searchable by the people, places and things in them—no tagging required.  • SMARTER SHARING: With smart sharing suggestions, giving your friends the photos you took of them is painless_...
+
+### Canva: Design, Photo & Video
+
+![Canva: Design, Photo & Video](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/45/c6/9c/45c69ca8-9fb2-5ad2-4003-4bdc7a622841/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Canva: Design, Photo & Video. The developer Canva says the following about the app. _Canva makes design amazingly simple (and fun)! Create stunning designs with your photos and videos — even if you’re not a design expert!  Whether you need an Instagram story, logo, or birthday invitation, create all these and more on Canva. Available on your iPhone, iPad, and computer so you can jump back into your design anytime, anywhere.  HOW TO USE CANVA 1. Start from scratch or a ready-to-use design Create a design with our blank canvas, or save time when you use any of our 60,000 FREE templates created by professional designers.  2. Add text on photos Easily add quotes or multiple text to photos. Change the font (we've got 700+ options!), size, color, spacing, and position.  3_...
+
+### Picsart Photo & Video Editor
+
+![Picsart Photo & Video Editor](https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/66/fc/a1/66fca1bf-5a9e-e21e-f2e0-7ff659e37cf8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Picsart Photo & Video Editor. The developer PicsArt, Inc. says the following about the app. _Join the Picsart community of over 150 million creators around the world. With the Picsart photo editor and video editor, you can bring your creativity to life. Make professional-level collages, design and add stickers, quickly remove and swap backgrounds, try popular edits like Golden Hour, Mirror Selfies, and retro VHS or Y2K filters. Picsart is your go-to, all-in-one editor with all the tools you need to give your content a personal flair and make it stand out.  Picsart Features:  PHOTO EDITOR • Try trending filters for pictures and popular photo effects • Use the Background Eraser to erase and replace backgrounds • Clean up pictures and remove unwanted objects with the Remove Object tool_...
+
+### Facetune2 Editor by Lightricks
+
+![Facetune2 Editor by Lightricks](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/c6/bb/5ac6bb0f-c06a-23ba-32b3-357af66f708b/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png)Next on the list is Facetune2 Editor by Lightricks. The developer Lightricks Ltd. says the following about the app. _Want to look amazing in every selfie you take? Facetune2, by Lightricks, is an easy-to-use photo editor that acts as your own personal glam squad. Get that Insta-worthy picture every time!  Facetune2 is the next generation of the award-winning Facetune app, complete with a new, amazing collection of the best pro retouching features. Get a Hollywood look or a more natural result with the best makeup and beauty editing app on the market! There’s super advanced technology behind every fun, powerful and easy-to-use tool. In only a few swipes, you can whiten teeth, remove blemishes & pimples, smooth out skin, correct bad lighting, contour faces, upgrade your makeup – and add glitter and glamour! _...
+

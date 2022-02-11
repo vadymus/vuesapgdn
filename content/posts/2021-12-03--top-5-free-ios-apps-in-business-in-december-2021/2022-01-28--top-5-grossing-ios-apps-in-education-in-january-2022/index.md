@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Education in January 2022
+subTitle: Top 5 Grossing iOS Apps in Education and Reviews from the AppStore in January 2022.
+category: "top 5 grossing ios apps in education"
+cover: main.png
+---
+
+### Duolingo - Language Lessons
+
+![Duolingo - Language Lessons](https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/da/d2/9edad2e7-6b88-b422-18d7-73c10bb56423/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to Duolingo - Language Lessons. The developer Duolingo says the following about the app. _Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.   Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.  Whether you’re learning a language for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.  Why Duolingo? • Duolingo is fun and effective. Game-like lessons and fun characters help you buil_...
+
+### Toca Life World: Build stories
+
+![Toca Life World: Build stories](https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3b/12/4b3b12fc-15ab-fce6-dfc2-35395d084c19/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app Toca Life World: Build stories. The developer Toca Boca AB says the following about the app. _Create your own world and play out any story you like with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Office, Hospital and more, all together in one place.   INTRODUCING TOCA LIFE WORLD Want to give grandma a wild hairstyle? Bring a sloth to the Skate Park? Or just hang out with friends? If you thought it was fun to dive into a Toca Life app and do whatever you want then you were right. Anything is possible and the choices are all yours.   Go even further by creating stories with your favorite characters in any location you want. Want to take a pet to School? Go for it. Take the doctor to the Salon and dye her hair green? Rock on_...
+
+### Photomath
+
+![Photomath](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/18/7b/c2/187bc240-91e8-dd76-aa4e-de6183d43166/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.png)Then, we have Photomath. The developer Photomath, Inc. says the following about the app. _Learn math, check homework and study for upcoming tests and ACTs/SATs with the most used math learning app in the world! Got tricky homework or class assignments? Get unstuck ASAP with our step-by-step explanations and animations.     We’ve got you covered from basic arithmetic to advanced calculus and geometry. You CAN do math!   KEY FEATURES • Word problem explanations! • Free to use • Step-by-step explanations for every solution  • Exclusive how-to animations • Scroll through multiple solving methods per problem • Multi-functional scientific calculator  • Interactive graphs  MATH TOPICS COVERED • Basic Math/Pre-Algebra: arithmetic, integers, fractions, decimal numbers, powers, roots, fact_...
+
+### Babbel - Language Learning
+
+![Babbel - Language Learning](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4e/38/96/4e3896ce-719b-1ddd-282a-f8618a4134e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Babbel - Language Learning. The developer Babbel GmbH says the following about the app. _Millions of people are learning languages with Babbel — the language app built by language experts. Why Babbel? Our short, interactive lessons rethink old-school language education to get you speaking a new language with confidence!   BABBEL WORKS:  • Efficacy backed by researchers at Yale University:  100% of study participants improved their oral proficiency in 3 months*  • After 10 hours with Babbel, Michigan State University researchers found: 96% of learners saw better test scores on grammar and vocabulary 73% of study participants became better speakers**  ====================  Our language experts build every language course tailored to your native language_...
+
+### Chegg Study - Homework Help
+
+![Chegg Study - Homework Help](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/21/56/d0/2156d0bc-e854-504a-fe23-690355c51728/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.png)The next place is taken by Chegg Study - Homework Help. The developer Chegg, Inc. says the following about the app. _With the Chegg Study® app, get personalized support for each of your courses—from homework to exams.  Used by millions of students, Chegg Study app helps you:   • Learn your courses inside-out  Tap into our massive library of millions of fully explained, step-by-step Textbook Solutions for subjects including Math, Business, Physics, Engineering, Chemistry, and more. Get homework help for 80 subjects and hundreds of courses. Chegg has you covered for your toughest classes and assignments.  • Get expert help, 24/7  Snap a photo of any homework question and submit it to our Chegg experts. You’ll get a detailed answer in as little as 30 minutes.*   Understand tough concepts with detailed explana_...
+
