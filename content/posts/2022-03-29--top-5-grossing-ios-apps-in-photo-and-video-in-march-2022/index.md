@@ -1,0 +1,27 @@
+---
+title: Top 5 Grossing iOS Apps in Photo and Video in March 2022
+subTitle: Top 5 Grossing iOS Apps in Photo and Video and Reviews from the AppStore in March 2022.
+category: "top 5 grossing ios apps in photo and video"
+cover: main.png
+---
+
+### YouTube: Watch, Listen, Stream
+
+![YouTube: Watch, Listen, Stream](https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/30/6c/c8/306cc8fd-bd77-ef89-5352-2d4352fff94a/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The winner of the battle is YouTube: Watch, Listen, Stream. The developer Google LLC says the following about the app. _Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.  Watch and subscribe ● Browse personal recommendations on Home ● See the latest from your favorite channels in Subscriptions ● Look up videos you’ve watched, liked, and saved for later in Library  Explore different topics, what’s popular, and on the rise (available in select countries) ● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more ● See what’s trending on YouTube and_...
+
+### Canva: Design, Photo & Video
+
+![Canva: Design, Photo & Video](https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/23/cb/d3/23cbd3f6-9fe2-1bdf-7a0c-9b2a50b090ef/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second place belongs to Canva: Design, Photo & Video. The developer Canva says the following about the app. _Canva is your photo editor, video editor and graphic design tool all in the one app. Create stunning social media posts, videos, cards, flyers, photo collages & more. Stand out with one-tap animations and fun music for Insta stories and video collages.   No design experience or expertise? No problem! From photo editor to collage maker, to logo maker – we made Canva really simple & easy - now everyone can design  FREE TEMPLATES – endless creative possibilities • Start inspired with thousands of customizable templates • Playful Facebook posts, Insta layouts, Instagram post maker, IG Story, & mood boards • Professionally-designed invitations, flyers, gift certificates, etc_...
+
+### Google Photos
+
+![Google Photos](https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/d2/39/01/d23901f0-aa00-5f47-9181-97a85d348e4f/logo_photos_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/100x100bb.png)Next comes Google Photos. The developer Google LLC says the following about the app. _Google Photos is a smarter home for all your photos and videos, made for the way you take photos today.  “The best photo product on Earth” – The Verge “Google Photos is your new essential picture app” – Wired “Upload the pictures, and let Google Photos do the rest” – The New York Times  • FREE UP SPACE: Never worry about running out of space on your phone again. Photos that are safely backed up can be removed from your device’s storage in just a tap.  • VISUAL SEARCH: Your photos are now searchable by the people, places and things in them—no tagging required.  • SMARTER SHARING: With smart sharing suggestions, giving your friends the photos you took of them is painless_...
+
+### Facetune2 Editor by Lightricks
+
+![Facetune2 Editor by Lightricks](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/19/a1/f7/19a1f72c-4a73-97bf-6a7d-aa6a2db23b84/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png)Next comes Facetune2 Editor by Lightricks. The developer Lightricks Ltd. says the following about the app. _Want to look amazing in every selfie you take? Facetune2, by Lightricks, is an easy-to-use photo editor that acts as your own personal glam squad. Get that Insta-worthy picture every time!  Facetune2 is the next generation of the award-winning Facetune app, complete with a new, amazing collection of the best pro retouching features. Get a Hollywood look or a more natural result with the best makeup and beauty editing app on the market! There’s super advanced technology behind every fun, powerful and easy-to-use tool. In only a few swipes, you can whiten teeth, remove blemishes & pimples, smooth out skin, correct bad lighting, contour faces, upgrade your makeup – and add glitter and glamour! _...
+
+### Twitch: Live Game Streaming
+
+![Twitch: Live Game Streaming](https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/e4/65/c8e465c8-1600-7daf-28c5-68e2fa245828/TwitchAppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Next comes Twitch: Live Game Streaming. The developer Twitch Interactive, Inc. says the following about the app. _Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.  Catch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.  Twitch: TOP 3 FEATURES  1. Watch live videos of your favorite games, from blockbuster titles like Minecraft and League of Legends to little-known indie gems.  2. Connect with other gamers in real time with full-featured live chat. 3. Go live with a touch and share your passion with the world!  Be a par_...
+

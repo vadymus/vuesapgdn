@@ -1,0 +1,27 @@
+---
+title: Top 5 Free iOS Apps in Photo and Video in March 2022
+subTitle: Top 5 Free iOS Apps in Photo and Video and Reviews from the AppStore in March 2022.
+category: "top 5 free ios apps in photo and video"
+cover: main.png
+---
+
+### TravelBoast: My Journey Routes
+
+![TravelBoast: My Journey Routes](https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/73/31/cd733165-b759-3dab-284e-8c1fb4efec9e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The first place belongs to TravelBoast: My Journey Routes. The developer ALEXSANDR KUZNETSOV says the following about the app. _Do you like to travel and do you have Instagram? Excellent! This app will help you to create awesome posts and stories about your travels for your Instagram profile!  It's really simple. Choose transport, enter your route, press the START button, and enjoy a fun animation of your trip. Share your trips with your friends in the language of video maps.  Show off the interesting trips you've taken to your friends and post them on social media.   -Create your own unique trip routes. -Choose any transport and hit the road.  -Save the results as a video. -Send videos to your friends or post them on social media.  80 unique means of transport await you, including real and imaginary ones_...
+
+### YouTube: Watch, Listen, Stream
+
+![YouTube: Watch, Listen, Stream](https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/30/6c/c8/306cc8fd-bd77-ef89-5352-2d4352fff94a/logo_youtube_color-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The second spot on a top list belongs to the app YouTube: Watch, Listen, Stream. The developer Google LLC says the following about the app. _Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.  Watch and subscribe ● Browse personal recommendations on Home ● See the latest from your favorite channels in Subscriptions ● Look up videos you’ve watched, liked, and saved for later in Library  Explore different topics, what’s popular, and on the rise (available in select countries) ● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more ● See what’s trending on YouTube and_...
+
+### Instagram
+
+![Instagram](https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/5b/69/cd5b6944-a2c2-b662-914c-f001299ab238/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)The next place is taken by Instagram. The developer Instagram, Inc. says the following about the app. _Bringing you closer to the people and things you love. — Instagram from Meta  Connect with friends, share what you’re up to, or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.  Express Yourself and Connect With Friends  * Add photos and videos to your story that disappear after 24 hours, and bring them to life with fun creative tools. * Message your friends with Messenger. Share and connect over what you see on Feed and Stories. * Create and discover short, entertaining videos on Instagram with Reels. * Post photos and videos to your feed that you want to show on you_...
+
+### Snapchat
+
+![Snapchat](https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/18/b0/8c/18b08c4a-8e12-809c-729c-c93baf74548b/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Rolling up next is Snapchat. The developer Snap, Inc. says the following about the app. _Snapchat is a fast and fun way to share the moment with your friends and family  SNAP  • Snapchat opens right to the Camera — just tap to take a photo, or press and hold for video. • Express yourself with Lenses, Filters, Bitmoji and more!  • Try out new Lenses daily created by the Snapchat community!  CHAT  • Stay in touch with friends through live messaging, or share your day with Group Stories. • Video Chat with up to 16 friends at once — you can even use Lenses and Filters when chatting! • Express yourself with Friendmojis — exclusive Bitmoji made just for you and a friend.  STORIES • Watch friends' Stories to see their day unfold. • See Stories from the Snapchat community that are based_...
+
+### CapCut - Video Editor
+
+![CapCut - Video Editor](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/06/59/5a0659d4-3692-69a9-7969-ce19655a1eca/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png)Then, we have CapCut - Video Editor. The developer Bytedance Pte. Ltd says the following about the app. _CapCut is a free all-in-one video editing app that helps you create incredible videos.   「Easy to use」 Cut, reverse and change speed: getting it just right is easier than ever, posting only your wonderful moments.   「High quality」 Advanced filters and flawless beauty effects open up a world of possibilities.  「Top Music Hits/Sounding incredible」 Tremendous music library and exclusive copyright songs.  「Stickers and text」 Top trending stickers and fonts let you fully express your videos.   「Effect」 Get creative with a range of magical effects.  Contact：capcut.support@bytedance_...
+
